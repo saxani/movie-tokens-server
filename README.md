@@ -28,6 +28,4 @@ This uses the following:
 
 The entry point to the server is at `./index.js`. In the first version of this, films that are now playing are saved to the 'now_playing' folder, rather than reloading constantly. Scraped showtimes for Seattle are in the 'showtimes' folder for 5 of the major films in theatres.
 
-The client side is located in `/client/`. The entry to the mobile app is 'App.js' which then uses a navigator to point to the different screens in the (you guessed it) 'screens' folder.
-
 ---
