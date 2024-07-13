@@ -1,0 +1,1408 @@
+{
+  "search_metadata": {
+    "id": "668c1ae747ccf1cadc76d648",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2680361d4ade22e5/668c1ae747ccf1cadc76d648.json",
+    "created_at": "2024-07-08 16:59:19 UTC",
+    "processed_at": "2024-07-08 16:59:19 UTC",
+    "google_url": "https://www.google.com/search?q=A+Quiet+Place%3A+Day+One+theater&oq=A+Quiet+Place%3A+Day+One+theater&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2680361d4ade22e5/668c1ae747ccf1cadc76d648.html",
+    "total_time_taken": 1.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "A Quiet Place: Day One theater",
+    "location_requested": "Seattle, Washington, United States",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "A Quiet Place: Day One theater",
+    "total_results": 250000000,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "TodayJul 8",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry906lp-_BGsQ_-JSfn8DtOg9N_hRuGVzC5nvbrkAzc3FkDa15BKkhCE1yY7xG95Xe_w0EhUOn&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARAL",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:00am",
+                "12:00pm",
+                "1:00pm",
+                "1:50pm",
+                "2:50pm",
+                "3:45pm",
+                "4:35pm",
+                "5:40pm",
+                "6:25pm",
+                "7:15pm",
+                "8:30pm",
+                "9:10pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmQiegQzCv6LCL-ysG0SweqCAt_W-ohiap550FIHsM1FNYjnS8%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARAa",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "12:15pm",
+                "2:45pm",
+                "4:00pm",
+                "5:15pm",
+                "7:00pm",
+                "8:00pm",
+                "9:40pm",
+                "10:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARAl",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6q66rSw-4HZKmidPJkuk-hpQBiXgrHDCeAq6vK9IYkychc3l38%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARAq",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:30pm", "8:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtGbr6dsK22VSG3KEFhOfXCRgPFFGHe2RlVZ1x5uxkB9hsDVYks%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARAw",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:00pm", "6:40pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsDYCCs7FZwdCmXIlhUf0uL44jj4IXOalN_aZcKt-wAaFCclwSbvCdJO9R3HpbERQtoZkgY4&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQySZ6BQiBARA2",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:45pm", "2:45pm", "5:15pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1QzJlfTsb-07sp7mxkk0MUQjdHHL7xkxdqB5tmY9_a4RU-prKtoapZhSKBOSniIZl5N8eiJ7",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "12:45pm",
+                "2:25pm",
+                "3:20pm",
+                "6:00pm",
+                "7:30pm",
+                "8:35pm",
+                "10:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VQYc5i__4cuggIVXxWwEcRGK6kmbVLMofenthrlcYs3zEUhiuuqYC0Obg2TUsZm7nKj5yX",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "12:15pm",
+                "2:15pm",
+                "2:50pm",
+                "5:00pm",
+                "5:30pm",
+                "7:45pm",
+                "8:10pm",
+                "10:30pm",
+                "10:55pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdqQIYC6a8jw24FxeCmKoH40salB2Gpxa2IXHVdCJOnD34RxLkk%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["12:00pm", "2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOaA_80apo2RIftWwK8dbD_sakDcO80e68MEcoYrvjtQfM2OE58%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:40am",
+                "1:15pm",
+                "2:20pm",
+                "3:50pm",
+                "5:15pm",
+                "6:40pm",
+                "7:50pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["9:05pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLwFzIKg0V1s4DRxckhY6DkKNTvVpvWxrlc25Fo4eY6HipMopc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "11:15am",
+                "1:00pm",
+                "4:50pm",
+                "6:45pm",
+                "7:45pm",
+                "9:15pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCgjc1VkJIniTYGx_t5ap-h58xo4DmpHzFCuYCBb4NLQGpN3YrU%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:40pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKZyMUCK5425-0nEdYg1t1ZbNvFNGVFie2-Go7DYeL8vxvm1FhU%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["11:30am", "2:05pm", "4:50pm", "7:30pm", "10:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Acn1lqC6ZqgJT11XxHA8rHg_0oZhMgP4bU3mSm2zb0tIS4TI9hsVFkTCRdxlQh8J0GnkXUDB",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": [
+                "12:50pm",
+                "3:30pm",
+                "4:00pm",
+                "6:10pm",
+                "6:45pm",
+                "9:00pm",
+                "9:35pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "TueJul 9",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry906lp-_BGsQ_-JSfn8DtOg9N_hRuGVzC5nvbrkAzc3FkDa15BKkhCE1yY7xG95Xe_w0EhUOn",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:10am",
+                "1:00pm",
+                "1:50pm",
+                "3:45pm",
+                "4:35pm",
+                "5:40pm",
+                "6:25pm",
+                "7:15pm",
+                "8:30pm",
+                "9:10pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmQiegQzCv6LCL-ysG0SweqCAt_W-ohiap550FIHsM1FNYjnS8%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "2:30pm",
+                "4:00pm",
+                "5:15pm",
+                "7:00pm",
+                "8:00pm",
+                "9:45pm",
+                "10:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6q66rSw-4HZKmidPJkuk-hpQBiXgrHDCeAq6vK9IYkychc3l38%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:30pm", "8:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtGbr6dsK22VSG3KEFhOfXCRgPFFGHe2RlVZ1x5uxkB9hsDVYks%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:00pm", "6:40pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsDYCCs7FZwdCmXIlhUf0uL44jj4IXOalN_aZcKt-wAaFCclwSbvCdJO9R3HpbERQtoZkgY4",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:45pm", "2:45pm", "5:15pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1QzJlfTsb-07sp7mxkk0MUQjdHHL7xkxdqB5tmY9_a4RU-prKtoapZhSKBOSniIZl5N8eiJ7",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "12:45pm",
+                "2:25pm",
+                "3:20pm",
+                "6:00pm",
+                "7:30pm",
+                "8:35pm",
+                "10:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VQYc5i__4cuggIVXxWwEcRGK6kmbVLMofenthrlcYs3zEUhiuuqYC0Obg2TUsZm7nKj5yX",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "8:45am",
+                "9:55am",
+                "11:30am",
+                "12:40pm",
+                "2:15pm",
+                "3:15pm",
+                "5:00pm",
+                "5:55pm",
+                "7:45pm",
+                "8:35pm",
+                "10:30pm",
+                "11:10pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdqQIYC6a8jw24FxeCmKoH40salB2Gpxa2IXHVdCJOnD34RxLkk%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["12:00pm", "2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOaA_80apo2RIftWwK8dbD_sakDcO80e68MEcoYrvjtQfM2OE58%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:40am",
+                "2:20pm",
+                "3:50pm",
+                "6:40pm",
+                "7:50pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["9:05pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["5:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLwFzIKg0V1s4DRxckhY6DkKNTvVpvWxrlc25Fo4eY6HipMopc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "11:15am",
+                "1:00pm",
+                "4:50pm",
+                "6:45pm",
+                "9:15pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCgjc1VkJIniTYGx_t5ap-h58xo4DmpHzFCuYCBb4NLQGpN3YrU%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:40pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKZyMUCK5425-0nEdYg1t1ZbNvFNGVFie2-Go7DYeL8vxvm1FhU%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["11:30am", "2:05pm", "7:25pm", "10:05pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Acn1lqC6ZqgJT11XxHA8rHg_0oZhMgP4bU3mSm2zb0tIS4TI9hsVFkTCRdxlQh8J0GnkXUDB",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["4:00pm", "6:10pm", "6:45pm", "9:00pm", "9:35pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "WedJul 10",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry906lp-_BGsQ_-JSfn8DtOg9N_hRuGVzC5nvbrkAzc3FkDa15BKkhCE1yY7xG95Xe_w0EhUOn",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:10am",
+                "1:00pm",
+                "1:50pm",
+                "2:50pm",
+                "3:45pm",
+                "4:35pm",
+                "5:40pm",
+                "6:25pm",
+                "7:15pm",
+                "8:30pm",
+                "9:10pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmQiegQzCv6LCL-ysG0SweqCAt_W-ohiap550FIHsM1FNYjnS8%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "12:15pm",
+                "2:45pm",
+                "4:00pm",
+                "5:15pm",
+                "7:00pm",
+                "8:00pm",
+                "9:40pm",
+                "10:30pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6q66rSw-4HZKmidPJkuk-hpQBiXgrHDCeAq6vK9IYkychc3l38%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:30pm", "8:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtGbr6dsK22VSG3KEFhOfXCRgPFFGHe2RlVZ1x5uxkB9hsDVYks%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:00pm", "6:40pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsDYCCs7FZwdCmXIlhUf0uL44jj4IXOalN_aZcKt-wAaFCclwSbvCdJO9R3HpbERQtoZkgY4",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:45pm", "2:45pm", "5:15pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1QzJlfTsb-07sp7mxkk0MUQjdHHL7xkxdqB5tmY9_a4RU-prKtoapZhSKBOSniIZl5N8eiJ7",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "12:45pm",
+                "2:25pm",
+                "3:20pm",
+                "5:00pm",
+                "6:00pm",
+                "8:35pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VQYc5i__4cuggIVXxWwEcRGK6kmbVLMofenthrlcYs3zEUhiuuqYC0Obg2TUsZm7nKj5yX",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "8:45am",
+                "9:55am",
+                "11:30am",
+                "12:40pm",
+                "2:15pm",
+                "3:15pm",
+                "5:00pm",
+                "5:55pm",
+                "7:45pm",
+                "8:35pm",
+                "10:30pm",
+                "11:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdqQIYC6a8jw24FxeCmKoH40salB2Gpxa2IXHVdCJOnD34RxLkk%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["12:00pm", "2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOaA_80apo2RIftWwK8dbD_sakDcO80e68MEcoYrvjtQfM2OE58%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "2:20pm",
+                "3:50pm",
+                "5:10pm",
+                "6:40pm",
+                "7:50pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["9:05pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLwFzIKg0V1s4DRxckhY6DkKNTvVpvWxrlc25Fo4eY6HipMopc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "11:15am",
+                "1:15pm",
+                "4:50pm",
+                "6:45pm",
+                "9:15pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCgjc1VkJIniTYGx_t5ap-h58xo4DmpHzFCuYCBb4NLQGpN3YrU%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:40pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKZyMUCK5425-0nEdYg1t1ZbNvFNGVFie2-Go7DYeL8vxvm1FhU%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["11:30am", "2:05pm", "4:45pm", "7:25pm", "10:05pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Acn1lqC6ZqgJT11XxHA8rHg_0oZhMgP4bU3mSm2zb0tIS4TI9hsVFkTCRdxlQh8J0GnkXUDB",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": [
+                "3:30pm",
+                "4:00pm",
+                "6:10pm",
+                "7:20pm",
+                "9:00pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "ThuJul 11",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry906lp-_BGsQ_-JSfn8DtOg9N_hRuGVzC5nvbrkAzc3FkDa15BKkhCE1yY7xG95Xe_w0EhUOn",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:00am",
+                "12:00pm",
+                "1:00pm",
+                "2:50pm",
+                "3:45pm",
+                "5:40pm",
+                "6:25pm",
+                "8:30pm",
+                "9:10pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmQiegQzCv6LCL-ysG0SweqCAt_W-ohiap550FIHsM1FNYjnS8%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm", "10:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6q66rSw-4HZKmidPJkuk-hpQBiXgrHDCeAq6vK9IYkychc3l38%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:30pm", "8:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtGbr6dsK22VSG3KEFhOfXCRgPFFGHe2RlVZ1x5uxkB9hsDVYks%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:00pm", "6:40pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ark Lodge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Ark+Lodge+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_1ZICEqK3YhcUg4D6TMTW-O_Uijd-dWFPLh868KGmhlA4Nh4ADYnaY26_vt_BZq0VltDYWyhaKtKHeZuu1WAAzK0ThczmYbmVj8CY90X6SANsCKoPgiuvjo_FWYIG-wh3ag1riy30agDEpgzdbOViK3__M8BGYGhvw_P3hLBwud5_sHrZ0SS_lfq3lmSjw-HQ_eMcgxN_aEg1ZewwxeREyUazIg",
+          "distance": "4.0 mi",
+          "address": "4816 Rainier Avenue South, Seattle, WA 98118",
+          "showing": [
+            {
+              "time": ["4:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOaA_80apo2RIftWwK8dbD_sakDcO80e68MEcoYrvjtQfM2OE58%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:40am",
+                "1:15pm",
+                "2:20pm",
+                "3:50pm",
+                "6:40pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["9:05pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCgjc1VkJIniTYGx_t5ap-h58xo4DmpHzFCuYCBb4NLQGpN3YrU%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["3:45pm", "6:40pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKZyMUCK5425-0nEdYg1t1ZbNvFNGVFie2-Go7DYeL8vxvm1FhU%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["11:10am", "1:45pm", "4:30pm", "7:10pm", "9:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Acn1lqC6ZqgJT11XxHA8rHg_0oZhMgP4bU3mSm2zb0tIS4TI9hsVFkTCRdxlQh8J0GnkXUDB",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["12:15pm", "4:00pm", "6:45pm", "9:35pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "FriJul 12",
+      "theaters": [
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "SatJul 13",
+      "theaters": [
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "SunJul 14",
+      "theaters": [
+        {
+          "name": "SIFF Cinema Downtown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=SIFF+Cinema+Downtown&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L9FKvd046lNt-wE8ylmNAbfq5IDYw0z0rccOnTT4THM4zfizfyWwMdpTvafyaobNIzju2V1e9mcI8T64IOeCnNKvH2tL9w9vJC4WlrTvWwearRMKO4CLOGciVxmyezLqy2-uV9qCmlWtbVEsJYxa3llhbPyliyhqG1isCvALNhu1OmChi60eyKWPO249QNmBSeOzNbU%3D",
+          "distance": "0.7 mi",
+          "address": "2100 4th Avenue, Seattle, WA 98121",
+          "showing": [
+            {
+              "time": ["2:30pm", "5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs_results": {
+    "location": "Watch movieEDIT SERVICES"
+  },
+  "knowledge_graph": {
+    "title": "A Quiet Place: Day One",
+    "type": "PG-13 2024 ‧ Horror/Sci-fi ‧ 1h 39m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Overview",
+    "kgmid": "/g/11t26znyvn",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11t26znyvn&hl=en-US&q=A+Quiet+Place:+Day+One&kgs=2505ace7f3f07455&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11t26znyvn&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One",
+    "tabs": [
+      {
+        "text": "Showtimes",
+        "si": "ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I50kVi6VlIIHmseMc0MFUnEBEz1bh5X1Uk_13EW2yHmy4OJmXQ==",
+        "link": "https://www.google.com/search?si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I50kVi6VlIIHmseMc0MFUnEBEz1bh5X1Uk_13EW2yHmy4OJmXQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I50kVi6VlIIHmseMc0MFUnEBEz1bh5X1Uk_13EW2yHmy4OJmXQ%3D%3D"
+      },
+      {
+        "text": "Cast",
+        "si": "ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zwbCsnocAUeAJVDuCKRft83M2YYiESpR-M5-hrTGSLgJlmVOXIZBj9twq5NpjsuiTIdHgo-HIW1CUO7u725IpfyC_25A==",
+        "link": "https://www.google.com/search?si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zwbCsnocAUeAJVDuCKRft83M2YYiESpR-M5-hrTGSLgJlmVOXIZBj9twq5NpjsuiTIdHgo-HIW1CUO7u725IpfyC_25A==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zwbCsnocAUeAJVDuCKRft83M2YYiESpR-M5-hrTGSLgJlmVOXIZBj9twq5NpjsuiTIdHgo-HIW1CUO7u725IpfyC_25A%3D%3D"
+      },
+      {
+        "text": "Watch movie",
+        "si": "ACC90nyWGV5dNbmFXA-MncqfnUYssBTaoygza3uPkqKppcNvLIEFsC6SQ4gwUTsLrva-JF5i9J3TBcoj16j27_vYECLH_fN53NEJ6P1dFCdW3Ep4GdI_r6L4yy4S_isr9mQArA-E9MZopDhmbh56lYbyeaWFw1G8lQ==",
+        "link": "https://www.google.com/search?si=ACC90nyWGV5dNbmFXA-MncqfnUYssBTaoygza3uPkqKppcNvLIEFsC6SQ4gwUTsLrva-JF5i9J3TBcoj16j27_vYECLH_fN53NEJ6P1dFCdW3Ep4GdI_r6L4yy4S_isr9mQArA-E9MZopDhmbh56lYbyeaWFw1G8lQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&si=ACC90nyWGV5dNbmFXA-MncqfnUYssBTaoygza3uPkqKppcNvLIEFsC6SQ4gwUTsLrva-JF5i9J3TBcoj16j27_vYECLH_fN53NEJ6P1dFCdW3Ep4GdI_r6L4yy4S_isr9mQArA-E9MZopDhmbh56lYbyeaWFw1G8lQ%3D%3D"
+      },
+      {
+        "text": "Reviews"
+      },
+      {
+        "text": "Trailers & clips",
+        "si": "ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BHh0fKXNaFfJVasfT_nLUNxojZ4HUmF4xZ8dvkZtXlZE4ZSrylfxZuR-rlWzUj8W8dUOAgTWBPCHhOyuq_XLRE8HE_sAcoaelduuUoUMpVDa65AOrw==",
+        "link": "https://www.google.com/search?si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BHh0fKXNaFfJVasfT_nLUNxojZ4HUmF4xZ8dvkZtXlZE4ZSrylfxZuR-rlWzUj8W8dUOAgTWBPCHhOyuq_XLRE8HE_sAcoaelduuUoUMpVDa65AOrw==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BHh0fKXNaFfJVasfT_nLUNxojZ4HUmF4xZ8dvkZtXlZE4ZSrylfxZuR-rlWzUj8W8dUOAgTWBPCHhOyuq_XLRE8HE_sAcoaelduuUoUMpVDa65AOrw%3D%3D"
+      },
+      {
+        "text": "Behind the scenes",
+        "si": "ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPe13zh6zpu_3D6v8MDmoeyGyI_cafLgLC2O7X_crtH1_DXg8AJPGDBSssj8KcjRiymEM9lQMMLd4EuEYDath-3mBvYGe--XLgB1srLiP13MSMbcoAQ==",
+        "link": "https://www.google.com/search?si=ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPe13zh6zpu_3D6v8MDmoeyGyI_cafLgLC2O7X_crtH1_DXg8AJPGDBSssj8KcjRiymEM9lQMMLd4EuEYDath-3mBvYGe--XLgB1srLiP13MSMbcoAQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&si=ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPe13zh6zpu_3D6v8MDmoeyGyI_cafLgLC2O7X_crtH1_DXg8AJPGDBSssj8KcjRiymEM9lQMMLd4EuEYDath-3mBvYGe--XLgB1srLiP13MSMbcoAQ%3D%3D"
+      }
+    ],
+    "description": "When New York City comes under attack from an alien invasion, a woman and other survivors try to find a way to safety. They soon learn that they must remain absolutely silent as the mysterious creatures are drawn to the slightest sound.",
+    "4_5_atom_tickets_a_quiet_place": "Day One got a 3.995 stars review on Atom Tickets.6.8/10IMDbA Quiet Place - Day One scored 6.8 out of 10 on IMDb.87%Rotten TomatoesA Quiet Place - Day One scored 87 percent on Rotten Tomatoes.",
+    "4_5_atom_tickets_a_quiet_place_links": [
+      {
+        "text": "4/5Atom TicketsA Quiet Place: Day One got a 3.995 stars review on Atom Tickets.",
+        "link": "https://www.atomtickets.com/movies/a-quiet-place-day-one/328226"
+      },
+      {
+        "text": "6.8/10IMDbA Quiet Place: Day One scored 6.8 out of 10 on IMDb.",
+        "link": "https://www.imdb.com/title/tt13433802/"
+      },
+      {
+        "text": "87%Rotten TomatoesA Quiet Place: Day One scored 87 percent on Rotten Tomatoes.",
+        "link": "https://www.rottentomatoes.com/m/a_quiet_place_day_one"
+      }
+    ],
+    "release_date": "June 27, 2024 (USA)",
+    "release_date_links": [
+      {
+        "text": "USA",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=United+States&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCwxMqvKqyzLU-LUz9U3sEw2LzfQMspOttJPy8zJBRNWJRmpiSVFmcmJOQpFqemZ-XkKieWJRalATk5qYnGqQkpiSeoiVt7QvMyS1BSF4BIgt3gHK-MudiYOBgChXr4jaAAAAA&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQmxMoAHoECCcQAg"
+      }
+    ],
+    "director": "Michael Sarnoski",
+    "director_links": [
+      {
+        "text": "Michael Sarnoski",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Michael+Sarnoski&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgOQNA9eyreyFuLkgJU50AjEoiSBGrrYAhJRX50fpEPGThmIOZe1O4kqHJByD_40LuVmrqr3Xow82QbrwSZoEdvSy8Z3r_1PEPDFt587WFujBFb9HgqpzernMWkz08iLhokeCzWgbNV-bVwv1MYVSqvpr1udwidohmd1AvV1R1l6qy9wwTw%3D%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQmxMoAHoECCYQAg"
+      }
+    ],
+    "budget": "$67 million",
+    "story_by": "John Krasinski; Michael Sarnoski",
+    "distributed_by": "Paramount Pictures",
+    "distributed_by_links": [
+      {
+        "text": "Paramount Pictures",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=Paramount+Pictures&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm8mSNH1vGzMbJdBv2U2cq_tuvvT3u_jVp4K9dYTqY7u3SJOrGHau631wXkwFjQIFjtDGLTeJ-sYSocqEQpq2EGq7lFjjeIeEM-BBFuyW938ymEvB9BAOqQedHgwwT3MpXYsupXd4q8W5Z2ZZYH6ppcK7nMMPsGcriFPV9tD8iqQLYHGLsQ%3D%3D&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQmxMoAHoECCMQAg"
+      }
+    ],
+    "based_on": "Characters; by Bryan Woods; Scott Beck",
+    "editorial_reviews": [
+      {
+        "title": "Atom Tickets",
+        "rating": "4/5",
+        "link": "https://www.atomtickets.com/movies/a-quiet-place-day-one/328226"
+      },
+      {
+        "title": "IMDb",
+        "rating": "6.8/10",
+        "link": "https://www.imdb.com/title/tt13433802/"
+      },
+      {
+        "title": "Rotten Tomatoes",
+        "rating": "87%",
+        "link": "https://www.rottentomatoes.com/m/a_quiet_place_day_one"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 4,
+        "summary": "'A Quiet Place: Day One' delivers an intense and gripping experience from start to finish. As fans of the original film, we found this prequel to be a worthy addition to the franchise. ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Google users",
+      "statistic": "63% liked this movie"
+    },
+    "watch_now": [
+      {
+        "name": "Watch now From $24.99",
+        "link": "https://www.youtube.com/watch?v=O0gsqDglxeg",
+        "image": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/07f08c259cd4261a5740ca9f7b36ec5f7475274708080e1fb7d62962f2ec0afd511d6ddfdf5fa22d.png"
+      }
+    ]
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "A Quiet Place: Day One | Official Trailer (2024 Movie) - Lupita ...",
+      "link": "https://www.youtube.com/watch?v=YPY7J-flzE8",
+      "thumbnail": "https://i.ytimg.com/vi/YPY7J-flzE8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mX3EgrnZ4SXinmt0KQJ09GxnE-Qw",
+      "channel": "Paramount Pictures",
+      "duration": "1:39",
+      "platform": "YouTube",
+      "date": "Feb 7, 2024"
+    },
+    {
+      "position": 2,
+      "title": "Making Of A QUIET PLACE: DAY ONE - Best Of Behind The ...",
+      "link": "https://www.youtube.com/watch?v=5JsuUcuC_gs",
+      "thumbnail": "https://i.ytimg.com/vi/5JsuUcuC_gs/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3l-zXAyFwG66PiS7ZCW4rEHkDTQ6g",
+      "channel": "STREAM WARS",
+      "duration": "11:23",
+      "platform": "YouTube",
+      "date": "2 days ago"
+    },
+    {
+      "position": 3,
+      "title": "A Quiet Place: Day One | Official Trailer 2 (2024 Movie ...",
+      "link": "https://www.youtube.com/watch?v=gjx-iHGXk9Q",
+      "thumbnail": "https://i.ytimg.com/vi/gjx-iHGXk9Q/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kvTiF5y76Rr1wGdPov1yrrbYSAag",
+      "channel": "Paramount Pictures",
+      "duration": "2:27",
+      "platform": "YouTube",
+      "date": "May 9, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is A Quiet Place: Day One going to be in theaters?",
+      "snippet": "A QUIET PLACE DAY ONE is still currently in theaters A QUIET PLACE DAY ONE you want to experience all the ﬁlm's twists and turns in a traditional cinema. But there's also now an option to watch the ﬁlm at home. As of November 25, 2024, A QUIET PLACE DAY ONE is available on HBO Max.",
+      "title": "'A Quiet Place: Day One' Blazes Past Blockbuster Global Box Office ...",
+      "date": "1 day ago",
+      "link": "https://www.portsmouth-dailytimes.com/calendar/a-quiet-place-day-one-blazes-past-blockbuster-global-box-office-milestone/#:~:text=A%20QUIET%20PLACE%20DAY%20ONE%20is%20still%20currently%20in%20theaters,is%20available%20on%20HBO%20Max.",
+      "displayed_link": "https://www.portsmouth-dailytimes.com › calendar › a-q...",
+      "source_logo": "",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNYVm5Na1o0UkcxU2NUVnVhMHMwYmpWcFJuVXplR1k0UVRoQmNYUnJaRGQ1YmxKaFZuRXdOamN6UmxvNFNFNVBRMU5xY2paNU1VdEVhVkZrY1RSNVltaExMVGRERWhjMWVIRk5XbTl4VlV4dkxWOXJVRWxRWHpreWVIRkJheG9pUVVaWWNrVmpiM0ZYUVZSVlUwMTVZVjk0VVU5eFluSmtjMmR4VURCSWREWmFVUSIsImZjdiI6IjMiLCJlaSI6IjV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrIiwicWMiOiJDaDFoSUhGMWFXVjBJSEJzWVdObElHUmhlU0J2Ym1VZ2RHaGxZWFJsY2hBQWZkc25IVDgiLCJxdWVzdGlvbiI6IklzIEEgUXVpZXQgUGxhY2U6IERheSBPbmUgZ29pbmcgdG8gYmUgaW4gdGhlYXRlcnM/IiwibGsiOiJHakJwY3lCaElIRjFhV1YwSUhCc1lXTmxJR1JoZVNCdmJtVWdaMjlwYm1jZ2RHOGdZbVVnYVc0Z2RHaGxZWFJsY25NIiwiYnMiOiJjM1dQc1E0QlFSUkZvNTFLS1Z2ZFJJUm9NS1ZHSkJxVkpSRUZ6Yk5lN0lTZFdidUQ0S184aFlfeEFUcXppQ2hNOVpwejdyMVBiSVFjNXVoanZGZHNFVzRwNGk0R2RNSklNOVpHNlRXc3daS2hOR3pNWkRuTGU1WEhSTXFnclhJUWRpOHhMVVNzbkdmOG5sQ2lNNHM1WTBTa01jU1JiQlQ3dXNraU5nbjNLdGVMN0FTdDQ5ZFRILTlfOVVjVFUxSDNfMFZ1b1ZraE1RZmxDbTVWV1E5cTNtZC1ZVEVYVFgtczBlZ25kSFluekZReF9iNlF6YURoVFhZZ3ZmbTA0TXVsSnciLCJpZCI6ImZjXzV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNYVm5Na1o0UkcxU2NUVnVhMHMwYmpWcFJuVXplR1k0UVRoQmNYUnJaRGQ1YmxKaFZuRXdOamN6UmxvNFNFNVBRMU5xY2paNU1VdEVhVkZrY1RSNVltaExMVGRERWhjMWVIRk5XbTl4VlV4dkxWOXJVRWxRWHpreWVIRkJheG9pUVVaWWNrVmpiM0ZYUVZSVlUwMTVZVjk0VVU5eFluSmtjMmR4VURCSWREWmFVUSIsImZjdiI6IjMiLCJlaSI6IjV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrIiwicWMiOiJDaDFoSUhGMWFXVjBJSEJzWVdObElHUmhlU0J2Ym1VZ2RHaGxZWFJsY2hBQWZkc25IVDgiLCJxdWVzdGlvbiI6IklzIEEgUXVpZXQgUGxhY2U6IERheSBPbmUgZ29pbmcgdG8gYmUgaW4gdGhlYXRlcnM%2FIiwibGsiOiJHakJwY3lCaElIRjFhV1YwSUhCc1lXTmxJR1JoZVNCdmJtVWdaMjlwYm1jZ2RHOGdZbVVnYVc0Z2RHaGxZWFJsY25NIiwiYnMiOiJjM1dQc1E0QlFSUkZvNTFLS1Z2ZFJJUm9NS1ZHSkJxVkpSRUZ6Yk5lN0lTZFdidUQ0S184aFlfeEFUcXppQ2hNOVpwejdyMVBiSVFjNXVoanZGZHNFVzRwNGk0R2RNSklNOVpHNlRXc3daS2hOR3pNWkRuTGU1WEhSTXFnclhJUWRpOHhMVVNzbkdmOG5sQ2lNNHM1WTBTa01jU1JiQlQ3dXNraU5nbjNLdGVMN0FTdDQ5ZFRILTlfOVVjVFUxSDNfMFZ1b1ZraE1RZmxDbTVWV1E5cTNtZC1ZVEVYVFgtczBlZ25kSFluekZReF9iNlF6YURoVFhZZ3ZmbTA0TXVsSnciLCJpZCI6ImZjXzV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrXzIifQ%3D%3D"
+    },
+    {
+      "question": "Where can I watch A Quiet Place: Day One at home?",
+      "snippet": "Paramount Plus carries both of the post-apocalyptic horror films. If you have Hulu, you're partially in luck, as the streamer offers Part II. Outside of those streaming services, the initial A Quiet Place movies are available to rent digitally for around $4 each at Amazon and Fandango at Home (formerly Vudu).",
+      "title": "'A Quiet Place: Day One' Is in Theaters, but Here's How to ...",
+      "date": "3 days ago",
+      "link": "https://www.cnet.com/tech/services-and-software/a-quiet-place-day-one-is-in-theaters-but-heres-how-to-stream-the-first-two-flicks/#:~:text=Paramount%20Plus%20carries%20both%20of,at%20Home%20(formerly%20Vudu).",
+      "displayed_link": "https://www.cnet.com › Tech › Services & Software",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNYVm5Na1o0UkcxU2NUVnVhMHMwYmpWcFJuVXplR1k0UVRoQmNYUnJaRGQ1YmxKaFZuRXdOamN6UmxvNFNFNVBRMU5xY2paNU1VdEVhVkZrY1RSNVltaExMVGRERWhjMWVIRk5XbTl4VlV4dkxWOXJVRWxRWHpreWVIRkJheG9pUVVaWWNrVmpiM0ZYUVZSVlUwMTVZVjk0VVU5eFluSmtjMmR4VURCSWREWmFVUSIsImZjdiI6IjMiLCJlaSI6IjV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrIiwicWMiOiJDaDFoSUhGMWFXVjBJSEJzWVdObElHUmhlU0J2Ym1VZ2RHaGxZWFJsY2hBQWZkc25IVDgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIHdhdGNoIEEgUXVpZXQgUGxhY2U6IERheSBPbmUgYXQgaG9tZT8iLCJsayI6IkdpOTNhR1Z5WlNCallXNGdhU0IzWVhSamFDQmhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnWVhRZ2FHOXRaUSIsImJzIjoiYzNXUHNRNEJRUlJGbzUxS0tWdmRSSVJvTUtWR0pCcVZKUkVGemJOZTdJU2RXYnVENEtfOGhZX3hBVHF6aUNoTTlacHo3cjFQYklRYzV1aGp2RmRzRVc0cDRpNEdkTUpJTTlaRzZUV3N3WktoTkd6TVpEbkxlNVhIUk1xZ3JYSVFkaTh4TFVTc25HZjhubENpTTRzNVkwU2tNY1NSYkJUN3Vza2lOZ24zS3RlTDdBU3Q0OWRUSC05XzlVY1RVMUgzXzBWdW9Wa2hNUWZsQ201VldROXEzbWQtWVRFWFRYLXMwZWduZEhZbnpGUXhfYjZRemFEaFRYWWd2Zm0wNE11bEp3IiwiaWQiOiJmY181eHFNWm9xVUxvLV9rUElQXzkyeHFBa18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVNYVm5Na1o0UkcxU2NUVnVhMHMwYmpWcFJuVXplR1k0UVRoQmNYUnJaRGQ1YmxKaFZuRXdOamN6UmxvNFNFNVBRMU5xY2paNU1VdEVhVkZrY1RSNVltaExMVGRERWhjMWVIRk5XbTl4VlV4dkxWOXJVRWxRWHpreWVIRkJheG9pUVVaWWNrVmpiM0ZYUVZSVlUwMTVZVjk0VVU5eFluSmtjMmR4VURCSWREWmFVUSIsImZjdiI6IjMiLCJlaSI6IjV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrIiwicWMiOiJDaDFoSUhGMWFXVjBJSEJzWVdObElHUmhlU0J2Ym1VZ2RHaGxZWFJsY2hBQWZkc25IVDgiLCJxdWVzdGlvbiI6IldoZXJlIGNhbiBJIHdhdGNoIEEgUXVpZXQgUGxhY2U6IERheSBPbmUgYXQgaG9tZT8iLCJsayI6IkdpOTNhR1Z5WlNCallXNGdhU0IzWVhSamFDQmhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnWVhRZ2FHOXRaUSIsImJzIjoiYzNXUHNRNEJRUlJGbzUxS0tWdmRSSVJvTUtWR0pCcVZKUkVGemJOZTdJU2RXYnVENEtfOGhZX3hBVHF6aUNoTTlacHo3cjFQYklRYzV1aGp2RmRzRVc0cDRpNEdkTUpJTTlaRzZUV3N3WktoTkd6TVpEbkxlNVhIUk1xZ3JYSVFkaTh4TFVTc25HZjhubENpTTRzNVkwU2tNY1NSYkJUN3Vza2lOZ24zS3RlTDdBU3Q0OWRUSC05XzlVY1RVMUgzXzBWdW9Wa2hNUWZsQ201VldROXEzbWQtWVRFWFRYLXMwZWduZEhZbnpGUXhfYjZRemFEaFRYWWd2Zm0wNE11bEp3IiwiaWQiOiJmY181eHFNWm9xVUxvLV9rUElQXzkyeHFBa18yIn0%3D"
+    },
+    {
+      "question": "Is A Quiet Place: Day One a good movie?",
+      "title": "A Quiet Place: Day One Review - YouTube",
+      "link": "https://www.youtube.com/watch?v=NACOtk28zBA",
+      "displayed_link": "https://www.youtube.com › watch",
+      "source_logo": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/75ec78a53548b4d5f408a6cc3f47dfdad8697a283b723f872a17df7c0c0fb27c.png",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdmNCQ3JjQlFVcEhPVXByVG5SU1YzQlhWWE55YVZOeWRXMUhaM1ZaV2pOU1lYb3dYMTlRUmpkTlp6Ulpha3RaYTNSeU5uVTJPWFprUjJsdmJsTXlTekJWWVMxdk5WTlZTV1ZTYTNKWlJVSjROVE5UWVV0SFZYUjVhSHBTVFhWMFZrWnpjREZSYlVwWmQwaDFSMVV6YjIxVk1FVjRUbEJVUlRCVVdWcHVSRGRHVDNSYVF6RTFSRXhZWWtaRmFXNTZRVWxVVlV4RFoyaDFSR0pRYzFZd2RYRk5NbmhKYW5CTldUZG5hWHBEVDNkRWVsY3RPR2xTVkZGRk9WUXdFaGMxZUhGTldtOXhWVXh2TFY5clVFbFFYemt5ZUhGQmF4b2lRVVpZY2tWamJ6bGFXVlI2WVdKaVp6ZHlMVGRVVmxwcGVYbHdlbTl3V0hRMVp3IiwiZmN2IjoiMyIsImVpIjoiNXhxTVpvcVVMby1fa1BJUF85MnhxQWsiLCJxYyI6IkNoMWhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnZEdobFlYUmxjaEFBZmRzbkhUOCIsInF1ZXN0aW9uIjoiSXMgQSBRdWlldCBQbGFjZTogRGF5IE9uZSBhIGdvb2QgbW92aWU/IiwibGsiOiJHaVZwY3lCaElIRjFhV1YwSUhCc1lXTmxJR1JoZVNCdmJtVWdZU0JuYjI5a0lHMXZkbWxsIiwiYnMiOiJjM1dQc1E0QlFSUkZvNTFLS1Z2ZFJJUm9NS1ZHSkJxVkpSRUZ6Yk5lN0lTZFdidUQ0S184aFlfeEFUcXppQ2hNOVpwejdyMVBiSVFjNXVoanZGZHNFVzRwNGk0R2RNSklNOVpHNlRXc3daS2hOR3pNWkRuTGU1WEhSTXFnclhJUWRpOHhMVVNzbkdmOG5sQ2lNNHM1WTBTa01jU1JiQlQ3dXNraU5nbjNLdGVMN0FTdDQ5ZFRILTlfOVVjVFUxSDNfMFZ1b1ZraE1RZmxDbTVWV1E5cTNtZC1ZVEVYVFgtczBlZ25kSFluekZReF9iNlF6YURoVFhZZ3ZmbTA0TXVsSnciLCJpZCI6ImZjXzV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdmNCQ3JjQlFVcEhPVXByVG5SU1YzQlhWWE55YVZOeWRXMUhaM1ZaV2pOU1lYb3dYMTlRUmpkTlp6Ulpha3RaYTNSeU5uVTJPWFprUjJsdmJsTXlTekJWWVMxdk5WTlZTV1ZTYTNKWlJVSjROVE5UWVV0SFZYUjVhSHBTVFhWMFZrWnpjREZSYlVwWmQwaDFSMVV6YjIxVk1FVjRUbEJVUlRCVVdWcHVSRGRHVDNSYVF6RTFSRXhZWWtaRmFXNTZRVWxVVlV4RFoyaDFSR0pRYzFZd2RYRk5NbmhKYW5CTldUZG5hWHBEVDNkRWVsY3RPR2xTVkZGRk9WUXdFaGMxZUhGTldtOXhWVXh2TFY5clVFbFFYemt5ZUhGQmF4b2lRVVpZY2tWamJ6bGFXVlI2WVdKaVp6ZHlMVGRVVmxwcGVYbHdlbTl3V0hRMVp3IiwiZmN2IjoiMyIsImVpIjoiNXhxTVpvcVVMby1fa1BJUF85MnhxQWsiLCJxYyI6IkNoMWhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnZEdobFlYUmxjaEFBZmRzbkhUOCIsInF1ZXN0aW9uIjoiSXMgQSBRdWlldCBQbGFjZTogRGF5IE9uZSBhIGdvb2QgbW92aWU%2FIiwibGsiOiJHaVZwY3lCaElIRjFhV1YwSUhCc1lXTmxJR1JoZVNCdmJtVWdZU0JuYjI5a0lHMXZkbWxsIiwiYnMiOiJjM1dQc1E0QlFSUkZvNTFLS1Z2ZFJJUm9NS1ZHSkJxVkpSRUZ6Yk5lN0lTZFdidUQ0S184aFlfeEFUcXppQ2hNOVpwejdyMVBiSVFjNXVoanZGZHNFVzRwNGk0R2RNSklNOVpHNlRXc3daS2hOR3pNWkRuTGU1WEhSTXFnclhJUWRpOHhMVVNzbkdmOG5sQ2lNNHM1WTBTa01jU1JiQlQ3dXNraU5nbjNLdGVMN0FTdDQ5ZFRILTlfOVVjVFUxSDNfMFZ1b1ZraE1RZmxDbTVWV1E5cTNtZC1ZVEVYVFgtczBlZ25kSFluekZReF9iNlF6YURoVFhZZ3ZmbTA0TXVsSnciLCJpZCI6ImZjXzV4cU1ab3FVTG8tX2tQSVBfOTJ4cUFrXzMifQ%3D%3D"
+    },
+    {
+      "question": "Is A Quiet Place: Day One on Amazon Prime?",
+      "snippet": "Additionally, you can check JULY-8: A Quiet Place Day One the movie is available on popular streaming platforms like Netﬂix, Hulu, or Amazon Prime Video, as they often offer a wide selection of movies and TV. and adventure, promising to captivate audiences and leave them craving for more.",
+      "title": "[.WATCH.] A Quiet Place Day One (2024) FuLLMovie Online On ...",
+      "date": "7 hours ago",
+      "link": "https://www.portsmouth-dailytimes.com/calendar/watch-a-quiet-place-day-one-2024-fullmovie-online-on-english-m11v7/#:~:text=Additionally%2C%20you%20can%20check%20JULY,selection%20of%20movies%20and%20TV.&text=and%20adventure%2C%20promising%20to%20captivate,leave%20them%20craving%20for%20more.",
+      "displayed_link": "https://www.portsmouth-dailytimes.com › calendar › wat...",
+      "source_logo": "",
+      "next_page_token": "eyJvbnMiOiIyNjc5IiwiZmMiOiJFdmNCQ3JjQlFVcEhPVXByVG5SU1YzQlhWWE55YVZOeWRXMUhaM1ZaV2pOU1lYb3dYMTlRUmpkTlp6Ulpha3RaYTNSeU5uVTJPWFprUjJsdmJsTXlTekJWWVMxdk5WTlZTV1ZTYTNKWlJVSjROVE5UWVV0SFZYUjVhSHBTVFhWMFZrWnpjREZSYlVwWmQwaDFSMVV6YjIxVk1FVjRUbEJVUlRCVVdWcHVSRGRHVDNSYVF6RTFSRXhZWWtaRmFXNTZRVWxVVlV4RFoyaDFSR0pRYzFZd2RYRk5NbmhKYW5CTldUZG5hWHBEVDNkRWVsY3RPR2xTVkZGRk9WUXdFaGMxZUhGTldtOXhWVXh2TFY5clVFbFFYemt5ZUhGQmF4b2lRVVpZY2tWamJ6bGFXVlI2WVdKaVp6ZHlMVGRVVmxwcGVYbHdlbTl3V0hRMVp3IiwiZmN2IjoiMyIsImVpIjoiNXhxTVpvcVVMby1fa1BJUF85MnhxQWsiLCJxYyI6IkNoMWhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnZEdobFlYUmxjaEFBZmRzbkhUOCIsInF1ZXN0aW9uIjoiSXMgQSBRdWlldCBQbGFjZTogRGF5IE9uZSBvbiBBbWF6b24gUHJpbWU/IiwibGsiOiJjNVBTeUN4V1NGUW9MTTFNTFZFb3lFbE1UbFZJU2F4VXlNOUxCV0tGeE56RUtpQlZVSlNabXdvQSIsImJzIjoiYzNXUHNRNEJRUlJGbzUxS0tWdmRSSVJvTUtWR0pCcVZKUkVGemJOZTdJU2RXYnVENEtfOGhZX3hBVHF6aUNoTTlacHo3cjFQYklRYzV1aGp2RmRzRVc0cDRpNEdkTUpJTTlaRzZUV3N3WktoTkd6TVpEbkxlNVhIUk1xZ3JYSVFkaTh4TFVTc25HZjhubENpTTRzNVkwU2tNY1NSYkJUN3Vza2lOZ24zS3RlTDdBU3Q0OWRUSC05XzlVY1RVMUgzXzBWdW9Wa2hNUWZsQ201VldROXEzbWQtWVRFWFRYLXMwZWduZEhZbnpGUXhfYjZRemFEaFRYWWd2Zm0wNE11bEp3IiwiaWQiOiJmY181eHFNWm9xVUxvLV9rUElQXzkyeHFBa18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIyNjc5IiwiZmMiOiJFdmNCQ3JjQlFVcEhPVXByVG5SU1YzQlhWWE55YVZOeWRXMUhaM1ZaV2pOU1lYb3dYMTlRUmpkTlp6Ulpha3RaYTNSeU5uVTJPWFprUjJsdmJsTXlTekJWWVMxdk5WTlZTV1ZTYTNKWlJVSjROVE5UWVV0SFZYUjVhSHBTVFhWMFZrWnpjREZSYlVwWmQwaDFSMVV6YjIxVk1FVjRUbEJVUlRCVVdWcHVSRGRHVDNSYVF6RTFSRXhZWWtaRmFXNTZRVWxVVlV4RFoyaDFSR0pRYzFZd2RYRk5NbmhKYW5CTldUZG5hWHBEVDNkRWVsY3RPR2xTVkZGRk9WUXdFaGMxZUhGTldtOXhWVXh2TFY5clVFbFFYemt5ZUhGQmF4b2lRVVpZY2tWamJ6bGFXVlI2WVdKaVp6ZHlMVGRVVmxwcGVYbHdlbTl3V0hRMVp3IiwiZmN2IjoiMyIsImVpIjoiNXhxTVpvcVVMby1fa1BJUF85MnhxQWsiLCJxYyI6IkNoMWhJSEYxYVdWMElIQnNZV05sSUdSaGVTQnZibVVnZEdobFlYUmxjaEFBZmRzbkhUOCIsInF1ZXN0aW9uIjoiSXMgQSBRdWlldCBQbGFjZTogRGF5IE9uZSBvbiBBbWF6b24gUHJpbWU%2FIiwibGsiOiJjNVBTeUN4V1NGUW9MTTFNTFZFb3lFbE1UbFZJU2F4VXlNOUxCV0tGeE56RUtpQlZVSlNabXdvQSIsImJzIjoiYzNXUHNRNEJRUlJGbzUxS0tWdmRSSVJvTUtWR0pCcVZKUkVGemJOZTdJU2RXYnVENEtfOGhZX3hBVHF6aUNoTTlacHo3cjFQYklRYzV1aGp2RmRzRVc0cDRpNEdkTUpJTTlaRzZUV3N3WktoTkd6TVpEbkxlNVhIUk1xZ3JYSVFkaTh4TFVTc25HZjhubENpTTRzNVkwU2tNY1NSYkJUN3Vza2lOZ24zS3RlTDdBU3Q0OWRUSC05XzlVY1RVMUgzXzBWdW9Wa2hNUWZsQ201VldROXEzbWQtWVRFWFRYLXMwZWduZEhZbnpGUXhfYjZRemFEaFRYWWd2Zm0wNE11bEp3IiwiaWQiOiJmY181eHFNWm9xVUxvLV9rUElQXzkyeHFBa18zIn0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A Quiet Place: Day One",
+      "link": "https://www.amctheatres.com/movies/a-quiet-place-day-one-66727",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.amctheatres.com/movies/a-quiet-place-day-one-66727&usg=AOvVaw2SWPrh43QfG8gAO7AsCYW9",
+      "displayed_link": "https://www.amctheatres.com › movies › a-quiet-place-...",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20ab69d6883c05ed34bce2780303b3ea4ef9.png",
+      "snippet": "A Quiet Place: Day One showtimes at an AMC movie theater near you. Get movie times, watch trailers and buy tickets.",
+      "snippet_highlighted_words": ["A Quiet Place", "Day One showtimes"],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 2,
+      "title": "A Quiet Place: Day One (2024) Showtimes",
+      "link": "https://www.fandango.com/a-quiet-place-day-one-2024-234520/movie-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.fandango.com/a-quiet-place-day-one-2024-234520/movie-overview&usg=AOvVaw2lXGMLUHRU6B_6U0lw5Xfl",
+      "displayed_link": "https://www.fandango.com › movie-overview",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20abfe2e93826c958dfd37d0ff4afbf1d323.png",
+      "snippet": "Experience the day the world went quiet. GENRE: Drama, Horror, Sci-Fi/Fantasy; RELEASE DATE: Friday, Jun 28 ...",
+      "snippet_highlighted_words": ["day", "quiet", "Drama"],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 73,
+            "votes": 2316
+          },
+          "extensions": ["Rating: 73%", "‎2,316 votes"]
+        }
+      },
+      "source": "Fandango"
+    },
+    {
+      "position": 3,
+      "title": "A Quiet Place: Day One Movie Tickets and Showtimes ...",
+      "link": "https://www.regmovies.com/movies/a-quiet-place-day-one-ho00012904",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.regmovies.com/movies/a-quiet-place-day-one-ho00012904&usg=AOvVaw2AljvokQvjI7MJFvmiAeUk",
+      "displayed_link": "https://www.regmovies.com › movies › a-quiet-place-da...",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20abf6de7c4feccd2076430dcd0d6349fa31.png",
+      "snippet": "A Quiet Place: Day One Movie tickets and showtimes at a Regal Theatre near you. Search movie times, buy tickets, find movie trailers, and view upcoming ...",
+      "snippet_highlighted_words": ["A Quiet Place", "Day One Movie"],
+      "source": "Regal"
+    },
+    {
+      "position": 4,
+      "title": "A Quiet Place: Day One Showtimes & Tickets Near You",
+      "link": "https://www.cinemark.com/movies/a-quiet-place-day-one",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.cinemark.com/movies/a-quiet-place-day-one&usg=AOvVaw2_99B0N-SFmSuVS7-nQK-D",
+      "displayed_link": "https://www.cinemark.com › movies › a-quiet-place-da...",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20abb90a64c881fcbe59f2e3eb83f5b0dabd.png",
+      "snippet": "Showtimes & movie tickets for Quiet Place 3 movie A Quiet Place: Day One at Cinemark near you. Reserve seats, pre-order food & drinks, and more.",
+      "snippet_highlighted_words": [
+        "Showtimes",
+        "movie",
+        "Quiet Place",
+        "movie A Quiet Place",
+        "Day One"
+      ],
+      "source": "Cinemark -"
+    },
+    {
+      "position": 5,
+      "title": "A Quiet Place: Day One | Showtimes, Tickets & Reviews",
+      "link": "https://www.atomtickets.com/movies/a-quiet-place-day-one/328226",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.atomtickets.com/movies/a-quiet-place-day-one/328226&usg=AOvVaw1uEh4TvYAouTCgpYZK6yBd",
+      "displayed_link": "https://www.atomtickets.com › movies › a-quiet-place-d...",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20ab926641c5a28ef8e7fc21719168bc910d.png",
+      "snippet": "List of Showtime Features:. Reserved Seating. 8:55 AM; 9:30 AM; 10:35 AM; 11:35 AM; 12:15 PM; 1:20 PM; 2:20 PM; 3:00 PM; 4:05 PM",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4,
+            "votes": 818
+          },
+          "extensions": ["Rating: 4", "‎818 votes"]
+        }
+      },
+      "source": "Atom Tickets"
+    },
+    {
+      "position": 6,
+      "title": "[.WATCH.] MCU's A Quiet Place Day One (+FullMovie!) ...",
+      "link": "https://transferguide.apps.asu.edu/app/viewsyllabus/openSyllabus/180510",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://transferguide.apps.asu.edu/app/viewsyllabus/openSyllabus/180510&usg=AOvVaw2Uy08EUQARWtZoUoBt7Fe_",
+      "displayed_link": "https://transferguide.apps.asu.edu › openSyllabus",
+      "date": "3 hours ago",
+      "snippet": "Bad Boys: Ride or Die is still currently in theaters MCU's A Quiet Place Day One you want to experience all the film's twists and turns in a ...",
+      "snippet_highlighted_words": ["theaters", "A Quiet Place Day One"],
+      "source": "Arizona State University"
+    },
+    {
+      "position": 7,
+      "title": "REVIEW: “A Quiet Place: Day One” (2024) |",
+      "link": "https://keithandthemovies.com/2024/07/08/review-a-quiet-place-day-one-2024/",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://keithandthemovies.com/2024/07/08/review-a-quiet-place-day-one-2024/&usg=AOvVaw2A6pbL8Ofv2-_x7-Lecf7s",
+      "displayed_link": "https://keithandthemovies.com › 2024/07/08 › review-a...",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20ab4f7f08befb6a26864ec94c0fbae090e4.jpeg",
+      "date": "3 hours ago",
+      "snippet": "Sam is knocked unconscious and awakens inside a theater with a group of frightened survivors. ... “A Quiet Place: Day One” is in theaters now.",
+      "snippet_highlighted_words": [
+        "theater",
+        "A Quiet Place",
+        "Day One",
+        "theaters"
+      ],
+      "source": "Keith & the Movies"
+    },
+    {
+      "position": 8,
+      "title": "A Quiet Place: Day One (2024)",
+      "link": "https://www.imdb.com/title/tt13433802/",
+      "redirect_link": "https://www.google.com/url?sa=t&url=https://www.imdb.com/title/tt13433802/&usg=AOvVaw27DCMJQ6XP_WmVFSIjjEN9",
+      "displayed_link": "https://www.imdb.com › title",
+      "favicon": "https://serpapi.com/searches/668c1ae747ccf1cadc76d648/images/383fe5d9b3395779b90275d64d7f20ab929acfab7458bc92b741d6e9024948d6.jpeg",
+      "snippet": "Storyline · Taglines. Hear how it all began. · Genres. Drama · Horror · Sci-Fi · Thriller · Motion Picture Rating (MPA). Rated PG-13 for terror and violent content ...",
+      "snippet_highlighted_words": ["Drama"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "A Quiet Place",
+            "link": "https://www.imdb.com/video/vi3997746969/"
+          },
+          {
+            "title": "A Quiet Place Part IV",
+            "link": "https://www.imdb.com/title/tt27705038/"
+          },
+          {
+            "title": "A Quiet Place Part 2.5",
+            "link": "https://www.imdb.com/title/tt27740571/"
+          },
+          {
+            "title": "Michael Sarnoski",
+            "link": "https://www.imdb.com/name/nm3968825/"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 6.8,
+            "votes": 27683
+          },
+          "extensions": ["Rating: 6.8/10", "‎27,683 votes"]
+        }
+      },
+      "source": "IMDb"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "'A Quiet Place: Day One' Is in Theaters, but Here's How to Stream the First Two Flicks",
+      "link": "https://www.cnet.com/tech/services-and-software/a-quiet-place-day-one-is-in-theaters-but-heres-how-to-stream-the-first-two-flicks/",
+      "source": "CNET",
+      "date": "2 days ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryZfHyFZ7gxcSRXl4Ji_sx1Uycmd0hSBNShhuHHbOzH6U82pBu3sPGSk&usqp=CAI&s"
+    },
+    {
+      "title": "When Will 'A Quiet Place: Day One' Be Streaming On Paramount+?",
+      "link": "https://www.forbes.com/sites/monicamercuri/2024/06/29/when-will-a-quiet-place-day-one-be-streaming-on-paramount/",
+      "source": "Forbes",
+      "date": "1 week ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUP7GY4YOovnwe45CRne1ZlrhZXdqibPJByoVLz29lm5nA-aQMocJikXQ&usqp=CAI&s"
+    },
+    {
+      "title": "'A Quiet Place: Day One' isn't silent at theaters, making the film No. 1 at box office",
+      "link": "https://nypost.com/2024/06/29/entertainment/a-quiet-place-day-one-isnt-silent-at-theaters-making-the-film-no-1-at-box-office/",
+      "source": "New York Post",
+      "date": "1 week ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhMziiEp2wxixnVwZPyNrpuvWepiFRjEbBIhI6YDWUqCtjwVM8d6o1dU&usqp=CAI&s"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+Quiet+Place:+Day+One+theater&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQt8YBKAF6BQikARAE",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&tbm=nws",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater streaming",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+streaming&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQitARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+streaming"
+    },
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+near+me&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQisARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater trailer",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+trailer&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQirARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+trailer"
+    },
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater cast",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+cast&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQiqARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+cast"
+    },
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater review",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+review&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQipARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+review"
+    },
+    {
+      "block_position": 1,
+      "query": "A Quiet Place: Day One trailer",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+Quiet+Place:+Day+One+trailer&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQioARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+trailer"
+    },
+    {
+      "block_position": 1,
+      "query": "A quiet place day one theater full movie",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+quiet+place+day+one+theater+full+movie&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQinARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+quiet+place+day+one+theater+full+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "A Quiet Place Day One showtimes near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&hl=en&gl=us&q=A+Quiet+Place+Day+One+showtimes+near+me&sa=X&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ1QJ6BQimARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place+Day+One+showtimes+near+me"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=10&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8NMDegQICBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=10&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=20&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=30&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAI",
+      "5": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=40&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAK",
+      "6": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=50&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAM",
+      "7": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=60&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAO",
+      "8": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=70&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAQ",
+      "9": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=80&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAS",
+      "10": "https://www.google.com/search?q=A+Quiet+Place:+Day+One+theater&sca_esv=04aa412ff406bf20&hl=en&gl=us&ei=5xqMZoqULo-_kPIP_92xqAk&start=90&sa=N&sstk=Aagrsug7cmfXh8CUqCFMmx8rEQkEIPsIoZu6VjKeP-oSrrUujC2BMGTAyuYR0hNBYy8LlHNTHQPjt9RyEeWDqOBAAjRqSkhSJZkUZg&ved=2ahUKEwjKo6us9ZeHAxWPH0QIHf9uDJUQ8tMDegQICBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=A+Quiet+Place%3A+Day+One+theater&start=90"
+    }
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "search_metadata": {
+    "id": "668c1a6dce87f8f16aaab314",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3aea29724eb40144/668c1a6dce87f8f16aaab314.json",
+    "created_at": "2024-07-08 16:57:17 UTC",
+    "processed_at": "2024-07-08 16:57:17 UTC",
+    "google_url": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3aea29724eb40144/668c1a6dce87f8f16aaab314.html",
+    "total_time_taken": 1.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bad Boys: Ride or Die theater",
+    "location_requested": "Seattle, Washington, United States",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Bad Boys: Ride or Die theater",
+    "total_results": 15600000,
+    "time_taken_displayed": 0.41,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "TodayJul 8",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905MPNpH4So-MEcfd0YkYmVE1jTTJEqPwRT2xaVda2_P3Pqo8fUMmOdAi60_KSaAcMqcI9-n&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAL",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:45pm", "3:40pm", "7:00pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnXxRvLxgr0UIOuRsIG1k1tyFM5fxf7H6SQLKyAW7O9JvlsfYE%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAR",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["1:20pm", "3:20pm", "6:00pm", "10:20pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5WveqpewuegfRPfRCchORM9Ytlgz9mO2z3yWX-EjmeFDcIhXQ0boL7WKCc5pQrEjYc0ovPO&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAY",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["3:45pm", "10:50pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOatOHijeKotT8fAfaxE86rxYI9pDAxVWYBX4liwdxWN_kjWBY8%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAd",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["6:00pm", "8:55pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLTMoJ8DBtdND1KNxc7WgUVZlMSSRH0uDbvFTvzUPv6v9igNOI%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAi",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["3:30pm", "10:25pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Ackiydbbj15ZKnNXpraD_0IDX9CYb-raf0GimjFrQ51fEUwaHJL8pVeV5jlnFeupgnMkIAVk&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQySZ6BQibARAn",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["6:20pm", "10:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Totem Lake Kirkland and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Totem+Lake+Kirkland+and+XD&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDuZNqLIW7oGFVt5ErmhtjJmwxXRR4uWxT4BjXLCXcDFk_XC8oZyFnWGsa1lwtFpPLOL33DxWBAe3xPc7nv0xTU4QmCCwhPJG1LUEYa7fxXSVL7Vb896JWvSeC9hImuyk8w1M3v3IaQpqHJ0nXrrEIAN7qlOEckf1SP3U5hVif91un7iP7Ys9VdoSh4PRwyKks7DZEajzz4Mq9aHm6dRSVnKlWaI",
+          "distance": "10.3 mi",
+          "address": "12600 120th Avenue NE, Kirkland, WA 98034",
+          "showing": [
+            {
+              "time": ["10:10pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz7WiAr-5wl18twuprKyQ4ADiN2E4fK2TIliHzkt6JPPQSqfg_g%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": ["9:30am", "1:00pm", "3:30pm", "6:15pm", "10:10pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRsFYLaSAWco8lKDhMH7fn2UsE4Q9AWmliHdQk8pnDM34gEICRI%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:15pm", "5:30pm", "9:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Woodinville 12",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Woodinville+12&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep3k7Q0VspgD5_JJgLGKEKRiG1_8nITw5XZfSUQiUxH8Q109ORICGexmp5ED3tBiEMDXsjBJ54bRAVWx1Xk9YbcxAEIyP6icgWIwPgm-6rXWdAMzSUmaPiKaHP9QmoeYmEkRq4pMAV28RvaYs7zi9zvCelbXGaT4W1ANdfw1DhEY9v3OzjiHsaJ-2ph33huYbzE3A0zY%3D",
+          "distance": "13.3 mi",
+          "address": "17640 Garden Way, Woodinville, WA 98072",
+          "showing": [
+            {
+              "time": ["7:15pm", "10:00pm"]
+            }
+          ]
+        },
+        {
+          "name": "Seefilm Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Seefilm+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ7wTww0NeyteqLjUzrr3tf-LZ7_AYrQscHlGizKaMuXrEOWeGv_EnK2N5djv14NzZwJOaAL_xoQiI414-4kWETxGom9N-_B_rbEiCydXa07_oKBXA0SdolJBULNoo67PQAmVr6Mti88FXzEglZd4L3PlPpaC_O4AYDez1GzEfYKPDRFuy-xnRrnyJF2WVG7wvwT7tYWyKHtIKDmTGAnu6xeMulSq",
+          "distance": "14.2 mi",
+          "address": "655 4th Street, Bremerton, WA 98337",
+          "showing": [
+            {
+              "time": ["3:15pm", "8:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Alderwood Mall 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Alderwood+Mall+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6TIF9AV5XfDbsl32PMx9AD5Ixvy_x4XvtswU5cC30MBfGTZfSqpxrFES42tGOpmKuLT5tbAQXayXLI9IJyS1Wchki0olmsIC8uUi7xauv4pLdFwT8eRufBcD-BxYuYZnm0WNQAKM2K2bKPIsehko9UhdDaw_YkrMKIOT58Ye7l4puyNLJuie994gqQoKS_9oXG0prQ%3D",
+          "distance": "15.6 mi",
+          "address": "Alderwood Mall, 18733 33rd Ave. W., Lynnwood, WA 98037",
+          "showing": [
+            {
+              "time": ["10:20am", "4:05pm", "6:10pm", "10:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kent Station 14",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kent+Station+14&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQS2IY5-AVjHlvjoBS1aohyFo87oKq0P2IqutdpxVIYpOGbdtNWZNV3V093CP6lUosKDtiN_hb8dkq-zYsuILHQbxJHS5Ts7GpTH7V-mYcj5-69RrXtYtdz0ZwHJKzWTUqwnWRj-FBlytnGo_uBDG4HWh6g8_cXbFDmhFw6CgIV9UnFhb3nckx2EnDFybpCNlWtl81hw%3D",
+          "distance": "16.0 mi",
+          "address": "426 Ramsay Way, Kent, WA 98032",
+          "showing": [
+            {
+              "time": ["10:00am", "12:40pm", "4:10pm", "6:50pm", "9:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kitsap 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kitsap+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwLhyO4ne7ThnLKuyMGYDcyT_I2kDe51L8hp3kVCKma_1p7T2g0x2ujjzJa_AIdDqBv8QLscSHns3knYEuhEPk6f3W1pAwCl0nbOSTKyA7kJGJ3Vqk2kqZYwGzWZcNv-IPn88d32LovnK43sV4tXTxBr2gX41w7I1GsGrMDYt4_GjPXcwl50PDTq6AxKTb-o_7h3t5Y%3D",
+          "distance": "17.2 mi",
+          "address": "PO Box 3246, 10055 Kitsap Mall Blvd Nw, Silverdale, WA 98383",
+          "showing": [
+            {
+              "time": ["3:15pm", "9:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Century Federal Way and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Century+Federal+Way+and+XD&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7juNKbw_MUtJ8u-veMvJCskCHa97_zdhE6sraqMgifYiJbLwIBBtEUv9-bOUV-c_80KojqLqe6T0m2BG_uJfKsUkH-OKCGPrqLPLrDM5WeITlWHz4fM77I3xr3zrh7sipGO_tLUWB-nJqP3zgOLFEvpGbs8Kq8Nb4Pc2jfdMxuKmWv5zZM26iiQR1tTcJ7r9RJyYpU%3D",
+          "distance": "20.3 mi",
+          "address": "Located at The Commons at Federal Way, 2001 S Commons, Federal Way, WA 98003",
+          "showing": [
+            {
+              "time": ["11:15am", "2:10pm", "5:05pm", "8:00pm", "10:50pm"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "TueJul 9",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905MPNpH4So-MEcfd0YkYmVE1jTTJEqPwRT2xaVda2_P3Pqo8fUMmOdAi60_KSaAcMqcI9-n",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["3:40pm", "7:00pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnXxRvLxgr0UIOuRsIG1k1tyFM5fxf7H6SQLKyAW7O9JvlsfYE%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["1:50pm", "3:20pm", "6:00pm", "10:20pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5WveqpewuegfRPfRCchORM9Ytlgz9mO2z3yWX-EjmeFDcIhXQ0boL7WKCc5pQrEjYc0ovPO",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["9:05am", "10:45pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOatOHijeKotT8fAfaxE86rxYI9pDAxVWYBX4liwdxWN_kjWBY8%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["6:00pm", "8:55pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLTMoJ8DBtdND1KNxc7WgUVZlMSSRH0uDbvFTvzUPv6v9igNOI%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["3:30pm", "10:25pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Ackiydbbj15ZKnNXpraD_0IDX9CYb-raf0GimjFrQ51fEUwaHJL8pVeV5jlnFeupgnMkIAVk",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["6:20pm", "10:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Totem Lake Kirkland and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Totem+Lake+Kirkland+and+XD&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDuZNqLIW7oGFVt5ErmhtjJmwxXRR4uWxT4BjXLCXcDFk_XC8oZyFnWGsa1lwtFpPLOL33DxWBAe3xPc7nv0xTU4QmCCwhPJG1LUEYa7fxXSVL7Vb896JWvSeC9hImuyk8w1M3v3IaQpqHJ0nXrrEIAN7qlOEckf1SP3U5hVif91un7iP7Ys9VdoSh4PRwyKks7DZEajzz4Mq9aHm6dRSVnKlWaI",
+          "distance": "10.3 mi",
+          "address": "12600 120th Avenue NE, Kirkland, WA 98034",
+          "showing": [
+            {
+              "time": ["10:10pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz7WiAr-5wl18twuprKyQ4ADiN2E4fK2TIliHzkt6JPPQSqfg_g%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": ["9:30am", "1:00pm", "3:30pm", "6:15pm", "10:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRsFYLaSAWco8lKDhMH7fn2UsE4Q9AWmliHdQk8pnDM34gEICRI%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:15pm", "5:30pm", "9:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Woodinville 12",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Woodinville+12&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep3k7Q0VspgD5_JJgLGKEKRiG1_8nITw5XZfSUQiUxH8Q109ORICGexmp5ED3tBiEMDXsjBJ54bRAVWx1Xk9YbcxAEIyP6icgWIwPgm-6rXWdAMzSUmaPiKaHP9QmoeYmEkRq4pMAV28RvaYs7zi9zvCelbXGaT4W1ANdfw1DhEY9v3OzjiHsaJ-2ph33huYbzE3A0zY%3D",
+          "distance": "13.3 mi",
+          "address": "17640 Garden Way, Woodinville, WA 98072",
+          "showing": [
+            {
+              "time": ["7:30pm", "10:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "Seefilm Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Seefilm+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ7wTww0NeyteqLjUzrr3tf-LZ7_AYrQscHlGizKaMuXrEOWeGv_EnK2N5djv14NzZwJOaAL_xoQiI414-4kWETxGom9N-_B_rbEiCydXa07_oKBXA0SdolJBULNoo67PQAmVr6Mti88FXzEglZd4L3PlPpaC_O4AYDez1GzEfYKPDRFuy-xnRrnyJF2WVG7wvwT7tYWyKHtIKDmTGAnu6xeMulSq",
+          "distance": "14.2 mi",
+          "address": "655 4th Street, Bremerton, WA 98337",
+          "showing": [
+            {
+              "time": ["3:15pm", "8:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Alderwood Mall 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Alderwood+Mall+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6TIF9AV5XfDbsl32PMx9AD5Ixvy_x4XvtswU5cC30MBfGTZfSqpxrFES42tGOpmKuLT5tbAQXayXLI9IJyS1Wchki0olmsIC8uUi7xauv4pLdFwT8eRufBcD-BxYuYZnm0WNQAKM2K2bKPIsehko9UhdDaw_YkrMKIOT58Ye7l4puyNLJuie994gqQoKS_9oXG0prQ%3D",
+          "distance": "15.6 mi",
+          "address": "Alderwood Mall, 18733 33rd Ave. W., Lynnwood, WA 98037",
+          "showing": [
+            {
+              "time": ["10:20am", "1:00pm", "3:45pm", "6:30pm", "10:20pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kent Station 14",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kent+Station+14&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQS2IY5-AVjHlvjoBS1aohyFo87oKq0P2IqutdpxVIYpOGbdtNWZNV3V093CP6lUosKDtiN_hb8dkq-zYsuILHQbxJHS5Ts7GpTH7V-mYcj5-69RrXtYtdz0ZwHJKzWTUqwnWRj-FBlytnGo_uBDG4HWh6g8_cXbFDmhFw6CgIV9UnFhb3nckx2EnDFybpCNlWtl81hw%3D",
+          "distance": "16.0 mi",
+          "address": "426 Ramsay Way, Kent, WA 98032",
+          "showing": [
+            {
+              "time": ["10:45am", "1:30pm", "4:10pm", "6:50pm", "10:10pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kitsap 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kitsap+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwLhyO4ne7ThnLKuyMGYDcyT_I2kDe51L8hp3kVCKma_1p7T2g0x2ujjzJa_AIdDqBv8QLscSHns3knYEuhEPk6f3W1pAwCl0nbOSTKyA7kJGJ3Vqk2kqZYwGzWZcNv-IPn88d32LovnK43sV4tXTxBr2gX41w7I1GsGrMDYt4_GjPXcwl50PDTq6AxKTb-o_7h3t5Y%3D",
+          "distance": "17.2 mi",
+          "address": "PO Box 3246, 10055 Kitsap Mall Blvd Nw, Silverdale, WA 98383",
+          "showing": [
+            {
+              "time": ["4:20pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Century Federal Way and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Century+Federal+Way+and+XD&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7juNKbw_MUtJ8u-veMvJCskCHa97_zdhE6sraqMgifYiJbLwIBBtEUv9-bOUV-c_80KojqLqe6T0m2BG_uJfKsUkH-OKCGPrqLPLrDM5WeITlWHz4fM77I3xr3zrh7sipGO_tLUWB-nJqP3zgOLFEvpGbs8Kq8Nb4Pc2jfdMxuKmWv5zZM26iiQR1tTcJ7r9RJyYpU%3D",
+          "distance": "20.3 mi",
+          "address": "Located at The Commons at Federal Way, 2001 S Commons, Federal Way, WA 98003",
+          "showing": [
+            {
+              "time": ["11:15am", "2:10pm", "5:05pm", "8:00pm", "10:50pm"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "WedJul 10",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905MPNpH4So-MEcfd0YkYmVE1jTTJEqPwRT2xaVda2_P3Pqo8fUMmOdAi60_KSaAcMqcI9-n",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["3:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnXxRvLxgr0UIOuRsIG1k1tyFM5fxf7H6SQLKyAW7O9JvlsfYE%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["1:30pm", "3:30pm", "6:15pm", "10:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOatOHijeKotT8fAfaxE86rxYI9pDAxVWYBX4liwdxWN_kjWBY8%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["6:00pm", "8:55pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsLTMoJ8DBtdND1KNxc7WgUVZlMSSRH0uDbvFTvzUPv6v9igNOI%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["3:45pm", "10:25pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Ackiydbbj15ZKnNXpraD_0IDX9CYb-raf0GimjFrQ51fEUwaHJL8pVeV5jlnFeupgnMkIAVk",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["6:20pm", "10:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Totem Lake Kirkland and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Totem+Lake+Kirkland+and+XD&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDuZNqLIW7oGFVt5ErmhtjJmwxXRR4uWxT4BjXLCXcDFk_XC8oZyFnWGsa1lwtFpPLOL33DxWBAe3xPc7nv0xTU4QmCCwhPJG1LUEYa7fxXSVL7Vb896JWvSeC9hImuyk8w1M3v3IaQpqHJ0nXrrEIAN7qlOEckf1SP3U5hVif91un7iP7Ys9VdoSh4PRwyKks7DZEajzz4Mq9aHm6dRSVnKlWaI",
+          "distance": "10.3 mi",
+          "address": "12600 120th Avenue NE, Kirkland, WA 98034",
+          "showing": [
+            {
+              "time": ["10:10pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz7WiAr-5wl18twuprKyQ4ADiN2E4fK2TIliHzkt6JPPQSqfg_g%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": ["9:30am", "1:00pm", "3:30pm", "6:15pm", "10:20pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRsFYLaSAWco8lKDhMH7fn2UsE4Q9AWmliHdQk8pnDM34gEICRI%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:15pm", "5:30pm", "9:15pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Woodinville 12",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Woodinville+12&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep3k7Q0VspgD5_JJgLGKEKRiG1_8nITw5XZfSUQiUxH8Q109ORICGexmp5ED3tBiEMDXsjBJ54bRAVWx1Xk9YbcxAEIyP6icgWIwPgm-6rXWdAMzSUmaPiKaHP9QmoeYmEkRq4pMAV28RvaYs7zi9zvCelbXGaT4W1ANdfw1DhEY9v3OzjiHsaJ-2ph33huYbzE3A0zY%3D",
+          "distance": "13.3 mi",
+          "address": "17640 Garden Way, Woodinville, WA 98072",
+          "showing": [
+            {
+              "time": ["7:15pm", "10:00pm"]
+            }
+          ]
+        },
+        {
+          "name": "Seefilm Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Seefilm+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ7wTww0NeyteqLjUzrr3tf-LZ7_AYrQscHlGizKaMuXrEOWeGv_EnK2N5djv14NzZwJOaAL_xoQiI414-4kWETxGom9N-_B_rbEiCydXa07_oKBXA0SdolJBULNoo67PQAmVr6Mti88FXzEglZd4L3PlPpaC_O4AYDez1GzEfYKPDRFuy-xnRrnyJF2WVG7wvwT7tYWyKHtIKDmTGAnu6xeMulSq",
+          "distance": "14.2 mi",
+          "address": "655 4th Street, Bremerton, WA 98337",
+          "showing": [
+            {
+              "time": ["3:15pm", "8:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Alderwood Mall 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Alderwood+Mall+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep6TIF9AV5XfDbsl32PMx9AD5Ixvy_x4XvtswU5cC30MBfGTZfSqpxrFES42tGOpmKuLT5tbAQXayXLI9IJyS1Wchki0olmsIC8uUi7xauv4pLdFwT8eRufBcD-BxYuYZnm0WNQAKM2K2bKPIsehko9UhdDaw_YkrMKIOT58Ye7l4puyNLJuie994gqQoKS_9oXG0prQ%3D",
+          "distance": "15.6 mi",
+          "address": "Alderwood Mall, 18733 33rd Ave. W., Lynnwood, WA 98037",
+          "showing": [
+            {
+              "time": ["10:10am", "2:40pm", "4:05pm", "6:15pm", "10:00pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kent Station 14",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kent+Station+14&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQS2IY5-AVjHlvjoBS1aohyFo87oKq0P2IqutdpxVIYpOGbdtNWZNV3V093CP6lUosKDtiN_hb8dkq-zYsuILHQbxJHS5Ts7GpTH7V-mYcj5-69RrXtYtdz0ZwHJKzWTUqwnWRj-FBlytnGo_uBDG4HWh6g8_cXbFDmhFw6CgIV9UnFhb3nckx2EnDFybpCNlWtl81hw%3D",
+          "distance": "16.0 mi",
+          "address": "426 Ramsay Way, Kent, WA 98032",
+          "showing": [
+            {
+              "time": ["10:00am", "12:40pm", "4:10pm", "7:00pm", "9:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "AMC Kitsap 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Kitsap+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwLhyO4ne7ThnLKuyMGYDcyT_I2kDe51L8hp3kVCKma_1p7T2g0x2ujjzJa_AIdDqBv8QLscSHns3knYEuhEPk6f3W1pAwCl0nbOSTKyA7kJGJ3Vqk2kqZYwGzWZcNv-IPn88d32LovnK43sV4tXTxBr2gX41w7I1GsGrMDYt4_GjPXcwl50PDTq6AxKTb-o_7h3t5Y%3D",
+          "distance": "17.2 mi",
+          "address": "PO Box 3246, 10055 Kitsap Mall Blvd Nw, Silverdale, WA 98383",
+          "showing": [
+            {
+              "time": ["5:30pm"]
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Century Federal Way and XD",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Century+Federal+Way+and+XD&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7juNKbw_MUtJ8u-veMvJCskCHa97_zdhE6sraqMgifYiJbLwIBBtEUv9-bOUV-c_80KojqLqe6T0m2BG_uJfKsUkH-OKCGPrqLPLrDM5WeITlWHz4fM77I3xr3zrh7sipGO_tLUWB-nJqP3zgOLFEvpGbs8Kq8Nb4Pc2jfdMxuKmWv5zZM26iiQR1tTcJ7r9RJyYpU%3D",
+          "distance": "20.3 mi",
+          "address": "Located at The Commons at Federal Way, 2001 S Commons, Federal Way, WA 98003",
+          "showing": [
+            {
+              "time": ["2:10pm", "5:05pm", "8:00pm", "10:50pm"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "ThuJul 11",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905MPNpH4So-MEcfd0YkYmVE1jTTJEqPwRT2xaVda2_P3Pqo8fUMmOdAi60_KSaAcMqcI9-n",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:45pm", "3:40pm"]
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_Ackiydbbj15ZKnNXpraD_0IDX9CYb-raf0GimjFrQ51fEUwaHJL8pVeV5jlnFeupgnMkIAVk",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["6:20pm", "10:25pm"]
+            }
+          ]
+        },
+        {
+          "name": "Seefilm Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Seefilm+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ7wTww0NeyteqLjUzrr3tf-LZ7_AYrQscHlGizKaMuXrEOWeGv_EnK2N5djv14NzZwJOaAL_xoQiI414-4kWETxGom9N-_B_rbEiCydXa07_oKBXA0SdolJBULNoo67PQAmVr6Mti88FXzEglZd4L3PlPpaC_O4AYDez1GzEfYKPDRFuy-xnRrnyJF2WVG7wvwT7tYWyKHtIKDmTGAnu6xeMulSq",
+          "distance": "14.2 mi",
+          "address": "655 4th Street, Bremerton, WA 98337",
+          "showing": [
+            {
+              "time": ["3:15pm"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs_results": {
+    "location": "About"
+  },
+  "knowledge_graph": {
+    "title": "Bad Boys: Ride or Die",
+    "type": "R 2024 ‧ Action/Comedy ‧ 1h 55m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Overview",
+    "kgmid": "/g/11b8t4nb4r",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11b8t4nb4r&hl=en-US&q=Bad+Boys:+Ride+or+Die&kgs=78ce15ae9641f8de&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11b8t4nb4r&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die",
+    "tabs": [
+      {
+        "text": "Showtimes",
+        "si": "ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I_m3Nb-Ga4bqS4w_b--frRMPZd2eyw-yfb8_B3c9q1a0O_zJ4Q==",
+        "link": "https://www.google.com/search?si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I_m3Nb-Ga4bqS4w_b--frRMPZd2eyw-yfb8_B3c9q1a0O_zJ4Q==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I_m3Nb-Ga4bqS4w_b--frRMPZd2eyw-yfb8_B3c9q1a0O_zJ4Q%3D%3D"
+      },
+      {
+        "text": "Cast",
+        "si": "ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zq4h7yNd2GYHXJlE6gsGywxz14j77UUDsiBz1e_iLhzji0gCbkrlncgWsrkGALKzljlZtr7-Lh9gDk7f3XvB69bCUJFg==",
+        "link": "https://www.google.com/search?si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zq4h7yNd2GYHXJlE6gsGywxz14j77UUDsiBz1e_iLhzji0gCbkrlncgWsrkGALKzljlZtr7-Lh9gDk7f3XvB69bCUJFg==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zq4h7yNd2GYHXJlE6gsGywxz14j77UUDsiBz1e_iLhzji0gCbkrlncgWsrkGALKzljlZtr7-Lh9gDk7f3XvB69bCUJFg%3D%3D"
+      },
+      {
+        "text": "Trailers & clips",
+        "si": "ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BKyI62tZEFNFJGnWeSR67M7v0coe0t2XFlZNte3KpemFgxoAH2dyWmH7JZuD3IcZ6mCIj0sWlqloJX7Llll6y2-DBb1M",
+        "link": "https://www.google.com/search?si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BKyI62tZEFNFJGnWeSR67M7v0coe0t2XFlZNte3KpemFgxoAH2dyWmH7JZuD3IcZ6mCIj0sWlqloJX7Llll6y2-DBb1M",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BKyI62tZEFNFJGnWeSR67M7v0coe0t2XFlZNte3KpemFgxoAH2dyWmH7JZuD3IcZ6mCIj0sWlqloJX7Llll6y2-DBb1M"
+      },
+      {
+        "text": "Behind the scenes",
+        "si": "ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPXTqSCenRXXwh0zQspJurNLCdi4wPXZvsMJ77N0YP_VVlcIoiP1d4BFBWAYdgOHwxjHxblLfNDLz4yu9PKFVlIdX9hF3JdoP-qB8n3rK_sGd4Wnfog==",
+        "link": "https://www.google.com/search?si=ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPXTqSCenRXXwh0zQspJurNLCdi4wPXZvsMJ77N0YP_VVlcIoiP1d4BFBWAYdgOHwxjHxblLfNDLz4yu9PKFVlIdX9hF3JdoP-qB8n3rK_sGd4Wnfog==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&si=ACC90nx9KvavAJefIc-mRk1PqtcmeTgvgCrMstxlpJvTc-UzPXTqSCenRXXwh0zQspJurNLCdi4wPXZvsMJ77N0YP_VVlcIoiP1d4BFBWAYdgOHwxjHxblLfNDLz4yu9PKFVlIdX9hF3JdoP-qB8n3rK_sGd4Wnfog%3D%3D"
+      }
+    ],
+    "description": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+    "97_fandango_bad_boys": "Ride or Die scored 97 percent on Fandango.7/10IMDbBad Boys - Ride or Die scored 7 out of 10 on IMDb.64%Rotten TomatoesBad Boys - Ride or Die scored 64 percent on Rotten Tomatoes.",
+    "97_fandango_bad_boys_links": [
+      {
+        "text": "97%FandangoBad Boys: Ride or Die scored 97 percent on Fandango.",
+        "link": "https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview"
+      },
+      {
+        "text": "7/10IMDbBad Boys: Ride or Die scored 7 out of 10 on IMDb.",
+        "link": "https://www.imdb.com/title/tt4919268/"
+      },
+      {
+        "text": "64%Rotten TomatoesBad Boys: Ride or Die scored 64 percent on Rotten Tomatoes.",
+        "link": "https://www.rottentomatoes.com/m/bad_boys_ride_or_die"
+      }
+    ],
+    "release_date": "June 7, 2024 (USA)",
+    "release_date_links": [
+      {
+        "text": "USA",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=United+States&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEyyKDHJSzIpUuLUz9U3sEw2LzfQMspOttJPy8zJBRNWJRmpiSVFmcmJOQpFqemZ-XkKieWJRalATk5qYnGqQkpiSeoiVt7QvMyS1BSF4BIgt3gHK-MudiYOBgDW1sMuaAAAAA&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQmxMoAHoECCIQAg"
+      }
+    ],
+    "directors": "Adil El Arbi, Bilall Fallah",
+    "directors_links": [
+      {
+        "text": "Adil El Arbi",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Adil+El+Arbi&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ9zbbin2PYB3enBIAvS0fbFqj0PDTGPcJOLbKxobthkQcp3AazmP2vOBwU7UOD90Cgm8TLk-V0uJFpZaKdskxZnJKWp2IAHHcq8SerG87rANHAr7ldqVoicpePaMVjpTuupdHck2agQSdfSGB8V_KF6iGk2hjjAUoTioxAXKEdzuzF-LyNYUBcSjAy1OOiXJHI80hgoKBxHgq59YVJ5z7s_4kLt4q7tKymCYNo2kQQS0N59Hbsqsy2LGoU4GDh50kYA2fBY%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQmxMoAHoECCAQAg"
+      },
+      {
+        "text": "Bilall Fallah",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bilall+Fallah&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgBN99o70IB2LghaMxVKz8tvk-IikutcCYx-BlWvEMcTQz05JEOnCjLV0vZqiNE2pkLhA1EZx1D_UrK_w9uY0oWMZN-g4FNZphVn_DnIB1BupdNINzNb8WBw4AWaOqqUAE-B0LrUELGc6xkW9lKn5jqmzx_93a3S15H9FY8txroPQ2DDHMqp2o2eXa6vMVmCLWMx9H6kIjIt89y-mWxwLWduVYO6oELIT-hht4DZeFgaakmJ-013F3TlCyRnnDKcbxhmNLVc%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQmxMoAXoECCAQAw"
+      }
+    ],
+    "box_office": "$336.5 million",
+    "distributed_by": "Sony Pictures Entertainment Japan",
+    "distributed_by_links": [
+      {
+        "text": "Sony Pictures Entertainment Japan",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Sony+Pictures+Entertainment+Japan&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQa6cVVlmdyfrSB6eqn6SjROWfo-cCtc5GbrWwXh-Y9Zoikk7vsUmH5xIHB-iqgW0txafBzqNNTR3CDvr4WOw2fUUOvcUNbDHIV7jlrKWa7_xXOiqyItoc1SVsaMS0NqG1dfxLcOBIbpDld1TuPygi7EtVEo3B2F_Ls2MtL_jgcjrFbgialtO-1XeXYimh0cM9ZgGPZQ%3D&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQmxMoAHoECCEQAg"
+      }
+    ],
+    "based_on": "Characters; by George Gallo",
+    "cinematography": "Robrecht Heyvaert",
+    "cinematography_links": [
+      {
+        "text": "Robrecht Heyvaert",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Robrecht+Heyvaert&stick=H4sIAAAAAAAAAONgVuLSz9U3KKpKLs4rWsQqGJSfVJSanFGi4JFaWZaYWlQCAJ81vQEiAAAA&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQmxMoAHoECCYQAg"
+      }
+    ],
+    "editorial_reviews": [
+      {
+        "title": "Fandango",
+        "rating": "97%",
+        "link": "https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview"
+      },
+      {
+        "title": "IMDb",
+        "rating": "7/10",
+        "link": "https://www.imdb.com/title/tt4919268/"
+      },
+      {
+        "title": "Rotten Tomatoes",
+        "rating": "64%",
+        "link": "https://www.rottentomatoes.com/m/bad_boys_ride_or_die"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 5,
+        "summary": "'Bad Boys: Ride or Die' reunites the dynamic duo of Will Smith and Martin Lawrence, and their chemistry, both on and off screen, remains unmatched. These two actors continue to ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Google users",
+      "statistic": "95% liked this movie"
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "BAD BOYS: RIDE OR DIE – Official Trailer (HD)",
+      "link": "https://www.youtube.com/watch?v=hRFY_Fesa9Q",
+      "thumbnail": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/ce05ccc81c2efcf060a68467c7ca9c3cab38fb61c27bc0075b26fe7a4cbcf895.jpeg",
+      "channel": "Sony Pictures Entertainment",
+      "duration": "3:05",
+      "platform": "YouTube",
+      "date": "Mar 26, 2024"
+    },
+    {
+      "position": 2,
+      "title": "Bad Boys: Ride or Die - Official Trailer - Only In Cinemas Now",
+      "link": "https://www.youtube.com/watch?v=8GBGHhXTJh0",
+      "thumbnail": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/ce05ccc81c2efcf0a518af68e968b544fc4a5d13ee4146836108a7246eee22e6.jpeg",
+      "channel": "Sony Pictures Releasing UK",
+      "duration": "2:43",
+      "platform": "YouTube",
+      "date": "Mar 26, 2024"
+    },
+    {
+      "position": 3,
+      "title": "Bad Boys: Ride or Die - Official Trailer - In Cinemas June 6 ...",
+      "link": "https://www.youtube.com/watch?v=07JSHXtf-UI",
+      "thumbnail": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/ce05ccc81c2efcf05c18135f7f624c7d3c5c130758615f52c6b8f58ed37c9c98.jpeg",
+      "channel": "Sony Pictures Releasing Australia",
+      "duration": "2:13",
+      "platform": "YouTube",
+      "date": "1 month ago"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How can I watch Bad Boys ride or die?",
+      "snippet": "But there's also now an option to watch the film at home. As of November 25, 2024, Which Bad Boys: Ride or Die is available on HBO Max. Only those with a subscription to the service can watch the movie.",
+      "title": "WATCH Bad Boys Ride or Die (2024—FullMovie) ONLINE ON ...",
+      "date": "3 days ago",
+      "link": "https://www.portsmouth-dailytimes.com/calendar/%E2%9C%B4watch-bad-boys-ride-or-die-2024-fullmovie-online-on-streamings-2/#:~:text=But%20there's%20also%20now%20an,service%20can%20watch%20the%20movie.",
+      "displayed_link": "https://www.portsmouth-dailytimes.com › calendar › ✴...",
+      "source_logo": "",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIHdhdGNoIEJhZCBCb3lzIHJpZGUgb3IgZGllPyIsImxrIjoiR2lSb2IzY2dZMkZ1SUdrZ2QyRjBZMmdnWW1Ga0lHSnZlWE1nY21sa1pTQnZjaUJrYVdVIiwiYnMiOiJjLU1LNGxMMXlDOVhTRTdNVV9CVUtFOHNTYzVRY0VwTVVYREtyeXhXS01wTVNWWElMMUpJeVV5MWwyaXlObEtUVXNtQXFzMkVxazBDcWsxQ1U4dmx3YVhnV1l3d0pnZ3E1WktacWxDVVdKS2FvaEJrTDdFM3cwaFJTajZ6R0tzSlVHVkZYQzVjY3VFWnFVV3BDc2dLMDRDS2NqTFRnSXJ6N0NYNkVvemtwV1RMOFNuaTh1TlNCdmt4Sno4dkhhU21KQ05WSVMtMUhPSEEzUHd5a0E4dmVCaXBTQ2xsWUZFSk54V3NVb0FSQUEiLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIHdhdGNoIEJhZCBCb3lzIHJpZGUgb3IgZGllPyIsImxrIjoiR2lSb2IzY2dZMkZ1SUdrZ2QyRjBZMmdnWW1Ga0lHSnZlWE1nY21sa1pTQnZjaUJrYVdVIiwiYnMiOiJjLU1LNGxMMXlDOVhTRTdNVV9CVUtFOHNTYzVRY0VwTVVYREtyeXhXS01wTVNWWElMMUpJeVV5MWwyaXlObEtUVXNtQXFzMkVxazBDcWsxQ1U4dmx3YVhnV1l3d0pnZ3E1WktacWxDVVdKS2FvaEJrTDdFM3cwaFJTajZ6R0tzSlVHVkZYQzVjY3VFWnFVV3BDc2dLMDRDS2NqTFRnSXJ6N0NYNkVvemtwV1RMOFNuaTh1TlNCdmt4Sno4dkhhU21KQ05WSVMtMUhPSEEzUHd5a0E4dmVCaXBTQ2xsWUZFSk54V3NVb0FSQUEiLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is Bad Boys Ride or Die rated R?",
+      "snippet": "10.",
+      "title": "Bad Boys: Ride or Die [2024] [R] - 4.7.10 - Kids-In-Mind.com",
+      "link": "https://kids-in-mind.com/b/bad-boys-ride-or-die-parents-guide-movie-review-rating.htm#:~:text=10,-Why%20is%20%E2%80%9CBad",
+      "displayed_link": "https://kids-in-mind.com › bad-boys-ride-or-die-parents-...",
+      "source_logo": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/01828dfad6e4cdb52ffc3226635ec4217c07267458c09ec55f5a8667b742ba9b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSXMgQmFkIEJveXMgUmlkZSBvciBEaWUgcmF0ZWQgUj8iLCJsayI6IkdoOXBjeUJpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCeVlYUmxaQ0J5IiwiYnMiOiJjLU1LNGxMMXlDOVhTRTdNVV9CVUtFOHNTYzVRY0VwTVVYREtyeXhXS01wTVNWWElMMUpJeVV5MWwyaXlObEtUVXNtQXFzMkVxazBDcWsxQ1U4dmx3YVhnV1l3d0pnZ3E1WktacWxDVVdKS2FvaEJrTDdFM3cwaFJTajZ6R0tzSlVHVkZYQzVjY3VFWnFVV3BDc2dLMDRDS2NqTFRnSXJ6N0NYNkVvemtwV1RMOFNuaTh1TlNCdmt4Sno4dkhhU21KQ05WSVMtMUhPSEEzUHd5a0E4dmVCaXBTQ2xsWUZFSk54V3NVb0FSQUEiLCJpZCI6ImZjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSXMgQmFkIEJveXMgUmlkZSBvciBEaWUgcmF0ZWQgUj8iLCJsayI6IkdoOXBjeUJpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCeVlYUmxaQ0J5IiwiYnMiOiJjLU1LNGxMMXlDOVhTRTdNVV9CVUtFOHNTYzVRY0VwTVVYREtyeXhXS01wTVNWWElMMUpJeVV5MWwyaXlObEtUVXNtQXFzMkVxazBDcWsxQ1U4dmx3YVhnV1l3d0pnZ3E1WktacWxDVVdKS2FvaEJrTDdFM3cwaFJTajZ6R0tzSlVHVkZYQzVjY3VFWnFVV3BDc2dLMDRDS2NqTFRnSXJ6N0NYNkVvemtwV1RMOFNuaTh1TlNCdmt4Sno4dkhhU21KQ05WSVMtMUhPSEEzUHd5a0E4dmVCaXBTQ2xsWUZFSk54V3NVb0FSQUEiLCJpZCI6ImZjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Where is bad boys for life on?",
+      "snippet": "The Bad Boys Mike Lowrey (Will Smith) and Marcus Burnett (Martin Lawrence) are back together for one last ride in the highly anticipated Bad Boys for Life. Get Hulu, Disney+, and ESPN+, all with ads, for $14.99/mo. Get Hulu, Disney+, and ESPN+, all with ads, for $14.99/mo.",
+      "title": "Watch Bad Boys for Life Streaming Online | Hulu (Free Trial)",
+      "link": "https://www.hulu.com/movie/bad-boys-for-life-08cad73e-d18b-436e-8aac-5dc79f98de2c#:~:text=Boys%20for%20Life-,The%20Bad%20Boys%20Mike%20Lowrey%20(Will%20Smith)%20and%20Marcus%20Burnett,anticipated%20Bad%20Boys%20for%20Life.&text=Get%20Hulu%2C%20Disney%2B%2C%20and%20ESPN%2B,ads%2C%20for%20%2414.99%2Fmo.",
+      "displayed_link": "https://www.hulu.com › movie › bad-boys-for-life-08ca...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQltJntONFsEKmPoyiDcAhngH77K3oez2TKqDGM54JFGma-MDQORC-46Y0w&s",
+      "source_logo": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/01828dfad6e4cdb52ffc3226635ec4211ddab39773e97ca92aa4833b0607d653.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgYmFkIGJveXMgZm9yIGxpZmUgb24/IiwibGsiOiJHaDEzYUdWeVpTQnBjeUJpWVdRZ1ltOTVjeUJtYjNJZ2JHbG1aU0J2YmciLCJicyI6ImMtTUs0bEwxeUM5WFNFN01VX0JVS0U4c1NjNVFjRXBNVVhES3J5eFdLTXBNU1ZYSUwxSkl5VXkxbDJpeU5sS1RVc21BcXMyRXFrMENxazFDVTh2bHdhWGdXWXd3SmdncTVaS1pxbENVV0pLYW9oQmtMN0UzdzBoUlNqNnpHS3NKVUdWRlhDNWNjdUVacVVXcENzZ0swNENLY2pMVGdJcno3Q1g2RW96a3BXVEw4U25pOHVOU0J2a3hKejh2SGFTbUpDTlZJUy0xSE9IQTNQd3lrQTh2ZUJpcFNDbGxZRkVKTnhXc1VvQVJBQSIsImlkIjoiZmNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiV2hlcmUgaXMgYmFkIGJveXMgZm9yIGxpZmUgb24%2FIiwibGsiOiJHaDEzYUdWeVpTQnBjeUJpWVdRZ1ltOTVjeUJtYjNJZ2JHbG1aU0J2YmciLCJicyI6ImMtTUs0bEwxeUM5WFNFN01VX0JVS0U4c1NjNVFjRXBNVVhES3J5eFdLTXBNU1ZYSUwxSkl5VXkxbDJpeU5sS1RVc21BcXMyRXFrMENxazFDVTh2bHdhWGdXWXd3SmdncTVaS1pxbENVV0pLYW9oQmtMN0UzdzBoUlNqNnpHS3NKVUdWRlhDNWNjdUVacVVXcENzZ0swNENLY2pMVGdJcno3Q1g2RW96a3BXVEw4U25pOHVOU0J2a3hKejh2SGFTbUpDTlZJUy0xSE9IQTNQd3lrQTh2ZUJpcFNDbGxZRkVKTnhXc1VvQVJBQSIsImlkIjoiZmNfNSJ9"
+    },
+    {
+      "question": "How long is the new Bad Boys movie?",
+      "snippet": "Frequently Asked Questions. How long is Bad Boys: Ride or Die (2024)? Bad Boys: Ride or Die (2024) is 1 hr 55 min long.",
+      "title": "Bad Boys: Ride or Die (2024) Showtimes | Fandango",
+      "link": "https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview#:~:text=Frequently%20Asked%20Questions,1%20hr%2055%20min%20long.",
+      "displayed_link": "https://www.fandango.com › movie-overview",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaXMgdGhlIG5ldyBCYWQgQm95cyBtb3ZpZT8iLCJsayI6IkdpSm9iM2NnYkc5dVp5QnBjeUIwYUdVZ2JtVjNJR0poWkNCaWIzbHpJRzF2ZG1sbCIsImJzIjoiYy1NSzRsTDF5QzlYU0U3TVVfQlVLRThzU2M1UWNFcE1VWERLcnl4V0tNcE1TVlhJTDFKSXlVeTFsMml5TmxLVFVzbUFxczJFcWswQ3FrMUNVOHZsd2FYZ1dZd3dKZ2dxNVpLWnFsQ1VXSkthb2hCa0w3RTN3MGhSU2o2ekdLc0pVR1ZGWEM1Y2N1RVpxVVdwQ3NnSzA0Q0tjakxUZ0lyejdDWDZFb3prcFdUTDhTbmk4dU5TQnZreEp6OHZIYVNtSkNOVklTLTFIT0hBM1B3eWtBOHZlQmlwU0NsbFlGRUpOeFdzVW9BUkFBIiwiaWQiOiJmY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210T2VucDRjRFpOYkV4NFJtbHBMVjlvVmpObFpsaG1lSEI2Vm5aaVUySlhTR1pPVjFVeFJtWkhkMnN0U2pacFRVNW9SRzFCYkVRM1RqSmlZWE5QZG1OcWFtWkJlbmR3RWhkaVVuRk5XblZpVGtnMFgxUTFUbTlRTUhWaGIyOUJPQm9pUVVaWWNrVmpjbXBHTFdKb1NVbzFNRVZxZWxvelV6UnhWbWQyUzNabmNWVklkdyIsImZjdiI6IjMiLCJlaSI6ImJScU1adWJOSDRfVDVOb1AwdWFvb0E4IiwicWMiOiJDaHhpWVdRZ1ltOTVjeUJ5YVdSbElHOXlJR1JwWlNCMGFHVmhkR1Z5RUFCOTIyb21QdyIsInF1ZXN0aW9uIjoiSG93IGxvbmcgaXMgdGhlIG5ldyBCYWQgQm95cyBtb3ZpZT8iLCJsayI6IkdpSm9iM2NnYkc5dVp5QnBjeUIwYUdVZ2JtVjNJR0poWkNCaWIzbHpJRzF2ZG1sbCIsImJzIjoiYy1NSzRsTDF5QzlYU0U3TVVfQlVLRThzU2M1UWNFcE1VWERLcnl4V0tNcE1TVlhJTDFKSXlVeTFsMml5TmxLVFVzbUFxczJFcWswQ3FrMUNVOHZsd2FYZ1dZd3dKZ2dxNVpLWnFsQ1VXSkthb2hCa0w3RTN3MGhSU2o2ekdLc0pVR1ZGWEM1Y2N1RVpxVVdwQ3NnSzA0Q0tjakxUZ0lyejdDWDZFb3prcFdUTDhTbmk4dU5TQnZreEp6OHZIYVNtSkNOVklTLTFIT0hBM1B3eWtBOHZlQmlwU0NsbFlGRUpOeFdzVW9BUkFBIiwiaWQiOiJmY181In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bad Boys: Ride or Die",
+      "link": "https://www.amctheatres.com/movies/bad-boys-ride-or-die-74294",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amctheatres.com/movies/bad-boys-ride-or-die-74294&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECEgQAQ",
+      "displayed_link": "https://www.amctheatres.com › movies › bad-boys-ride...",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01ed54ae878afd037d7f300d7c61ebe65bb.png",
+      "snippet": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's ...",
+      "snippet_highlighted_words": ["Bad Boys"],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 2,
+      "title": "Bad Boys: Ride or Die (2024) Showtimes",
+      "link": "https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fandango.com/bad-boys-ride-or-die-2024-234522/movie-overview&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECFAQAQ",
+      "displayed_link": "https://www.fandango.com › movie-overview",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01e6e482927908e74be641b4c91b1239f2a.png",
+      "snippet": "Bad Boys: Ride or Die (2024) is 1 hr 55 min long. Who directed Bad Boys: Ride or Die (2024)?: Adil El Arbi. Who is Mike Lowrey in Bad Boys: Ride ...",
+      "snippet_highlighted_words": [
+        "Bad Boys",
+        "Ride or Die",
+        "Bad Boys",
+        "Ride or Die",
+        "Bad Boys",
+        "Ride"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 97,
+            "votes": 4677
+          },
+          "extensions": ["Rating: 97%", "‎4,677 votes"]
+        }
+      },
+      "source": "Fandango"
+    },
+    {
+      "position": 3,
+      "title": "Bad Boys: Ride Or Die Movie Tickets and Showtimes ...",
+      "link": "https://www.regmovies.com/movies/bad-boys-ride-or-die-ho00016407",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.regmovies.com/movies/bad-boys-ride-or-die-ho00016407&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECEcQAQ",
+      "displayed_link": "https://www.regmovies.com › movies › bad-boys-ride-or...",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01e730f9dfd458872636a8047276968ec06.png",
+      "snippet": "Bad Boys: Ride Or Die Movie tickets and showtimes at a Regal Theatre near you. Search movie times, buy tickets, find movie trailers, and view upcoming ...",
+      "snippet_highlighted_words": ["Bad Boys", "Ride Or Die Movie"],
+      "source": "Regal"
+    },
+    {
+      "position": 4,
+      "title": "Bad Boys: Ride or Die Showtimes & Tickets Near You",
+      "link": "https://www.cinemark.com/movies/bad-boys-ride-or-die",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemark.com/movies/bad-boys-ride-or-die&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECEkQAQ",
+      "displayed_link": "https://www.cinemark.com › movies › bad-boys-ride-or...",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01e90bb79afcab51ea5edd3484e57b01e82.png",
+      "snippet": "Showtimes & movie tickets online for Bad Boys 4 movie: Ride or Die at Cinemark near you. Reserve recliner seats, pre-order food & drinks online.​",
+      "snippet_highlighted_words": [
+        "Showtimes",
+        "movie",
+        "Bad Boys",
+        "movie",
+        "Ride or Die"
+      ],
+      "source": "Cinemark -"
+    },
+    {
+      "position": 5,
+      "title": "Bad Boys: Ride or Die Movie | Official Website | Sony Pictures",
+      "link": "https://www.badboys.movie/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.badboys.movie/&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECGkQAQ",
+      "displayed_link": "https://www.badboys.movie",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01ee96af388dda029e4892be330823a9617.jpeg",
+      "snippet": "Bad Boys: Ride or Die Movie - NOW PLAYING EXCLUSIVELY IN MOVIE THEATERS. #BadBoys.",
+      "snippet_highlighted_words": ["Bad Boys", "Ride or Die Movie"],
+      "source": "badboys.movie"
+    },
+    {
+      "position": 6,
+      "title": "Bad Boys: Ride or Die (2024) Movie Tickets & Showtimes ...",
+      "link": "https://www.imax.com/movie/bad-boys-ride-or-die",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imax.com/movie/bad-boys-ride-or-die&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECG0QAQ",
+      "displayed_link": "https://www.imax.com › movie › bad-boys-ride-or-die",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01e7a44720867e706a4bba49cd92dda9cb9.png",
+      "snippet": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: ...",
+      "snippet_highlighted_words": ["Bad Boys"],
+      "source": "IMAX"
+    },
+    {
+      "position": 7,
+      "title": "Bad Boys: Ride Or Die Early Access",
+      "link": "https://www.amctheatres.com/movies/bad-boys-ride-or-die-early-access-77077",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amctheatres.com/movies/bad-boys-ride-or-die-early-access-77077&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECHAQAQ",
+      "displayed_link": "https://www.amctheatres.com › movies › bad-boys-ride...",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01eebe4502d18796010180ae7d63845e339.png",
+      "snippet": "Bad Boys: Ride Or Die Early Access showtimes at an AMC movie theater near you. Get movie times, watch trailers and buy tickets.",
+      "snippet_highlighted_words": [
+        "Bad Boys",
+        "Ride Or Die",
+        "showtimes",
+        "movie theater",
+        "movie"
+      ],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 8,
+      "title": "[.WATCH.] MCU's Bad Boys 4 Ride or Die (+FullMovie!) ...",
+      "link": "https://transferguide.apps.asu.edu/app/viewsyllabus/openSyllabus/180511",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://transferguide.apps.asu.edu/app/viewsyllabus/openSyllabus/180511&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECE4QAQ",
+      "displayed_link": "https://transferguide.apps.asu.edu › openSyllabus",
+      "date": "3 hours ago",
+      "snippet": "Bad Boys: Ride or Die is still currently in theaters MCU's Bad Boys 4 Ride or Die you want to experience all the film's twists and turns in a ...",
+      "snippet_highlighted_words": [
+        "Bad Boys",
+        "Ride or Die",
+        "theaters",
+        "Bad Boys",
+        "Ride or Die"
+      ],
+      "source": "Arizona State University"
+    },
+    {
+      "position": 9,
+      "title": "Bad Boys: Ride or Die",
+      "link": "https://www.harkins.com/movies/bad-boys-ride-or-die",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harkins.com/movies/bad-boys-ride-or-die&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQFnoECE8QAQ",
+      "displayed_link": "https://www.harkins.com › movies › bad-boys-ride-or-die",
+      "favicon": "https://serpapi.com/searches/668c1a6dce87f8f16aaab314/images/3fb5f6e3c892edede87f7cb8278ba01e8dbe3d0fa58a05acbe2fe78152b6b2ba.png",
+      "snippet": "This Summer, the world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: ...",
+      "snippet_highlighted_words": ["Bad Boys"],
+      "source": "Harkins Theatres"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bad boys ride or die theater cast",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+boys+ride+or+die+theater+cast&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+boys+ride+or+die+theater+cast"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad boys ride or die theater near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+boys+ride+or+die+theater+near+me&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+boys+ride+or+die+theater+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad boys ride or die theater tickets",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+boys+ride+or+die+theater+tickets&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+boys+ride+or+die+theater+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad boys ride or die theater trailer",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+boys+ride+or+die+theater+trailer&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+boys+ride+or+die+theater+trailer"
+    },
+    {
+      "block_position": 1,
+      "query": "bad boys: ride or die tickets",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=bad+boys:+ride+or+die+tickets&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=bad+boys%3A+ride+or+die+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad Boys: ride or die tickets price",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+Boys:+ride+or+die+tickets+price&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+ride+or+die+tickets+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad Boys: Ride or Die tickets near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+Boys:+Ride+or+Die+tickets+near+me&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+tickets+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Bad Boys: Ride or Die streaming",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bad+Boys:+Ride+or+Die+streaming&sa=X&ved=2ahUKEwimuIby9JeHAxWPKVkFHVIzCvQQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+streaming"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Bad+Boys%3A+Ride+or+Die+theater&oq=Bad+Boys%3A+Ride+or+Die+theater&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Bad+Boys%3A+Ride+or+Die+theater&start=40"
+    }
+  }
+}

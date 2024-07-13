@@ -1,0 +1,1068 @@
+{
+  "search_metadata": {
+    "id": "668c1b6de4a23d2ac9d0798a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9d3e94cd3c9c9a9d/668c1b6de4a23d2ac9d0798a.json",
+    "created_at": "2024-07-08 17:01:33 UTC",
+    "processed_at": "2024-07-08 17:01:33 UTC",
+    "google_url": "https://www.google.com/search?q=MaXXXine+showtimes&oq=MaXXXine+showtimes&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9d3e94cd3c9c9a9d/668c1b6de4a23d2ac9d0798a.html",
+    "total_time_taken": 1.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "MaXXXine showtimes",
+    "location_requested": "Seattle, Washington, United States",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "MaXXXine showtimes",
+    "total_results": 28700000,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "TodayJul 8",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry9060XM56AlVqGaXCL-hjhrEWgjkpGXyTjCsTzLZGByPNmkKCrjYuqiKO61ySxUOQlIezaI5E&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAL",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "2:15pm",
+                "5:00pm",
+                "6:00pm",
+                "7:45pm",
+                "8:45pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmXUzOGZwcrEw5XwrXMpnD6hiArRMeoPNvBZ2IEubSTrglvh1g%3D&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAV",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:40pm", "4:30pm", "7:30pm", "9:10pm", "10:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Uptown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=SIFF+Cinema+Uptown&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5MkJfFLVwP2VZsb-S7ACYcZ60Mr8ovu-WuF6laCuI5A4B8qiLRZWIZLskizjeUvpCkafK0LHW8ywbHkoTXrO-ZG3Qf_uanK3V1RRl0moAPgilbIf7T1XrkFKouWrKNDjiNcLWFCQjLGHs4gGE4zjAcOEZCplY1hMaxoevA8A_ZgxntRKPTsbnlZgFCfjGFj2Ca-WB4%3D&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAd",
+          "distance": "1.7 mi",
+          "address": "511 Queen Anne Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsBg3naS068wMNh36-MehQjrVg7K8bPfooEl_L1SVOTY_PYrZqpvxq2sG2CVq4NzM67szshI&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAi",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:30pm", "5:15pm", "8:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qxe-WkT-DuOhlGtRVWVpAqUDBoAu1EgxxMfy9K5FAXIibiSh_wOUfg7tlOaAOdevrOIMY9X&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAp",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:15am", "2:40pm", "5:20pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VM7-v1OXDz2cDMuZ7aJ9xJgvNxJuYsW4wVhCnLTwaGtxS2StXoyAupji3aj2aZUiQFNaHe&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQySZ6BQiSARAw",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:45am", "2:30pm", "5:15pm", "8:00pm", "10:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoU8HJLeBAMrrXjUDPng3xZ5zfxoDIXX-i5uwgJuSFqlu-Md3I%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:30pm", "5:30pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOae2GqylUzqXTRCFdpwmEJjB32ufSq_27DRL-CTbgSIGttDeTA%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["1:25pm", "4:10pm", "7:10pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsK3s1JaHYtlnDQpA0GNDkdmsBrw9mbcFnLng7Rb2QUAiArRqNM%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:40am", "2:15pm", "5:10pm", "7:20pm", "10:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKblLVdl9zU_Y2CaFbhLMUv--E305XbXKKw2Mc2MypIJMIk-cuY%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["1:10pm", "4:00pm", "6:50pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_AcmDUmQBfByRS1anAopWFk4CmpN2qNE63QQH-dlqkHw_FZoG81lTuZESc5ipnqDGFG3sz7Te",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["11:10am", "1:55pm", "4:40pm", "7:25pm", "10:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz41GYeSNkcDKn1tTfSk2VsTAD7rj1t9P20rNCcfVUe7kfbj_xs%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": ["12:00pm", "2:15pm", "5:00pm", "6:15pm", "9:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "IPIC Theaters",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=IPIC+Theaters&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ2v92JKkURh4Y-vZWSgNuKng_De-P5MwnO-IND267avwOB2dc-gELzvOBnc_C9WuYsbDSXQkPeabSqbKwJbB9E02fItxiKw4qFMjslgHRLqKusszJlRdPPfi93tL7N9N27sqtXUT_RghCcu60zoyK-0gPEw3MrI0ptp_n-GZHr6dCQIeO4a05gHgyEU9558EGFEYta3Nr1PqFNggnUxnGZPp_NWD",
+          "distance": "10.9 mi",
+          "address": "16451 N.E. 74th Street, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["3:45pm", "7:15pm", "10:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Bella Bottega",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Bella+Bottega&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQaWpcJ_NtnZkWtQ_00BeWmO3OnwMhea7hGx-HCkD1idD6V6QQLuAPdXFVzengC5azQGP2Jc7j6Q4c97JoPy6xvLslPO9x6W_CIyVVAyWTFw3-vs_-_oQUHMHRc2t9MmUQF0V5LuyVp23Cm0s9EvrCLRbkNdjPS4b27DiZN768hK9curoJ_-iRZ5JvTxGs5HGb7Cv5bI%3D",
+          "distance": "11.1 mi",
+          "address": "8890 NE 161st Avenue, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["1:00pm", "3:45pm", "6:25pm", "9:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRtxqRxxdQq5tTuLMpPr4Qs-6abcBh_tdOjjhxmEoBfMag6pFvE%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:00pm", "5:15pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "TueJul 9",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry9060XM56AlVqGaXCL-hjhrEWgjkpGXyTjCsTzLZGByPNmkKCrjYuqiKO61ySxUOQlIezaI5E",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "2:15pm",
+                "3:15pm",
+                "5:00pm",
+                "6:00pm",
+                "7:45pm",
+                "8:45pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmXUzOGZwcrEw5XwrXMpnD6hiArRMeoPNvBZ2IEubSTrglvh1g%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:40pm", "4:40pm", "7:30pm", "9:10pm", "10:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Uptown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=SIFF+Cinema+Uptown&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5MkJfFLVwP2VZsb-S7ACYcZ60Mr8ovu-WuF6laCuI5A4B8qiLRZWIZLskizjeUvpCkafK0LHW8ywbHkoTXrO-ZG3Qf_uanK3V1RRl0moAPgilbIf7T1XrkFKouWrKNDjiNcLWFCQjLGHs4gGE4zjAcOEZCplY1hMaxoevA8A_ZgxntRKPTsbnlZgFCfjGFj2Ca-WB4%3D",
+          "distance": "1.7 mi",
+          "address": "511 Queen Anne Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsBg3naS068wMNh36-MehQjrVg7K8bPfooEl_L1SVOTY_PYrZqpvxq2sG2CVq4NzM67szshI",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:30pm", "5:15pm", "8:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qxe-WkT-DuOhlGtRVWVpAqUDBoAu1EgxxMfy9K5FAXIibiSh_wOUfg7tlOaAOdevrOIMY9X",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:15am", "2:40pm", "5:20pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VM7-v1OXDz2cDMuZ7aJ9xJgvNxJuYsW4wVhCnLTwaGtxS2StXoyAupji3aj2aZUiQFNaHe",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "9:00am",
+                "11:45am",
+                "2:30pm",
+                "5:15pm",
+                "8:00pm",
+                "10:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoU8HJLeBAMrrXjUDPng3xZ5zfxoDIXX-i5uwgJuSFqlu-Md3I%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["1:45pm", "4:00pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOae2GqylUzqXTRCFdpwmEJjB32ufSq_27DRL-CTbgSIGttDeTA%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["1:25pm", "4:10pm", "7:10pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsK3s1JaHYtlnDQpA0GNDkdmsBrw9mbcFnLng7Rb2QUAiArRqNM%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "2:30pm",
+                "5:10pm",
+                "7:20pm",
+                "7:45pm",
+                "10:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKblLVdl9zU_Y2CaFbhLMUv--E305XbXKKw2Mc2MypIJMIk-cuY%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["1:10pm", "4:00pm", "6:50pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_AcmDUmQBfByRS1anAopWFk4CmpN2qNE63QQH-dlqkHw_FZoG81lTuZESc5ipnqDGFG3sz7Te",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["11:10am", "1:55pm", "4:40pm", "7:25pm", "10:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz41GYeSNkcDKn1tTfSk2VsTAD7rj1t9P20rNCcfVUe7kfbj_xs%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": ["9:30am", "12:00pm", "5:00pm", "7:30pm", "9:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "IPIC Theaters",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=IPIC+Theaters&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ2v92JKkURh4Y-vZWSgNuKng_De-P5MwnO-IND267avwOB2dc-gELzvOBnc_C9WuYsbDSXQkPeabSqbKwJbB9E02fItxiKw4qFMjslgHRLqKusszJlRdPPfi93tL7N9N27sqtXUT_RghCcu60zoyK-0gPEw3MrI0ptp_n-GZHr6dCQIeO4a05gHgyEU9558EGFEYta3Nr1PqFNggnUxnGZPp_NWD",
+          "distance": "10.9 mi",
+          "address": "16451 N.E. 74th Street, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["3:45pm", "7:15pm", "10:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Bella Bottega",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Bella+Bottega&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQaWpcJ_NtnZkWtQ_00BeWmO3OnwMhea7hGx-HCkD1idD6V6QQLuAPdXFVzengC5azQGP2Jc7j6Q4c97JoPy6xvLslPO9x6W_CIyVVAyWTFw3-vs_-_oQUHMHRc2t9MmUQF0V5LuyVp23Cm0s9EvrCLRbkNdjPS4b27DiZN768hK9curoJ_-iRZ5JvTxGs5HGb7Cv5bI%3D",
+          "distance": "11.1 mi",
+          "address": "8890 NE 161st Avenue, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["1:00pm", "3:45pm", "6:25pm", "9:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRtxqRxxdQq5tTuLMpPr4Qs-6abcBh_tdOjjhxmEoBfMag6pFvE%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:00pm", "5:15pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "WedJul 10",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry9060XM56AlVqGaXCL-hjhrEWgjkpGXyTjCsTzLZGByPNmkKCrjYuqiKO61ySxUOQlIezaI5E",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "2:15pm",
+                "5:00pm",
+                "6:00pm",
+                "7:45pm",
+                "8:45pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqmXUzOGZwcrEw5XwrXMpnD6hiArRMeoPNvBZ2IEubSTrglvh1g%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:40pm", "4:30pm", "7:30pm", "9:10pm", "10:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Uptown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=SIFF+Cinema+Uptown&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5MkJfFLVwP2VZsb-S7ACYcZ60Mr8ovu-WuF6laCuI5A4B8qiLRZWIZLskizjeUvpCkafK0LHW8ywbHkoTXrO-ZG3Qf_uanK3V1RRl0moAPgilbIf7T1XrkFKouWrKNDjiNcLWFCQjLGHs4gGE4zjAcOEZCplY1hMaxoevA8A_ZgxntRKPTsbnlZgFCfjGFj2Ca-WB4%3D",
+          "distance": "1.7 mi",
+          "address": "511 Queen Anne Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsBg3naS068wMNh36-MehQjrVg7K8bPfooEl_L1SVOTY_PYrZqpvxq2sG2CVq4NzM67szshI",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:30pm", "5:15pm", "8:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qxe-WkT-DuOhlGtRVWVpAqUDBoAu1EgxxMfy9K5FAXIibiSh_wOUfg7tlOaAOdevrOIMY9X",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:15am", "2:40pm", "5:20pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5VM7-v1OXDz2cDMuZ7aJ9xJgvNxJuYsW4wVhCnLTwaGtxS2StXoyAupji3aj2aZUiQFNaHe",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "9:00am",
+                "11:45am",
+                "2:30pm",
+                "5:15pm",
+                "8:00pm",
+                "10:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoU8HJLeBAMrrXjUDPng3xZ5zfxoDIXX-i5uwgJuSFqlu-Md3I%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["1:45pm", "4:00pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOae2GqylUzqXTRCFdpwmEJjB32ufSq_27DRL-CTbgSIGttDeTA%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["1:25pm", "4:10pm", "7:10pm", "9:55pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsK3s1JaHYtlnDQpA0GNDkdmsBrw9mbcFnLng7Rb2QUAiArRqNM%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "2:30pm",
+                "5:10pm",
+                "7:20pm",
+                "7:45pm",
+                "10:20pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKblLVdl9zU_Y2CaFbhLMUv--E305XbXKKw2Mc2MypIJMIk-cuY%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["1:10pm", "4:00pm", "6:55pm", "9:40pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_AcmDUmQBfByRS1anAopWFk4CmpN2qNE63QQH-dlqkHw_FZoG81lTuZESc5ipnqDGFG3sz7Te",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["11:10am", "1:55pm", "4:40pm", "7:25pm", "10:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Southcenter 16",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Southcenter+16&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep7VpeEe6Kotinzv789fyqsU9Fz4IKkYhyAa3PeTXJ4MvjDLDo1e0jpOCxcMoB80gvd1TpOhM-e-herbzV2tgLwpT7JbcSCqHHWHXKH941UrsJyq0KikDaK5clowl8VDwYRCwhGpGRTPEQNsDiO-tlz41GYeSNkcDKn1tTfSk2VsTAD7rj1t9P20rNCcfVUe7kfbj_xs%3D",
+          "distance": "10.8 mi",
+          "address": "3600 Southcenter Mall, Tukwila, WA 98188",
+          "showing": [
+            {
+              "time": [
+                "9:45am",
+                "12:20pm",
+                "2:15pm",
+                "5:00pm",
+                "6:15pm",
+                "9:45pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "IPIC Theaters",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=IPIC+Theaters&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ2v92JKkURh4Y-vZWSgNuKng_De-P5MwnO-IND267avwOB2dc-gELzvOBnc_C9WuYsbDSXQkPeabSqbKwJbB9E02fItxiKw4qFMjslgHRLqKusszJlRdPPfi93tL7N9N27sqtXUT_RghCcu60zoyK-0gPEw3MrI0ptp_n-GZHr6dCQIeO4a05gHgyEU9558EGFEYta3Nr1PqFNggnUxnGZPp_NWD",
+          "distance": "10.9 mi",
+          "address": "16451 N.E. 74th Street, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["3:45pm", "7:15pm", "10:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Bella Bottega",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Bella+Bottega&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQaWpcJ_NtnZkWtQ_00BeWmO3OnwMhea7hGx-HCkD1idD6V6QQLuAPdXFVzengC5azQGP2Jc7j6Q4c97JoPy6xvLslPO9x6W_CIyVVAyWTFw3-vs_-_oQUHMHRc2t9MmUQF0V5LuyVp23Cm0s9EvrCLRbkNdjPS4b27DiZN768hK9curoJ_-iRZ5JvTxGs5HGb7Cv5bI%3D",
+          "distance": "11.1 mi",
+          "address": "8890 NE 161st Avenue, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["1:00pm", "3:45pm", "6:25pm", "9:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Cinebarre Mountlake",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Cinebarre+Mountlake&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep4D-M_D06tws8pQ-8fxc38HOOA3Qll0yszmahyeCZoc1GYUIkUtfv_92zQge2oWqB1mARIMar0o7kaVbh_V99K0YfJ58mWQON-0dELWAMLZzBPUC1W6POgbGEgXiyVG0i5Smsy1slXrnIx7jyyZqLRtxqRxxdQq5tTuLMpPr4Qs-6abcBh_tdOjjhxmEoBfMag6pFvE%3D",
+          "distance": "12.0 mi",
+          "address": "24220 Van Ry Boulevard, Mountlake Terrace, WA 98043",
+          "showing": [
+            {
+              "time": ["2:00pm", "5:15pm", "8:15pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "ThuJul 11",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry9060XM56AlVqGaXCL-hjhrEWgjkpGXyTjCsTzLZGByPNmkKCrjYuqiKO61ySxUOQlIezaI5E",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["11:30am", "2:15pm", "5:00pm", "7:45pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "SIFF Cinema Uptown",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=SIFF+Cinema+Uptown&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5MkJfFLVwP2VZsb-S7ACYcZ60Mr8ovu-WuF6laCuI5A4B8qiLRZWIZLskizjeUvpCkafK0LHW8ywbHkoTXrO-ZG3Qf_uanK3V1RRl0moAPgilbIf7T1XrkFKouWrKNDjiNcLWFCQjLGHs4gGE4zjAcOEZCplY1hMaxoevA8A_ZgxntRKPTsbnlZgFCfjGFj2Ca-WB4%3D",
+          "distance": "1.7 mi",
+          "address": "511 Queen Anne Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:15pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOae2GqylUzqXTRCFdpwmEJjB32ufSq_27DRL-CTbgSIGttDeTA%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": ["1:25pm", "4:10pm", "7:10pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsK3s1JaHYtlnDQpA0GNDkdmsBrw9mbcFnLng7Rb2QUAiArRqNM%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:00am", "1:45pm", "4:20pm", "7:10pm", "9:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKblLVdl9zU_Y2CaFbhLMUv--E305XbXKKw2Mc2MypIJMIk-cuY%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": ["12:50pm", "3:40pm", "6:30pm", "9:20pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal The Landing",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+The+Landing&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8AqIRF0e6kAr0vk1HkkfjUwdy-rP7Xq62cc80dsU3M0WNBIoaI2nh7EdbVHQnBz-Mi9XCy00JqCFy_4ybVoH8l2qZSQLeKX23IsC1fic7v6vQ4WcSqVbrk_OlvSZGGzbIhbGprit5YfuiCX6mR_AcmDUmQBfByRS1anAopWFk4CmpN2qNE63QQH-dlqkHw_FZoG81lTuZESc5ipnqDGFG3sz7Te",
+          "distance": "9.6 mi",
+          "address": "900 North 10th Place, Renton, WA 98057",
+          "showing": [
+            {
+              "time": ["11:10am", "1:55pm", "4:40pm", "7:25pm", "10:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Regal Bella Bottega",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Regal+Bella+Bottega&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQaWpcJ_NtnZkWtQ_00BeWmO3OnwMhea7hGx-HCkD1idD6V6QQLuAPdXFVzengC5azQGP2Jc7j6Q4c97JoPy6xvLslPO9x6W_CIyVVAyWTFw3-vs_-_oQUHMHRc2t9MmUQF0V5LuyVp23Cm0s9EvrCLRbkNdjPS4b27DiZN768hK9curoJ_-iRZ5JvTxGs5HGb7Cv5bI%3D",
+          "distance": "11.1 mi",
+          "address": "8890 NE 161st Avenue, Redmond, WA 98052",
+          "showing": [
+            {
+              "time": ["1:00pm", "3:40pm", "6:20pm", "9:00pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs_results": {
+    "location": "About"
+  },
+  "knowledge_graph": {
+    "title": "MaXXXine",
+    "type": "R 2024 ‧ Horror/Suspense ‧ 1h 41m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Overview",
+    "kgmid": "/g/11tfb6nzcz",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11tfb6nzcz&hl=en-US&q=MaXXXine&kgs=a11ee17548449d89&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11tfb6nzcz&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine",
+    "tabs": [
+      {
+        "text": "Showtimes",
+        "si": "ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I311b6RjEHkk38yn5Jcmf8r6CBfMUesVqVm0vDokhP-F-gR51A==",
+        "link": "https://www.google.com/search?si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I311b6RjEHkk38yn5Jcmf8r6CBfMUesVqVm0vDokhP-F-gR51A==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I311b6RjEHkk38yn5Jcmf8r6CBfMUesVqVm0vDokhP-F-gR51A%3D%3D"
+      },
+      {
+        "text": "Cast",
+        "si": "ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-xzyzXwOo6CdSDVNznoJ7umWRt7mrTMHbTjzCBJSarinzFBuZ5PAHcSsmcsnZnrVcFrHNTdoIJA3Y1bBvd7UxU-Wzd_4g==",
+        "link": "https://www.google.com/search?si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-xzyzXwOo6CdSDVNznoJ7umWRt7mrTMHbTjzCBJSarinzFBuZ5PAHcSsmcsnZnrVcFrHNTdoIJA3Y1bBvd7UxU-Wzd_4g==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-xzyzXwOo6CdSDVNznoJ7umWRt7mrTMHbTjzCBJSarinzFBuZ5PAHcSsmcsnZnrVcFrHNTdoIJA3Y1bBvd7UxU-Wzd_4g%3D%3D"
+      },
+      {
+        "text": "Reviews"
+      },
+      {
+        "text": "Trailers & clips",
+        "si": "ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BBXZbaPjg1YEI_zWs6jJl9fT4kqIxawQAcOe2nyof5V94UzXanuQHk1D5DYZmylib109VezZu2jxrVTChWH9k7gPKCUT",
+        "link": "https://www.google.com/search?si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BBXZbaPjg1YEI_zWs6jJl9fT4kqIxawQAcOe2nyof5V94UzXanuQHk1D5DYZmylib109VezZu2jxrVTChWH9k7gPKCUT",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&si=ACC90nzkOYdZYEaLEiUo6I4ftdw1NFrVhPtkW2gfia25_6H5BBXZbaPjg1YEI_zWs6jJl9fT4kqIxawQAcOe2nyof5V94UzXanuQHk1D5DYZmylib109VezZu2jxrVTChWH9k7gPKCUT"
+      }
+    ],
+    "description": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. However, as a mysterious killer stalks the starlets of Los Angeles, a trail of blood threatens to reveal her sinister past.",
+    "release_date": "July 3, 2024 (USA)",
+    "release_date_links": [
+      {
+        "text": "USA",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=United+States&stick=H4sIAAAAAAAAAOPgE-LVT9c3NCxJSzLLq0quUuLUz9U3sEw2LzfQMspOttJPy8zJBRNWJRmpiSVFmcmJOQpFqemZ-XkKieWJRalATk5qYnGqQkpiSeoiVt7QvMyS1BSF4BIgt3gHK-MudiYOBgBB3njMaAAAAA&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQmxMoAHoECCIQAg"
+      }
+    ],
+    "director": "Ti West",
+    "director_links": [
+      {
+        "text": "Ti West",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Ti+West&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQaAGf1JNyvmKPhIKG__cKndQPFhfI9Y8UCUZwY1fLjJrMryjomRG1DOOJc_DuuhfQW6xx9f1nIOJJoGgsI7xRDqLVKl8zIDjzDTC4VIwF0Lqf1lUJOEFUQdFbxBCI4Tv9H_hxN53eK6Oti7WmWy_stziyQBn&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQmxMoAHoECCEQAg"
+      }
+    ],
+    "distributed_by": "A24",
+    "distributed_by_links": [
+      {
+        "text": "A24",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=A24&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQe8R1DHEkzTY47Pipca-LH6IDIv0NdjQEBbum6kwlnBBX_WPwtSh3YMByUwDRCM76ZvI7nHhNH4uTXnL2E97plBR79X80Rs76Tv4117rcyE2Q2gL-dyNS-TkzSBh0fxVtisgmp5UvTjZ6fVoLOPtaRagrYhN&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQmxMoAHoECB4QAg"
+      }
+    ],
+    "box_office": "$7.8 million",
+    "cinematography": "Eliot Rockett",
+    "cinematography_links": [
+      {
+        "text": "Eliot Rockett",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Eliot+Rockett&stick=H4sIAAAAAAAAAONgVuLUz9U3yCovjjdexMrrmpOZX6IQlJ-cnVpSAgCrgqR5HQAAAA&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQmxMoAHoECCYQAg"
+      }
+    ],
+    "music_by": "Tyler Bates",
+    "music_by_links": [
+      {
+        "text": "Tyler Bates",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Tyler+Bates&stick=H4sIAAAAAAAAAONgVuLSz9U3MCw0jjczWsTKHVKZk1qk4JRYkloMAO466o4cAAAA&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQmxMoAHoECCQQAg"
+      }
+    ],
+    "editorial_reviews": [
+      {
+        "title": "IMDb",
+        "rating": "6.9/10",
+        "link": "https://www.imdb.com/title/tt22048412/"
+      },
+      {
+        "title": "Atom Tickets",
+        "rating": "4.3/5",
+        "link": "https://www.atomtickets.com/movies/maxxxine/337532"
+      },
+      {
+        "title": "Metacritic",
+        "rating": "65%",
+        "link": "https://www.metacritic.com/movie/maxxxine/critic-reviews/"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 2,
+        "summary": "Ti West's maybe final chapter in his 'X' trilogy has it's eh nostalgic moments of the 1980s but becomes disappointing, bland and routine. over the top sordid characters with ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Google users",
+      "statistic": "88% liked this movie"
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "A24 MaXXXine trailer | Now Playing at MM Theatres",
+      "link": "https://www.youtube.com/watch?v=Vq-H-WFqyaw",
+      "thumbnail": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/0af2ea61a3f1318a16f81c6e9c7fd88bb043c606866eb1b9173a2e87dd7799a0.jpeg",
+      "channel": "MM Theatres",
+      "duration": "2:19",
+      "platform": "YouTube",
+      "date": "3 days ago"
+    },
+    {
+      "position": 2,
+      "title": "Vista Theater Hollywood | MaXXXine, the explosive finale of Ti ...",
+      "link": "https://www.instagram.com/vistatheaterhollywood/reel/C9IQw3sPK_S/",
+      "thumbnail": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/0af2ea61a3f1318ac625bb41b8ab06134c80c93be9f4d5f8ddfc19931d180647.jpeg",
+      "channel": "vistatheaterhollywood",
+      "duration": "0:15",
+      "platform": "Instagram",
+      "date": "1 day ago"
+    },
+    {
+      "position": 3,
+      "title": "I dont get the hate, i loved it! Watch MaXXXine in theatres ...",
+      "link": "https://www.tiktok.com/@horrorwithme/video/7388685012071107845",
+      "thumbnail": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/0af2ea61a3f1318a448e40c374513dc4e21ac5c06a5b7e85398975fd892a16b4.jpeg",
+      "channel": "horrorwithme",
+      "duration": "0:08",
+      "platform": "TikTok",
+      "date": "1 day ago"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "MaXXXine",
+      "link": "https://www.amctheatres.com/movies/maxxxine-76401",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amctheatres.com/movies/maxxxine-76401&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECEUQAQ",
+      "displayed_link": "https://www.amctheatres.com › maxxxine-76401",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78cdca23bf64d42ba180c9e9eca4b241b4.png",
+      "snippet": "MaXXXine showtimes at an AMC movie theater near you. Get movie times, watch trailers and buy tickets.",
+      "snippet_highlighted_words": ["MaXXXine showtimes"],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 2,
+      "title": "MaXXXine (2024) Movie Tickets & Showtimes Near You",
+      "link": "https://www.fandango.com/maxxxine-2024-229305/movie-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fandango.com/maxxxine-2024-229305/movie-overview&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECEMQAQ",
+      "displayed_link": "https://www.fandango.com › movie-overview",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b7806f397c2828f8a86eeb8e8e58de0b56e.png",
+      "snippet": "Buy MaXXXine (2024) tickets and view showtimes at a theater near you. Earn double rewards when you purchase a ticket with Fandango today.",
+      "snippet_highlighted_words": ["MaXXXine", "showtimes"],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 78,
+            "votes": 318
+          },
+          "extensions": ["Rating: 78%", "‎318 votes"]
+        }
+      },
+      "source": "Fandango"
+    },
+    {
+      "position": 3,
+      "title": "MaXXXine Showtimes & Tickets Near You ...",
+      "link": "https://www.cinemark.com/movies/maxxxine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cinemark.com/movies/maxxxine&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECEcQAQ",
+      "displayed_link": "https://www.cinemark.com › movies › maxxxine",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78f1805d9d668aa0304d475c31971b1b0a.png",
+      "snippet": "Showtimes & tickets for new Mia Goth movie MaXXXine at Cinemark near you. Reserve recliner seats, pre-order food & drinks online, and more.​",
+      "snippet_highlighted_words": ["Showtimes", "MaXXXine"],
+      "source": "Cinemark -"
+    },
+    {
+      "position": 4,
+      "title": "MaXXXine Movie Tickets and Showtimes Near Me",
+      "link": "https://www.regmovies.com/movies/maxxxine-ho00016602",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.regmovies.com/movies/maxxxine-ho00016602&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECGIQAQ",
+      "displayed_link": "https://www.regmovies.com › maxxxine-ho00016602",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78575de9baba1b959acab99236bd07b616.png",
+      "snippet": "MaXXXine Movie tickets and showtimes at a Regal Theatre near you. Search movie times, buy tickets, find movie trailers, and view upcoming movies.",
+      "snippet_highlighted_words": ["MaXXXine", "showtimes", "movie times"],
+      "source": "Regal"
+    },
+    {
+      "position": 5,
+      "title": "MaXXXine Showtimes",
+      "link": "https://www.imdb.com/showtimes/title/tt22048412/US/94563",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imdb.com/showtimes/title/tt22048412/US/94563&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECEIQAQ",
+      "displayed_link": "https://www.imdb.com › showtimes › title",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78902bbc14af11ab59c68bd1ef6ee76f1e.jpeg",
+      "snippet": "MaXXXine (2024) · Theaters Near You · AMC Bay Street 16 · Century 16 Downtown Pleasant Hill and XD · Century Walnut Creek 14 and XD · Contra Costa Stadium Cinemas.",
+      "snippet_highlighted_words": ["MaXXXine"],
+      "source": "IMDb"
+    },
+    {
+      "position": 6,
+      "title": "MaXXXine | Showtimes, Tickets & Reviews",
+      "link": "https://www.atomtickets.com/movies/maxxxine/337532",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.atomtickets.com/movies/maxxxine/337532&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECFcQAQ",
+      "displayed_link": "https://www.atomtickets.com › movies › maxxxine",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78ec068c7e399c0018f374b1e0f1dca39c.png",
+      "snippet": "Film format: Laser at AMC . List of Showtime Features:. Reserved Seating,; CC,; Descriptive Video · 9:45 AM · 12:20 PM · 3:00 PM · 5:40 PM · 7:30 PM · 8:20 PM ...",
+      "snippet_highlighted_words": ["Showtime"],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "votes": 62
+          },
+          "extensions": ["Rating: 4.3", "‎62 votes"]
+        }
+      },
+      "source": "Atom Tickets"
+    },
+    {
+      "position": 7,
+      "title": "X Fan Event Featuring MaXXXine Sneak Peek",
+      "link": "https://www.regmovies.com/movies/x-fan-event-featuring-maxxxine-sneak-peek-ho00016778",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.regmovies.com/movies/x-fan-event-featuring-maxxxine-sneak-peek-ho00016778&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECF0QAQ",
+      "displayed_link": "https://www.regmovies.com › movies › x-fan-event-feat...",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78b103da275ad4083ff4ab610566e34118.png",
+      "snippet": "X Fan Event Featuring MaXXXine Sneak Peek Movie tickets and showtimes at a Regal Theatre near you. Search movie times, buy tickets, find movie trailers, ...",
+      "snippet_highlighted_words": ["MaXXXine", "showtimes", "movie times"],
+      "source": "Regal"
+    },
+    {
+      "position": 8,
+      "title": "Where To Watch MaXXXine: Showtimes & Streaming Status",
+      "link": "https://screenrant.com/where-to-watch-maxxxine-showtimes-streaming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://screenrant.com/where-to-watch-maxxxine-showtimes-streaming/&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECGgQAQ",
+      "displayed_link": "https://screenrant.com › Movies › Movie Features",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b78cccd03c07b4cf92790cc7f52eaf891ec.png",
+      "date": "7 days ago",
+      "snippet": "Mia Goth returns as Maxine Minx in the X sequel, and there are options for where to watch MaXXXine with theater showtimes or at home on ...",
+      "snippet_highlighted_words": ["MaXXXine", "showtimes"],
+      "source": "Screen Rant"
+    },
+    {
+      "position": 9,
+      "title": "MaXXXine",
+      "link": "https://www.marcustheatres.com/movies/maxxxine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marcustheatres.com/movies/maxxxine&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQFnoECEQQAQ",
+      "displayed_link": "https://www.marcustheatres.com › movies › maxxxine",
+      "favicon": "https://serpapi.com/searches/668c1b6de4a23d2ac9d0798a/images/a94489059372553f78898844a5fa7b7894f2a03437b176b402ba787d7aac52fb.png",
+      "date": "3 days ago",
+      "snippet": "Rating: R, for strong violence, gore, sexual content, graphic nudity, language and drug use. Runtime: 1 hour, 44 minutes.",
+      "source": "Marcus Theatres"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+near+me&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes streaming",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+streaming&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+streaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine tickets",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+tickets&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes july 3",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+july+3&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+july+3"
+    },
+    {
+      "block_position": 1,
+      "query": "MaXXXine trailer",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=MaXXXine+trailer&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+trailer"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes july 4th",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+july+4th&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+july+4th"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes july 1",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+july+1&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+july+1"
+    },
+    {
+      "block_position": 1,
+      "query": "Maxxxine showtimes july 3rd",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&gl=us&hl=en&q=Maxxxine+showtimes+july+3rd&sa=X&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Maxxxine+showtimes+july+3rd"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=10&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8NMDegQIDxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=10&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAE",
+      "3": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=20&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAG",
+      "4": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=30&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAI",
+      "5": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=40&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAK",
+      "6": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=50&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAM",
+      "7": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=60&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAO",
+      "8": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=70&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAQ",
+      "9": "https://www.google.com/search?q=MaXXXine+showtimes&sca_esv=04aa412ff406bf20&gl=us&hl=en&ei=bhuMZv_mONOCwbkPyIekgAE&start=80&sa=N&sstk=AagrsuhXpo9-nPlcPT8X47IRMblRUqR8gZ6PhX4V29sxPbGu5JXnK6xRRJX9NqiF0-V1Wruo47z7znB7YO2e2AKdnqpoJURwvr4KhQ&ved=2ahUKEwj_1eXs9ZeHAxVTQTABHcgDCRAQ8tMDegQIDxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=MaXXXine+showtimes&start=80"
+    }
+  }
+}

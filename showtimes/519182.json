@@ -1,0 +1,1836 @@
+{
+  "search_metadata": {
+    "id": "668c19e0c47d3c251e67e1c2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a876cd9e00cad082/668c19e0c47d3c251e67e1c2.json",
+    "created_at": "2024-07-08 16:54:56 UTC",
+    "processed_at": "2024-07-08 16:54:56 UTC",
+    "google_url": "https://www.google.com/search?q=Despicable+Me+4+theater&oq=Despicable+Me+4+theater&uule=w+CAIQICIgU2VhdHRsZSxXYXNoaW5ndG9uLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a876cd9e00cad082/668c19e0c47d3c251e67e1c2.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Despicable Me 4 theater",
+    "location_requested": "Seattle, Washington, United States",
+    "location_used": "Seattle,Washington,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Despicable Me 4 theater",
+    "total_results": 74700000,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "showtimes": [
+    {
+      "day": "TodayJul 8",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905hJiyipxqPhyG3Yg8-0ibijwpf-lKsEQRUdyM1L33GtzrV0gjWiPhFm4q2c1YOTOOv0vjF&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARAL",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "2:00pm",
+                "2:30pm",
+                "3:10pm",
+                "4:50pm",
+                "5:15pm",
+                "5:50pm",
+                "7:30pm",
+                "8:00pm",
+                "8:30pm",
+                "9:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["11:00am", "1:35pm", "4:15pm", "6:50pm", "9:30pm"],
+              "type": "3D 4DX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARAh",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["1:15pm", "2:00pm", "4:15pm", "6:45pm", "9:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "7:45pm", "10:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Boeing and PACCAR IMAX Theaters at Pacific Science Center",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Boeing+and+PACCAR+IMAX+Theaters+at+Pacific+Science+Center&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8vetg_Q3IAsqihsi38DiV5jt9t6DWas0fA1d6ITLIdkPM3pkyqbq7ayNmlQCqT7t5YRGcua-GZz4Cyw40IzgYnNiPv0q-uwUR7ngX0kGjkucI9H05j4RriYfFcCi2pjXbF-DVBLitxfSY1WBWv6kL2dkHiKGpgr3y8eEzECC8yFqLqrYhX2UYhN_P46hwKCa55N6F9SUGl99ETIxsGZZm3-Xige&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARAv",
+          "distance": "1.3 mi",
+          "address": "200 Second Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["2:45pm", "5:00pm", "7:15pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6p409mXkX-42s-SeQXKfRVIcSwmup-auLSJ-pZ56cI6dW4MiLU%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARA1",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["6:45pm", "9:05pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtEfQryFYHgkNJ03zAUwLrdX3QPSrZ_qazQKzd75QuIfrZzgrkk%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARA8",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:05pm", "6:50pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQySZ6BQi0ARBC",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:45pm",
+                "5:45pm",
+                "7:15pm",
+                "8:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Majestic Bay Theatres",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Majestic+Bay+Theatres&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzK6VtSSZB2pGW1eLl9QVHz5m2_wEDpIEAnkK5S2Z8XOEswwZleo0SmQPI05nZTuh1ozCWiZ7FT_dl6x9liJmSQiBpUEbSZ5FmkvXbDKrk4lSzq32yUk0N3O5yTYiaNEJZc7qrtZn1l2Z35eQ5ZthniQJR6CfwuS-_SPrJc5uRgv9Te5UcF1avdUXoKMQvdArZmFA5Q%3D",
+          "distance": "5.0 mi",
+          "address": "2044 NW Market Street, Seattle, WA 98107",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:30pm",
+                "5:30pm",
+                "6:45pm",
+                "7:40pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qz_Px-UnBjSMQ0cSPCHIi43eeXes_WmPjSDW1zNmxSp28fp3L5GWqu_YoH5TTYvNDz3W-ZA",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:30am", "12:00pm", "4:30pm", "5:00pm", "10:00pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:00pm", "7:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "9:35am",
+                "10:45am",
+                "12:05pm",
+                "1:20pm",
+                "2:35pm",
+                "3:05pm",
+                "4:00pm",
+                "5:05pm",
+                "5:35pm",
+                "6:35pm",
+                "7:35pm",
+                "9:10pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:15am", "1:50pm", "4:25pm", "7:00pm", "9:45pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["10:05am", "12:35pm", "8:05pm", "10:35pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["12:00pm", "2:45pm", "5:15pm", "7:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:45pm", "6:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOboPb15x20JhAECSFNjN_XflA4Obi4eOj0nUXry7SCqOQEps1M%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "12:00pm",
+                "1:00pm",
+                "2:30pm",
+                "3:30pm",
+                "4:30pm",
+                "5:00pm",
+                "7:00pm",
+                "7:30pm",
+                "9:35pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:00am", "1:30pm", "4:00pm", "6:30pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["2:00pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm"],
+              "type": "ScreenX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "10:30am",
+                "11:30am",
+                "2:00pm",
+                "4:30pm",
+                "7:00pm",
+                "9:30pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm", "10:30pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCjBy6Xac_5ftDwmIbyQq8PPZLVEu9JB6ZhDc-VnCNXsim2kMmE%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["6:30pm", "8:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKb_50fKIiHn6ayA05N5FvAmhxv4rwOnEXkuNBBzjx7RyzYNEig%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": [
+                "11:40am",
+                "1:00pm",
+                "3:40pm",
+                "4:45pm",
+                "6:15pm",
+                "7:20pm",
+                "8:50pm",
+                "10:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:15pm"],
+              "type": "3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "TueJul 9",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905hJiyipxqPhyG3Yg8-0ibijwpf-lKsEQRUdyM1L33GtzrV0gjWiPhFm4q2c1YOTOOv0vjF",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "2:00pm",
+                "2:30pm",
+                "3:10pm",
+                "4:50pm",
+                "5:15pm",
+                "5:50pm",
+                "7:30pm",
+                "8:00pm",
+                "8:30pm",
+                "9:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["11:05am", "1:35pm", "4:15pm", "6:50pm", "9:30pm"],
+              "type": "3D 4DX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:30pm", "1:45pm", "4:15pm", "6:45pm", "9:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:00pm", "3:00pm", "5:30pm", "7:45pm", "10:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Boeing and PACCAR IMAX Theaters at Pacific Science Center",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Boeing+and+PACCAR+IMAX+Theaters+at+Pacific+Science+Center&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8vetg_Q3IAsqihsi38DiV5jt9t6DWas0fA1d6ITLIdkPM3pkyqbq7ayNmlQCqT7t5YRGcua-GZz4Cyw40IzgYnNiPv0q-uwUR7ngX0kGjkucI9H05j4RriYfFcCi2pjXbF-DVBLitxfSY1WBWv6kL2dkHiKGpgr3y8eEzECC8yFqLqrYhX2UYhN_P46hwKCa55N6F9SUGl99ETIxsGZZm3-Xige",
+          "distance": "1.3 mi",
+          "address": "200 Second Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["2:45pm", "5:00pm", "7:15pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6p409mXkX-42s-SeQXKfRVIcSwmup-auLSJ-pZ56cI6dW4MiLU%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["6:30pm", "9:05pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtEfQryFYHgkNJ03zAUwLrdX3QPSrZ_qazQKzd75QuIfrZzgrkk%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:05pm", "6:50pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:45pm",
+                "5:45pm",
+                "7:15pm",
+                "8:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Majestic Bay Theatres",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Majestic+Bay+Theatres&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzK6VtSSZB2pGW1eLl9QVHz5m2_wEDpIEAnkK5S2Z8XOEswwZleo0SmQPI05nZTuh1ozCWiZ7FT_dl6x9liJmSQiBpUEbSZ5FmkvXbDKrk4lSzq32yUk0N3O5yTYiaNEJZc7qrtZn1l2Z35eQ5ZthniQJR6CfwuS-_SPrJc5uRgv9Te5UcF1avdUXoKMQvdArZmFA5Q%3D",
+          "distance": "5.0 mi",
+          "address": "2044 NW Market Street, Seattle, WA 98107",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:30pm",
+                "5:30pm",
+                "6:45pm",
+                "7:40pm",
+                "8:50pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qz_Px-UnBjSMQ0cSPCHIi43eeXes_WmPjSDW1zNmxSp28fp3L5GWqu_YoH5TTYvNDz3W-ZA",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:30am", "12:00pm", "4:30pm", "5:00pm", "10:00pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:00pm", "7:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "9:35am",
+                "10:45am",
+                "12:05pm",
+                "1:20pm",
+                "2:35pm",
+                "3:05pm",
+                "4:00pm",
+                "5:05pm",
+                "5:35pm",
+                "6:35pm",
+                "7:35pm",
+                "9:10pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": [
+                "8:40am",
+                "11:15am",
+                "1:50pm",
+                "4:25pm",
+                "7:00pm",
+                "9:45pm"
+              ],
+              "type": "IMAX"
+            },
+            {
+              "time": ["10:05am", "12:35pm", "8:05pm", "10:35pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["2:45pm", "4:30pm", "7:00pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["1:00pm", "6:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOboPb15x20JhAECSFNjN_XflA4Obi4eOj0nUXry7SCqOQEps1M%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "12:00pm",
+                "1:00pm",
+                "2:30pm",
+                "3:30pm",
+                "4:30pm",
+                "5:00pm",
+                "7:00pm",
+                "7:30pm",
+                "9:35pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:00am", "1:30pm", "4:00pm", "6:30pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["2:00pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm"],
+              "type": "ScreenX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "10:30am",
+                "11:30am",
+                "2:00pm",
+                "4:30pm",
+                "7:00pm",
+                "9:30pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm", "10:30pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCjBy6Xac_5ftDwmIbyQq8PPZLVEu9JB6ZhDc-VnCNXsim2kMmE%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["6:30pm", "8:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKb_50fKIiHn6ayA05N5FvAmhxv4rwOnEXkuNBBzjx7RyzYNEig%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:35pm",
+                "2:40pm",
+                "5:20pm",
+                "6:45pm",
+                "8:00pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:10pm"],
+              "type": "3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "WedJul 10",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905hJiyipxqPhyG3Yg8-0ibijwpf-lKsEQRUdyM1L33GtzrV0gjWiPhFm4q2c1YOTOOv0vjF",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "2:30pm",
+                "3:10pm",
+                "4:50pm",
+                "5:15pm",
+                "5:50pm",
+                "7:30pm",
+                "8:00pm",
+                "8:30pm",
+                "9:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["11:05am", "1:35pm", "4:10pm", "6:50pm", "9:30pm"],
+              "type": "3D 4DX"
+            },
+            {
+              "time": ["2:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["1:15pm", "2:00pm", "4:15pm", "6:45pm", "9:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "7:45pm", "10:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Boeing and PACCAR IMAX Theaters at Pacific Science Center",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Boeing+and+PACCAR+IMAX+Theaters+at+Pacific+Science+Center&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8vetg_Q3IAsqihsi38DiV5jt9t6DWas0fA1d6ITLIdkPM3pkyqbq7ayNmlQCqT7t5YRGcua-GZz4Cyw40IzgYnNiPv0q-uwUR7ngX0kGjkucI9H05j4RriYfFcCi2pjXbF-DVBLitxfSY1WBWv6kL2dkHiKGpgr3y8eEzECC8yFqLqrYhX2UYhN_P46hwKCa55N6F9SUGl99ETIxsGZZm3-Xige",
+          "distance": "1.3 mi",
+          "address": "200 Second Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["2:45pm", "5:00pm", "7:15pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6p409mXkX-42s-SeQXKfRVIcSwmup-auLSJ-pZ56cI6dW4MiLU%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["6:30pm", "9:05pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtEfQryFYHgkNJ03zAUwLrdX3QPSrZ_qazQKzd75QuIfrZzgrkk%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:05pm", "6:50pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:45pm",
+                "5:45pm",
+                "7:15pm",
+                "8:15pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Majestic Bay Theatres",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Majestic+Bay+Theatres&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzK6VtSSZB2pGW1eLl9QVHz5m2_wEDpIEAnkK5S2Z8XOEswwZleo0SmQPI05nZTuh1ozCWiZ7FT_dl6x9liJmSQiBpUEbSZ5FmkvXbDKrk4lSzq32yUk0N3O5yTYiaNEJZc7qrtZn1l2Z35eQ5ZthniQJR6CfwuS-_SPrJc5uRgv9Te5UcF1avdUXoKMQvdArZmFA5Q%3D",
+          "distance": "5.0 mi",
+          "address": "2044 NW Market Street, Seattle, WA 98107",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:30pm",
+                "5:30pm",
+                "6:45pm",
+                "7:40pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Reserve Lincoln Square — Dine-In 21+",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Reserve+Lincoln+Square+%E2%80%94+Dine-In+21%2B&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDjH9mGHNOAOeLeOmWJtAYgLgURqLMBgBuSy1dS5LDJbMtO7esWgfaugerr8nOJt7J-6R5Otgq1VF2yxPqHh8K60-Zt2iDFmSn55RI0yBqO9nRerEjUA34Kw60-wccgsbLfCbAQwnrNwQbVT2Ghm1Qz_Px-UnBjSMQ0cSPCHIi43eeXes_WmPjSDW1zNmxSp28fp3L5GWqu_YoH5TTYvNDz3W-ZA",
+          "distance": "6.2 mi",
+          "address": "Suite 340, 500 Bellevue Way Northeast, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["11:30am", "12:00pm", "4:30pm", "10:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["1:30pm", "7:30pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": [
+                "9:35am",
+                "10:45am",
+                "12:05pm",
+                "1:20pm",
+                "2:35pm",
+                "3:05pm",
+                "4:00pm",
+                "5:05pm",
+                "5:35pm",
+                "6:35pm",
+                "7:35pm",
+                "9:10pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": [
+                "8:40am",
+                "11:15am",
+                "1:50pm",
+                "4:25pm",
+                "7:00pm",
+                "9:45pm"
+              ],
+              "type": "IMAX"
+            },
+            {
+              "time": ["10:05am", "12:35pm", "8:05pm", "10:40pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["2:45pm", "4:30pm", "7:00pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["1:00pm", "6:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOboPb15x20JhAECSFNjN_XflA4Obi4eOj0nUXry7SCqOQEps1M%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "12:00pm",
+                "1:00pm",
+                "2:30pm",
+                "3:30pm",
+                "4:30pm",
+                "5:00pm",
+                "7:00pm",
+                "9:35pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["10:55am", "1:30pm", "4:00pm", "6:30pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["2:00pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["7:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm"],
+              "type": "ScreenX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": [
+                "10:45am",
+                "11:30am",
+                "2:00pm",
+                "4:30pm",
+                "7:00pm",
+                "9:30pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm", "10:30pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCjBy6Xac_5ftDwmIbyQq8PPZLVEu9JB6ZhDc-VnCNXsim2kMmE%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["6:30pm", "8:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKb_50fKIiHn6ayA05N5FvAmhxv4rwOnEXkuNBBzjx7RyzYNEig%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:35pm",
+                "2:40pm",
+                "6:45pm",
+                "8:00pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:10pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["5:20pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "ThuJul 11",
+      "theaters": [
+        {
+          "name": "Regal Meridian",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Meridian&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8ZuIPPC2wu0iO9sX_Cm-fz98ZrKqYsTRyQS0beGr7PB8IFp4JzeoTTu33KSH4Q42DoCcQHbobGa1X7vks7z6NMuuxCSZkZnxmusNIlwUXqz6hz9dFlcFEhqeI0aSyZWD7SOLAg3prMa2iT8lPry905hJiyipxqPhyG3Yg8-0ibijwpf-lKsEQRUdyM1L33GtzrV0gjWiPhFm4q2c1YOTOOv0vjF",
+          "distance": "0.4 mi",
+          "address": "1501 7th Ave, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": [
+                "11:45am",
+                "12:50pm",
+                "2:00pm",
+                "2:30pm",
+                "4:20pm",
+                "4:50pm",
+                "5:15pm",
+                "7:30pm",
+                "8:00pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["8:50pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["11:00am", "1:35pm", "4:10pm", "6:50pm", "9:30pm"],
+              "type": "3D 4DX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:10pm", "1:30pm", "4:00pm", "6:30pm", "9:15pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["2:30pm", "5:00pm", "7:30pm", "10:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Boeing and PACCAR IMAX Theaters at Pacific Science Center",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Boeing+and+PACCAR+IMAX+Theaters+at+Pacific+Science+Center&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ8vetg_Q3IAsqihsi38DiV5jt9t6DWas0fA1d6ITLIdkPM3pkyqbq7ayNmlQCqT7t5YRGcua-GZz4Cyw40IzgYnNiPv0q-uwUR7ngX0kGjkucI9H05j4RriYfFcCi2pjXbF-DVBLitxfSY1WBWv6kL2dkHiKGpgr3y8eEzECC8yFqLqrYhX2UYhN_P46hwKCa55N6F9SUGl99ETIxsGZZm3-Xige",
+          "distance": "1.3 mi",
+          "address": "200 Second Avenue North, Seattle, WA 98109",
+          "showing": [
+            {
+              "time": ["2:45pm"],
+              "type": "IMAX"
+            }
+          ]
+        },
+        {
+          "name": "Admiral Theater",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Admiral+Theater&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQabowcVdTdyTpQd4gzDuDyEgvZGvKb0LiuwUxegUx1SFyT1mMwcanrK01jPipTF0Nb5VflYcA0xXuMgV8HLtcawKS3tLH7x4tZwzZenTzbQFKEIEewbg82VenPETQVn1VqYvMnUWUucgxpKPt8wat6p409mXkX-42s-SeQXKfRVIcSwmup-auLSJ-pZ56cI6dW4MiLU%3D",
+          "distance": "3.1 mi",
+          "address": "2343 California Avenue SW, Seattle, WA 98116",
+          "showing": [
+            {
+              "time": ["6:30pm", "9:05pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:15pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "The Varsity Theatre",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=The+Varsity+Theatre&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep13kWj3I9FIC3x3JTunN8YFYen8c_TemdhJFFszazwobvZo4XYnvxZ916ycYg04gI2MsJKAUvua5_3lfAzs92qd43yhrUm27-biCSapUTcnRY54Hje1S1YiDVkD8efDe2Pg2tv9a1j2IOkP15DQdwtEfQryFYHgkNJ03zAUwLrdX3QPSrZ_qazQKzd75QuIfrZzgrkk%3D",
+          "distance": "3.9 mi",
+          "address": "4329 University Way Northeast, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:05pm", "6:50pm", "9:25pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["4:30pm", "7:00pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ark Lodge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Ark+Lodge+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_1ZICEqK3YhcUg4D6TMTW-O_Uijd-dWFPLh868KGmhlA4Nh4ADYnaY26_vt_BZq0VltDYWyhaKtKHeZuu1WAAzK0ThczmYbmVj8CY90X6SANsCKoPgiuvjo_FWYIG-wh3ag1riy30agDEpgzdbOViLwY0G4bVhyMqsWY2tv-kT4hQHPGNeEEfTeHLh_5X_u7ZczSI2HMtqyoVTiZqElKGqKSwRB",
+          "distance": "4.0 mi",
+          "address": "4816 Rainier Avenue South, Seattle, WA 98118",
+          "showing": [
+            {
+              "time": ["5:00pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Majestic Bay Theatres",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Majestic+Bay+Theatres&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-LzK6VtSSZB2pGW1eLl9QVHz5m2_wEDpIEAnkK5S2Z8XOEswwZleo0SmQPI05nZTuh1ozCWiZ7FT_dl6x9liJmSQiBpUEbSZ5FmkvXbDKrk4lSzq32yUk0N3O5yTYiaNEJZc7qrtZn1l2Z35eQ5ZthniQJR6CfwuS-_SPrJc5uRgv9Te5UcF1avdUXoKMQvdArZmFA5Q%3D",
+          "distance": "5.0 mi",
+          "address": "2044 NW Market Street, Seattle, WA 98107",
+          "showing": [
+            {
+              "time": [
+                "12:00pm",
+                "1:00pm",
+                "2:15pm",
+                "3:15pm",
+                "4:30pm",
+                "5:30pm",
+                "6:45pm",
+                "7:40pm"
+              ],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["10:45am", "1:20pm", "4:00pm", "6:35pm", "9:10pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["1:15pm", "7:15pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["3:45pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Thornton Place",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Thornton+Place&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep1Bv-1ax8g647vt1C9DMwEj4lvdV_6LUfIJ096EHHBQjk-uW-rqFgV5TQeccV7SB04kUnoHpqSkl1GTWXxXvZS19lnJu6bFGqMm6TmTY5LFugIzNNhgOuxzvPFVxA-X45Awk9s5kVopx7n8kTvq_eOboPb15x20JhAECSFNjN_XflA4Obi4eOj0nUXry7SCqOQEps1M%3D",
+          "distance": "6.7 mi",
+          "address": "316 Northeast Thornton Place, Seattle, WA 98125",
+          "showing": [
+            {
+              "time": [
+                "11:30am",
+                "12:00pm",
+                "1:00pm",
+                "2:30pm",
+                "3:30pm",
+                "4:30pm",
+                "5:00pm",
+                "7:30pm",
+                "10:05pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:00am", "1:30pm", "4:00pm", "6:30pm"],
+              "type": "IMAX"
+            },
+            {
+              "time": ["2:00pm"],
+              "type": "3D"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm"],
+              "type": "ScreenX"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:30am", "2:00pm", "4:30pm", "7:00pm", "9:30pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:30pm", "3:00pm", "5:30pm", "8:00pm", "10:30pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Bainbridge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Bainbridge+Cinemas&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpwrlmlHkmr5XcrIFlFXbcOkVDU_nbAxo6s1muePNP6PV4QX-ZZwRMx2dQ-Rhgqq54yl52Vu_98s6cpp5e4GTiQAeSRV1BVtWXX-LPR6YX0ygH01AqIa_VUM35WLhFYsqQq3GFuwwhmUMordIScvhLCjBy6Xac_5ftDwmIbyQq8PPZLVEu9JB6ZhDc-VnCNXsim2kMmE%3D",
+          "distance": "9.0 mi",
+          "address": "403 North Madison Avenue, Bainbridge Island, WA 98110",
+          "showing": [
+            {
+              "time": ["6:30pm", "8:45pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["4:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "Regal Crossroads - Bellevue",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Regal+Crossroads+-+Bellevue&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep5QBVULzLeDl9AwUVIGNM0CEsQxKvboS5dIi_0y3TNiBpKMj8-uF4Sp5IfYwsklzEiHtny0szFdUptHRYm64D8nxaYccz37a7V-LmifJOBJHdGRPoJS_dUrRy8tj83NYLEJJgYvQ6GW0E3mpcBsZwKb_50fKIiHn6ayA05N5FvAmhxv4rwOnEXkuNBBzjx7RyzYNEig%3D",
+          "distance": "9.6 mi",
+          "address": "1200 156th Avenue NE, Bellevue, WA 98008",
+          "showing": [
+            {
+              "time": [
+                "11:00am",
+                "12:40pm",
+                "3:20pm",
+                "4:10pm",
+                "5:55pm",
+                "6:45pm",
+                "8:30pm",
+                "9:20pm"
+              ],
+              "type": "Standard"
+            },
+            {
+              "time": ["1:35pm"],
+              "type": "3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "FriJul 12",
+      "theaters": [
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:45pm", "5:15pm", "7:30pm", "9:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ark Lodge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Ark+Lodge+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_1ZICEqK3YhcUg4D6TMTW-O_Uijd-dWFPLh868KGmhlA4Nh4ADYnaY26_vt_BZq0VltDYWyhaKtKHeZuu1WAAzK0ThczmYbmVj8CY90X6SANsCKoPgiuvjo_FWYIG-wh3ag1riy30agDEpgzdbOViLwY0G4bVhyMqsWY2tv-kT4hQHPGNeEEfTeHLh_5X_u7ZczSI2HMtqyoVTiZqElKGqKSwRB",
+          "distance": "4.0 mi",
+          "address": "4816 Rainier Avenue South, Seattle, WA 98118",
+          "showing": [
+            {
+              "time": ["5:00pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["8:55am", "2:05pm", "4:40pm", "7:15pm", "9:50pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:30am"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["2:30pm", "7:15pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["5:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:30am", "2:00pm", "4:30pm", "7:00pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "SatJul 13",
+      "theaters": [
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:45pm", "5:15pm", "7:30pm", "9:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ark Lodge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Ark+Lodge+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_1ZICEqK3YhcUg4D6TMTW-O_Uijd-dWFPLh868KGmhlA4Nh4ADYnaY26_vt_BZq0VltDYWyhaKtKHeZuu1WAAzK0ThczmYbmVj8CY90X6SANsCKoPgiuvjo_FWYIG-wh3ag1riy30agDEpgzdbOViLwY0G4bVhyMqsWY2tv-kT4hQHPGNeEEfTeHLh_5X_u7ZczSI2HMtqyoVTiZqElKGqKSwRB",
+          "distance": "4.0 mi",
+          "address": "4816 Rainier Avenue South, Seattle, WA 98118",
+          "showing": [
+            {
+              "time": ["1:00pm", "4:30pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["8:55am", "2:05pm", "4:40pm", "7:15pm", "9:50pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:30am"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["2:30pm", "7:15pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["5:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:30am", "2:00pm", "4:30pm", "7:00pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "SunJul 14",
+      "theaters": [
+        {
+          "name": "AMC Pacific Place 11",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Pacific+Place+11&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQR_oehivJGYKVKdjrhivdKG0mVXgWgQh8VkDL8qngDM3jOVu8vq8VsgznKrxWWEZnhrSfqNPDssG37VZiXr6bmdWN6jdKJsU3F8HpktONRL5bsMfbXkhrtRKDjYMhToTXZrJHmGWbLtKfSlKRddiJqnYWZ35MyDBXa1W5K4vrVqQ_whGkjGH7wlmGGDWZgGCvCwqqXg%3D",
+          "distance": "0.5 mi",
+          "address": "600 Pine Street - Suite 400, Seattle, WA 98101",
+          "showing": [
+            {
+              "time": ["12:15pm", "2:45pm", "5:15pm", "7:30pm", "9:50pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "AMC Seattle 10",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Seattle+10&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_2oooi5_4V2MYNfFTHmVqViQugzaXhZKji1ENy__13ln6T4szPbQpDyZ-NUnj7IqJhWxXlXU5r8p3uN3ZgrjcvsHeOSs87vCdFUn_EPTKZChfG7XxnRggQjY0ai4h2pdDi3Y7-2mjdvhH_rXURjEsACbiV6SVeveQ-2EtB-HW0azkmz3z64G21ewXeu6Ip-iliK-N91gSwioXSAj6oGNaAX1hgQ",
+          "distance": "3.9 mi",
+          "address": "4500 9th Avenue NE, Seattle, WA 98105",
+          "showing": [
+            {
+              "time": ["5:00pm", "7:30pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Ark Lodge Cinemas",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Ark+Lodge+Cinemas&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ_1ZICEqK3YhcUg4D6TMTW-O_Uijd-dWFPLh868KGmhlA4Nh4ADYnaY26_vt_BZq0VltDYWyhaKtKHeZuu1WAAzK0ThczmYbmVj8CY90X6SANsCKoPgiuvjo_FWYIG-wh3ag1riy30agDEpgzdbOViLwY0G4bVhyMqsWY2tv-kT4hQHPGNeEEfTeHLh_5X_u7ZczSI2HMtqyoVTiZqElKGqKSwRB",
+          "distance": "4.0 mi",
+          "address": "4816 Rainier Avenue South, Seattle, WA 98118",
+          "showing": [
+            {
+              "time": ["1:00pm", "4:30pm", "7:45pm"],
+              "type": "Standard"
+            }
+          ]
+        },
+        {
+          "name": "Cinemark Lincoln Square Cinemas and IMAX",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Cinemark+Lincoln+Square+Cinemas+and+IMAX&si=ACC90nxYhNno81_TzuVO0e1EieRzQwXK2DrwuMdAl3IyVcpNQ0EYokH7aHadYNwIitgR3DnFxSuBvj34d5H62niANLGiNrrPd7D19T-k80yr-vxjL2P2CIEChmKjbsg3U7Z4JiEk4zO6z5VumMZTCN5Z2kQDTBoLQCBTUfPPVIyWVoRg5hTuaGFetE8hJlDOxCjwO5Vu3NU2cEQgeWh5NahbkjUrbjmqNkP1ArQEMT0oejgBuBlYNObsdISqRmB-Y2zMeJ4r4JY_",
+          "distance": "6.2 mi",
+          "address": "Suite 310, 700 Bellevue Way NE, Bellevue, WA 98004",
+          "showing": [
+            {
+              "time": ["8:55am", "2:05pm", "4:40pm", "7:15pm", "9:50pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["11:30am"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Oak Tree 6",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Oak+Tree+6&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9Ep2WFhnHrdQa2LnAlTGEHSVPsUloLSzYkpQrBqe1TbakUQI8LLEpDLYEHzQLMCYbPyEKEIsz2j1gEa23_xcjxqdaYS8Cu8KScJyT40HCkCEDmf4UWZiFOWb2tziJUSoMCzSGWRqR6eScRCQVhL4K6fdoTAfVft-zvQdmfIaxJokdHSMTwC9ey0mZIxLmVQPucDrKzuhQ%3D",
+          "distance": "6.7 mi",
+          "address": "10006 Aurora Ave. N., Seattle, WA 98133",
+          "showing": [
+            {
+              "time": ["2:30pm", "7:15pm"],
+              "type": "Standard"
+            },
+            {
+              "time": ["12:00pm", "5:00pm"],
+              "type": "3D"
+            }
+          ]
+        },
+        {
+          "name": "AMC Factoria 8",
+          "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=AMC+Factoria+8&si=ACC90nyByJNAHfkzzi7l4JA4fcQKnJZTwFZjuiioX_pEpk9EpxOUMDtdqEqkmygjLbnK2qbiBSMBzF6x1Z6zRSk1LF9sDWB9mm1JKMkm7hcOjN0chPqCqriLDEqrbRyD42vGEQuSlm7QB7i7RIq_jSV7PobaxjMQnkO7TRnx47812NQdlkZsnuZVjHKBie5EOw4BpsIbmwJ7_T_aiDWd-OiGWOpU8K1lfy2V-3-42NJlg8EjMscBjGc%3D",
+          "distance": "7.8 mi",
+          "address": "3505 Factoria Blvd. SE, Bellevue, WA 98006",
+          "showing": [
+            {
+              "time": ["11:30am", "2:00pm", "4:30pm", "7:00pm", "9:30pm"],
+              "type": "Standard"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "jobs_results": {
+    "location": "About"
+  },
+  "knowledge_graph": {
+    "title": "Despicable Me 4",
+    "type": "PG 2024 ‧ Family/Comedy ‧ 1h 34m",
+    "entity_type": "film, tvm",
+    "main_tab_text": "Overview",
+    "kgmid": "/g/11ffv2tc90",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11ffv2tc90&hl=en-US&q=Despicable+Me+4&kgs=fd8dc554e26895d8&shndl=17&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11ffv2tc90&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4",
+    "tabs": [
+      {
+        "text": "Showtimes",
+        "si": "ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I58p8jsjeVioPuaDmqan_Vz6vsIvuaxly3_5dr0fBq02EzT_RA==",
+        "link": "https://www.google.com/search?si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I58p8jsjeVioPuaDmqan_Vz6vsIvuaxly3_5dr0fBq02EzT_RA==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&si=ACC90nzzJJV8kL9o1Oyh3HRKN41Wj0S7G3pywL62XAZ44Ug8I58p8jsjeVioPuaDmqan_Vz6vsIvuaxly3_5dr0fBq02EzT_RA%3D%3D"
+      },
+      {
+        "text": "Cast",
+        "si": "ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zkRNDmpVK-NfTKdCUjI9FFFjT78rGLWbH86X94lgLjfpgWiro3zPE65ZZmzMEoNwfw7gTLaJgebDBXAM8r17DyK8b2Xw==",
+        "link": "https://www.google.com/search?si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zkRNDmpVK-NfTKdCUjI9FFFjT78rGLWbH86X94lgLjfpgWiro3zPE65ZZmzMEoNwfw7gTLaJgebDBXAM8r17DyK8b2Xw==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&si=ACC90nweTWdTkbragOqbtxY3ldzQi8mxG5JZh8JtFNr-pC1ekTN0fOK9dMgZiJb3-2Vjr-zkRNDmpVK-NfTKdCUjI9FFFjT78rGLWbH86X94lgLjfpgWiro3zPE65ZZmzMEoNwfw7gTLaJgebDBXAM8r17DyK8b2Xw%3D%3D"
+      },
+      {
+        "text": "Reviews"
+      }
+    ],
+    "description": "Gru welcomes a new member to the family, Gru Jr., who's intent on tormenting his dad. However, their peaceful existence soon comes crashing down when criminal mastermind Maxime Le Mal escapes from prison and vows revenge against Gru.",
+    "release_date": "July 3, 2024 (USA)",
+    "release_date_links": [
+      {
+        "text": "USA",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=United+States&stick=H4sIAAAAAAAAAOPgE-LVT9c3NExLKzMqSbY0UOLUz9U3sEw2LzfQMspOttJPy8zJBRNWJRmpiSVFmcmJOQpFqemZ-XkKieWJRalATk5qYnGqQkpiSeoiVt7QvMyS1BSF4BIgt3gHK-MudiYOBgB_seSvaAAAAA&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQmxMoAHoECCEQAg"
+      }
+    ],
+    "directors": "Chris Renaud, Patrick Delage",
+    "directors_links": [
+      {
+        "text": "Chris Renaud",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Chris+Renaud&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQXvBQmRdr5dpy4okA6wwKgQWaH1dj0Dd8z3sVK1UfvdRsagLmOGhWdOGvz2D_OdVkmn-NhP92MgODUrzs2CqFd6HjqJFAu0IHx8XwL_29KXlYOnY7exk2cC06JSQRG1n-Kqfp-iYWIOTJpLcrf3jHJLEmAcdyQWv9K-GXxUGfzrQbBuXYONSwH9VekLkHEWztQUofuFcId3HdikhB7gzXTDTQ6FJtCYVb56GL-H9a09pBUpfTj1YUjKulzzDqDFiu-SLHCM%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQmxMoAHoECCUQAg"
+      },
+      {
+        "text": "Patrick Delage",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Patrick+Delage&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQSkgnkQ3dyZmQDFI9p8NJIXsfbVmBc-EHBcJ0EZ-WO3eYZUzFPhhdqj5HuQEsqxZ5vy7XbnvcJaSW8VFb7QRPpLj_ztL0j7i9O9N-WTMbD1QUnxRmRRT2pfUxO-oZ0KOlKgDEF2l70GDJTPl0b2Ng9b8QtAu50b8lHvU-FGV4clgI1SA83ZV_iLz0asEN3sD15-nNHTEvfFnHR0OsujngHW2GGUukBjX3SEFF--zZCcn6tBwoOOMRohp2tVAf6QbmqdG4hA%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQmxMoAXoECCUQAw"
+      }
+    ],
+    "distributed_by": "Universal Pictures",
+    "distributed_by_links": [
+      {
+        "text": "Universal Pictures",
+        "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Universal+Pictures&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L_w2VEv-F0VsqP9rAxVxKYjbpLg-MZtrzWe4R4Z420QTgCR38NJWCIHoRaknGjATMUITW9oH1E4LesLyU1AKeUM0kKTVWrTPuIE2wgHiC3Igm9nU1dFZYtr2UFAxtQJrAI5vFuJkYdCTZqek-h6-pdydE8F-MMjcWdiLRqgLZUkUevH7hw%3D%3D&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQmxMoAHoECCQQAg"
+      }
+    ],
+    "box_office": "$229.6 million",
+    "music_by": "Heitor Pereira (score); Pharrell Williams (songs and themes)",
+    "produced_by": "Chris Meledandri; Brett Hoffman",
+    "editorial_reviews": [
+      {
+        "title": "Fandango",
+        "rating": "90%",
+        "link": "https://www.fandango.com/despicable-me-4-2024-234517/movie-overview"
+      },
+      {
+        "title": "Metacritic",
+        "rating": "50%",
+        "link": "https://www.metacritic.com/movie/despicable-me-4/critic-reviews/"
+      },
+      {
+        "title": "Rotten Tomatoes",
+        "rating": "53%",
+        "link": "https://www.rottentomatoes.com/m/despicable_me_4"
+      }
+    ],
+    "audience_reviews": [
+      {
+        "rating": 5,
+        "summary": "So much better than the trailer. This is my new favorite in the franchise and one of my new favorite movies overall. If you don't walk away full of joy and tearing up in laughter then ..."
+      }
+    ],
+    "user_statistics": {
+      "platform": "Google users",
+      "statistic": "91% liked this movie"
+    }
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Despicable Me 4 | Official Trailer",
+      "link": "https://www.youtube.com/watch?v=qQlr9-rF32A",
+      "thumbnail": "https://i.ytimg.com/vi/qQlr9-rF32A/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3l1jFyzDPWkJf9C1vY0J1_buB_hxg",
+      "channel": "Illumination",
+      "duration": "2:27",
+      "platform": "YouTube",
+      "date": "Jan 28, 2024"
+    },
+    {
+      "position": 2,
+      "title": "Despicable Me 4 Movie Vlog at AMC Theaters! 💛Minions Meet ...",
+      "link": "https://www.youtube.com/watch?v=ET_1l-getP0",
+      "thumbnail": "https://i.ytimg.com/vi/ET_1l-getP0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nxVvGf5H657vG42ovMDyDi0hOXSw",
+      "channel": "Mom and More Reviews",
+      "duration": "14:55",
+      "platform": "YouTube",
+      "date": "4 days ago"
+    },
+    {
+      "position": 3,
+      "title": "Despicable Me 4 | Official Trailer 2",
+      "link": "https://www.youtube.com/watch?v=LtNYaH61dXY",
+      "thumbnail": "https://i.ytimg.com/vi/LtNYaH61dXY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mhHyio0V5YzcwcNBJMP4yyBkFaZw",
+      "channel": "Illumination",
+      "duration": "2:45",
+      "platform": "YouTube",
+      "date": "May 7, 2024"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is Despicable Me 4 out?",
+      "snippet": "Family movies are powering the box office. “Despicable Me 4” performed strongly despite the still considerable drawing power of “Inside Out 2.” In its fourth weekend of release, the Pixar sequel added another $30 million domestically and $78.3 million overseas.",
+      "title": "'Despicable Me 4' debuts with $122.6M as boom times return to ...",
+      "date": "23 hours ago",
+      "link": "https://apnews.com/article/despicable-me-4-box-office-inside-out-2-728266e7177d23a0732c46d084f521f4#:~:text=Family%20movies%20are%20powering%20the,domestically%20and%20%2478.3%20million%20overseas.",
+      "displayed_link": "https://apnews.com › article › despicable-me-4-box-offic...",
+      "source_logo": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d4f6a0d1011de4c316ccbfa7ebabf746b33ea93beac42a69c12283167ef4237f.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJJcyBEZXNwaWNhYmxlIE1lIDQgb3V0PyIsImxrIjoiR2hacGN5QmtaWE53YVdOaFlteGxJRzFsSURRZ2IzVjAiLCJicyI6ImMtTXk0eEwzTEZad1NTMHV5RXhPVE1wSlZmQk5WVEJSeUM4dHNaZVlIR2NrSVNXV1dheVFncEROaGNweS1YR3BoR2VrRnFVcUpDZm1LVlRtbHlxVUo1WWtaNkFiWkM5eEpkdElXVXF4SEs0VXBoRE5UQzRQTGdVczdraFVTTV9QVDFISXpTX0xUTFdYYUZFeFVwU1N4LUlnWkdWY0lWeHE0Wms1T1FwbHFja2wtVVVLUmFrbHBVVjVDcGw1bUc1NzZXcWtMcVZhamxVeG1oVUNqQUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJJcyBEZXNwaWNhYmxlIE1lIDQgb3V0PyIsImxrIjoiR2hacGN5QmtaWE53YVdOaFlteGxJRzFsSURRZ2IzVjAiLCJicyI6ImMtTXk0eEwzTEZad1NTMHV5RXhPVE1wSlZmQk5WVEJSeUM4dHNaZVlIR2NrSVNXV1dheVFncEROaGNweS1YR3BoR2VrRnFVcUpDZm1LVlRtbHlxVUo1WWtaNkFiWkM5eEpkdElXVXF4SEs0VXBoRE5UQzRQTGdVczdraFVTTV9QVDFISXpTX0xUTFdYYUZFeFVwU1N4LUlnWkdWY0lWeHE0Wms1T1FwbHFja2wtVVVLUmFrbHBVVjVDcGw1bUc1NzZXcWtMcVZhamxVeG1oVUNqQUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Where can you watch Despicable Me 4?",
+      "snippet": "Theatrical Release: The film premiered in theaters on July 3, 2024. Peacock Debut: Following its theatrical run, Despicable Me 4 will make its streaming debut on Peacock on October 31, 2024.",
+      "title": "Despicable Me 4 Release Date: Here's when you can stream the ...",
+      "date": "2 days ago",
+      "link": "https://m.economictimes.com/news/international/us/despicable-me-4-release-date-heres-when-you-can-stream-the-movie-on-netflix-in-us/articleshow/111540779.cms#:~:text=Theatrical%20Release%3A%20The%20film%20premiered,Peacock%20on%20October%2031%2C%202024.",
+      "displayed_link": "https://m.economictimes.com › international › articleshow",
+      "source_logo": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d4f6a0d1011de4c316ccbfa7ebabf746bb8aa664fe44f62bfab9e3c69bbce564.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4geW91IHdhdGNoIERlc3BpY2FibGUgTWUgND8iLCJsayI6IkdpRjNhR1Z5WlNCallXNGdkU0IzWVhSamFDQmtaWE53YVdOaFlteGxJRzFsSURRIiwiYnMiOiJjLU15NHhMM0xGWndTUzB1eUV4T1RNcEpWZkJOVlRCUnlDOHRzWmVZSEdja0lTV1dXYXlRZ3BETmhjcHktWEdwaEdla0ZxVXFKQ2ZtS1ZUbWx5cVVKNVlrWjZBYlpDOXhKZHRJV1VxeEhLNFVwaEROVEM0UExnVXM3a2hVU01fUFQxSEl6U19MVExXWGFGRXhVcFNTeC1JZ1pHVmNJVnhxNFprNU9RcGxxY2tsLVVVS1Jha2xwVVY1Q3BsNW1HNTc2V3FrTHFWYWpsVXhtaFVDakFBIiwiaWQiOiJmY18yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJXaGVyZSBjYW4geW91IHdhdGNoIERlc3BpY2FibGUgTWUgND8iLCJsayI6IkdpRjNhR1Z5WlNCallXNGdkU0IzWVhSamFDQmtaWE53YVdOaFlteGxJRzFsSURRIiwiYnMiOiJjLU15NHhMM0xGWndTUzB1eUV4T1RNcEpWZkJOVlRCUnlDOHRzWmVZSEdja0lTV1dXYXlRZ3BETmhjcHktWEdwaEdla0ZxVXFKQ2ZtS1ZUbWx5cVVKNVlrWjZBYlpDOXhKZHRJV1VxeEhLNFVwaEROVEM0UExnVXM3a2hVU01fUFQxSEl6U19MVExXWGFGRXhVcFNTeC1JZ1pHVmNJVnhxNFprNU9RcGxxY2tsLVVVS1Jha2xwVVY1Q3BsNW1HNTc2V3FrTHFWYWpsVXhtaFVDakFBIiwiaWQiOiJmY18yIn0%3D"
+    },
+    {
+      "question": "Is Despicable Me 4 a good movie?",
+      "snippet": "The Despicable Me franchise's best-reviewed film remains the first one, with a “fresh” 80% approval rating on the aggregator website Rotten Tomatoes. Somewhat disappointingly, 8th-JULY: Despicable Me 4is currently the worst-rated film of the franchise, with an RT score of 54%.",
+      "title": "WATCH Despicable Me 4 (Download—FullMovie) ONLINE ON ...",
+      "date": "7 hours ago",
+      "link": "https://www.portsmouth-dailytimes.com/calendar/%E2%9C%B4watch-despicable-me-4-download-fullmovie-online-on-streamings/#:~:text=The%20Despicable%20Me%20franchise's%20best,an%20RT%20score%20of%2054%25.",
+      "displayed_link": "https://www.portsmouth-dailytimes.com › calendar › ✴...",
+      "source_logo": "",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJJcyBEZXNwaWNhYmxlIE1lIDQgYSBnb29kIG1vdmllPyIsImxrIjoiR2g5cGN5QmtaWE53YVdOaFlteGxJRzFsSURRZ1lTQm5iMjlrSUcxdmRtbGwiLCJicyI6ImMtTXk0eEwzTEZad1NTMHV5RXhPVE1wSlZmQk5WVEJSeUM4dHNaZVlIR2NrSVNXV1dheVFncEROaGNweS1YR3BoR2VrRnFVcUpDZm1LVlRtbHlxVUo1WWtaNkFiWkM5eEpkdElXVXF4SEs0VXBoRE5UQzRQTGdVczdraFVTTV9QVDFISXpTX0xUTFdYYUZFeFVwU1N4LUlnWkdWY0lWeHE0Wms1T1FwbHFja2wtVVVLUmFrbHBVVjVDcGw1bUc1NzZXcWtMcVZhamxVeG1oVUNqQUEiLCJpZCI6ImZjXzIifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJJcyBEZXNwaWNhYmxlIE1lIDQgYSBnb29kIG1vdmllPyIsImxrIjoiR2g5cGN5QmtaWE53YVdOaFlteGxJRzFsSURRZ1lTQm5iMjlrSUcxdmRtbGwiLCJicyI6ImMtTXk0eEwzTEZad1NTMHV5RXhPVE1wSlZmQk5WVEJSeUM4dHNaZVlIR2NrSVNXV1dheVFncEROaGNweS1YR3BoR2VrRnFVcUpDZm1LVlRtbHlxVUo1WWtaNkFiWkM5eEpkdElXVXF4SEs0VXBoRE5UQzRQTGdVczdraFVTTV9QVDFISXpTX0xUTFdYYUZFeFVwU1N4LUlnWkdWY0lWeHE0Wms1T1FwbHFja2wtVVVLUmFrbHBVVjVDcGw1bUc1NzZXcWtMcVZhamxVeG1oVUNqQUEiLCJpZCI6ImZjXzIifQ%3D%3D"
+    },
+    {
+      "question": "Will vector return in Despicable Me 4?",
+      "snippet": "Despicable Me 4 features iconic villains in a prison concert, including Vector, Mr. Perkins, El Macho, Balthazar Bratt, Scarlet & Herb Overkill, and The Vicious 6. Despicable Me 4 is full of Easter eggs and callbacks to previous films.",
+      "title": "Every Villain That Returns In Despicable Me 4's Prison Scene",
+      "date": "19 hours ago",
+      "link": "https://screenrant.com/despicable-me-4-villains-return-prison/#:~:text=Despicable%20Me%204%20features%20iconic,and%20callbacks%20to%20previous%20films.",
+      "displayed_link": "https://screenrant.com › despicable-me-4-villains-return-...",
+      "source_logo": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d4f6a0d1011de4c316ccbfa7ebabf74687c5019029044e1237e3952346d34f84.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJXaWxsIHZlY3RvciByZXR1cm4gaW4gRGVzcGljYWJsZSBNZSA0PyIsImxrIjoiR2lWM2FXeHNJSFpsWTNSdmNpQnlaWFIxY200Z2FXNGdaR1Z6Y0dsallXSnNaU0J0WlNBMCIsImJzIjoiYy1NeTR4TDNMRlp3U1MwdXlFeE9UTXBKVmZCTlZUQlJ5Qzh0c1plWUhHY2tJU1dXV2F5UWdwRE5oY3B5LVhHcGhHZWtGcVVxSkNmbUtWVG1seXFVSjVZa1o2QWJaQzl4SmR0SVdVcXhISzRVcGhETlRDNFBMZ1VzN2toVVNNX1BUMUhJelNfTFRMV1hhRkV4VXBTU3gtSWdaR1ZjSVZ4cTRaazVPUXBscWNrbC1VVUtSYWtscFVWNUNwbDVtRzU3Nldxa0xxVmFqbFV4bWhVQ2pBQSIsImlkIjoiZmNfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UVVHSjZhVlJFTFdSWlRHaHRXbmMzY1RoeU9IaHhVSFZqZEhZNVVtRnFaa0pLUzJ4NGVDMXhXalU1ZDBGUWF6WlNjR2sxU0ZGR1duZHBWbDh0VDBGU1kwTjNNR1ZLRWhjMFVtMU5XbTgzVWsxYVMweHdkRkZRT0dORGFtZEJXUm9pUVVaWWNrVmpjVTVZTm5SblpuaDZjVUp2Y3pSMVFuZGZRakZEU1VSVlRsVmZVUSIsImZjdiI6IjMiLCJlaSI6IjRSbU1abzdSTVpLTHB0UVA4Y0NqZ0FZIiwicWMiOiJDaGRrWlhOd2FXTmhZbXhsSUcxbElEUWdkR2hsWVhSbGNoQUFmWmsySlQ4IiwicXVlc3Rpb24iOiJXaWxsIHZlY3RvciByZXR1cm4gaW4gRGVzcGljYWJsZSBNZSA0PyIsImxrIjoiR2lWM2FXeHNJSFpsWTNSdmNpQnlaWFIxY200Z2FXNGdaR1Z6Y0dsallXSnNaU0J0WlNBMCIsImJzIjoiYy1NeTR4TDNMRlp3U1MwdXlFeE9UTXBKVmZCTlZUQlJ5Qzh0c1plWUhHY2tJU1dXV2F5UWdwRE5oY3B5LVhHcGhHZWtGcVVxSkNmbUtWVG1seXFVSjVZa1o2QWJaQzl4SmR0SVdVcXhISzRVcGhETlRDNFBMZ1VzN2toVVNNX1BUMUhJelNfTFRMV1hhRkV4VXBTU3gtSWdaR1ZjSVZ4cTRaazVPUXBscWNrbC1VVUtSYWtscFVWNUNwbDVtRzU3Nldxa0xxVmFqbFV4bWhVQ2pBQSIsImlkIjoiZmNfMiJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Despicable Me 4",
+      "link": "https://www.amctheatres.com/movies/despicable-me-4-67811",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amctheatres.com/movies/despicable-me-4-67811&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECEcQAQ",
+      "displayed_link": "https://www.amctheatres.com › movies › despicable-me...",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d1450e401546ebd2f3c489ad377a72f7aea04.png",
+      "snippet": "In the first Despicable Me movie in seven years, Gru, the world's favorite supervillain-turned-Anti-Villain League-agent, returns for an exciting, bold new ...",
+      "snippet_highlighted_words": ["Despicable Me"],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 2,
+      "title": "Despicable Me 4 (2024) Tickets & Showtimes",
+      "link": "https://www.fandango.com/despicable-me-4-2024-234517/movie-overview",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fandango.com/despicable-me-4-2024-234517/movie-overview&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECGIQAQ",
+      "displayed_link": "https://www.fandango.com › movie-overview",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d14504a4b7b45572509fbaa08e7ebbd4fe9c5.png",
+      "snippet": "Buy Despicable Me 4 (2024) tickets and view showtimes at a theater near you. Earn double rewards when you purchase a ticket with Fandango today.",
+      "snippet_highlighted_words": ["Despicable Me 4", "theater"],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 90,
+            "votes": 1484
+          },
+          "extensions": ["Rating: 90%", "‎1,484 votes"]
+        }
+      },
+      "source": "Fandango"
+    },
+    {
+      "position": 3,
+      "title": "Despicable Me 4 Movie Tickets and Showtimes Near Me",
+      "link": "https://www.regmovies.com/movies/despicable-me-4-ho00015973",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.regmovies.com/movies/despicable-me-4-ho00015973&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECGsQAQ",
+      "displayed_link": "https://www.regmovies.com › movies › despicable-me-4-...",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d1450643e0f4c96458452556fa364200bce36.png",
+      "snippet": "Despicable Me 4 Movie tickets and showtimes at a Regal Theatre near you. Search movie times, buy tickets, find movie trailers, and view upcoming movies.",
+      "snippet_highlighted_words": ["Despicable Me 4", "Theatre"],
+      "source": "Regal"
+    },
+    {
+      "position": 4,
+      "title": "Despicable Me 4 (2024) | In Theaters Now",
+      "link": "https://www.despicable.me/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.despicable.me/&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECEkQAQ",
+      "displayed_link": "https://www.despicable.me",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d1450901906c5983d0b8c03e40be55b2d85d7.jpeg",
+      "snippet": "Watch the new Despicable Me 4 trailer on the official movie site. In Theaters Now.",
+      "snippet_highlighted_words": ["Despicable Me 4", "Theaters"],
+      "source": "despicable.me"
+    },
+    {
+      "position": 5,
+      "title": "Despicable Me 4 at AMC Theatres | Offers and Promotions",
+      "link": "https://www.amctheatres.com/offers/despicable-me-4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amctheatres.com/offers/despicable-me-4&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECEgQAQ",
+      "displayed_link": "https://www.amctheatres.com › offers › despicable-me-4",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d1450f2cd89451fb62806513e157a8430b318.png",
+      "snippet": "Limited time only, while supplies last. DESPICABLE ME 4 collectible combo vessels include small traditional popcorn and small drink. One plush and topper per ...",
+      "snippet_highlighted_words": ["DESPICABLE ME 4"],
+      "source": "AMC Theatres"
+    },
+    {
+      "position": 6,
+      "title": "Despicable Me 4 (2024) Movie Tickets & Showtimes ...",
+      "link": "https://www.imax.com/movie/despicable-me-4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.imax.com/movie/despicable-me-4&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECGoQAQ",
+      "displayed_link": "https://www.imax.com › movie › despicable-me-4",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d1450bbf847335820e2a1496eacc7f864bace.png",
+      "date": "5 days ago",
+      "snippet": "Despicable Me 4 · Find Tickets · Get updates from the world's most immersive theatre experience tailored to fans like you. · MORE IN IMAX · Our ...",
+      "snippet_highlighted_words": ["Despicable Me 4", "theatre"],
+      "source": "IMAX"
+    },
+    {
+      "position": 7,
+      "title": "Despicable Me 4 looks to kick off Fourth of July with a bang",
+      "link": "https://www.reddit.com/r/boxoffice/comments/1dv1zpk/theater_counts_despicable_me_4_looks_to_kick_off/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/boxoffice/comments/1dv1zpk/theater_counts_despicable_me_4_looks_to_kick_off/&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECEwQAQ",
+      "displayed_link": "40+ comments · 4 days ago",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d14509ce5b57093b6413ef9a0c3812ba33bb0.png",
+      "snippet": "Theater counts: Despicable Me 4 looks to kick off Fourth of July with a bang - a staggering 4,428 theaters. Inside Out 2 continues to play ...",
+      "snippet_highlighted_words": ["Theater", "Despicable Me 4", "theaters"],
+      "source": "Reddit · r/boxoffice"
+    },
+    {
+      "position": 8,
+      "title": "I Saw Despicable Me 4 Four Times in a Row in Theaters ...",
+      "link": "https://fandomwire.com/i-saw-despicable-me-4-four-times-in-theaters-and-survived-heres-what-happened/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fandomwire.com/i-saw-despicable-me-4-four-times-in-theaters-and-survived-heres-what-happened/&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQFnoECEsQAQ",
+      "displayed_link": "https://fandomwire.com › Movies",
+      "favicon": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/d603120e0533e9730bdd2d6cb97d145065a9a30339eafdb097bccd0c2e849977.png",
+      "date": "3 days ago",
+      "snippet": "I Saw Despicable Me 4 Four Times in a Row in Theaters and Survived. Here's What Happened… · 10:30 am — Dolby Cinema · 12:30 pm — Standard 2D · 2:15 ...",
+      "snippet_highlighted_words": [
+        "Despicable Me 4 Four",
+        "Theaters",
+        "Cinema"
+      ],
+      "source": "FandomWire"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "'Despicable Me 4' wows moviegoers in theaters, becomes No. 1 film in box office",
+      "link": "https://nypost.com/2024/07/06/entertainment/despicable-me-4-wows-moviegoers-in-theaters-becomes-no-1-film-in-box-office/",
+      "source": "New York Post",
+      "date": "1 day ago",
+      "thumbnail": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/6cd8d91a71d56701969c6166c57db11caf2ae026121c5af5.jpeg"
+    },
+    {
+      "title": "'Despicable Me 4' Helped Draw 4.2 Million People To AMC Theatres Over Holiday Weekend",
+      "link": "https://www.forbes.com/sites/maryroeloffs/2024/07/08/despicable-me-4-sold-the-most-amc-theatres-merch-of-any-film-except-the-eras-tour/",
+      "source": "Forbes",
+      "date": "1 hour ago",
+      "thumbnail": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/6cd8d91a71d56701d4e21b279333fa6d36b6009594f9a591.jpeg"
+    },
+    {
+      "title": "AMC’s ‘Despicable Me 4’ merch sales second only to ‘Taylor Swift: The Eras Tour’",
+      "link": "https://www.marketwatch.com/story/despicable-me-4-merchandise-sales-at-amc-second-only-to-taylor-swifts-movie-says-ceo-adam-aron-85456a6c",
+      "source": "MarketWatch",
+      "date": "2 hours ago",
+      "thumbnail": "https://serpapi.com/searches/668c19e0c47d3c251e67e1c2/images/6cd8d91a71d56701497ad481fa0529621aad53c6f0cad3fe.jpeg"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+theater&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQt8YBKAF6BAh3EAQ",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&tbm=nws",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Despicable Me 4 Trailer",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+Trailer&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+Trailer"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable me 4 theater near me",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+me+4+theater+near+me&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+me+4+theater+near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable me 4 theater usa",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+me+4+theater+usa&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+me+4+theater+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable me 4 theater release date",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+me+4+theater+release+date&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+me+4+theater+release+date"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable Me 4 tickets",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+tickets&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+tickets"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable Me 4 tickets price",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+tickets+price&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+tickets+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable Me 4 popcorn bucket",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+popcorn+bucket&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+popcorn+bucket"
+    },
+    {
+      "block_position": 1,
+      "query": "Despicable Me 4 showtimes",
+      "link": "https://www.google.com/search?sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&q=Despicable+Me+4+showtimes&sa=X&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+showtimes"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=10&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8NMDegQIDhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=10&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAE",
+      "3": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=20&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAG",
+      "4": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=30&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAI",
+      "5": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=40&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAK",
+      "6": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=50&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAM",
+      "7": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=60&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAO",
+      "8": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=70&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAQ",
+      "9": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=80&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAS",
+      "10": "https://www.google.com/search?q=Despicable+Me+4+theater&sca_esv=04aa412ff406bf20&sca_upv=1&gl=us&hl=en&ei=4RmMZo7RMZKLptQP8cCjgAY&start=90&sa=N&sstk=AagrsughxC9VYJK2Xd6oBkNptO0w-7frxdtP507vkWlLlECyKdXHCwJQ6BdBy1U36icIdPFsOl8RhZXTNrZesCAtc3RScrmHOl2kYg&ved=2ahUKEwjOxbev9JeHAxWShYkEHXHgCGAQ8tMDegQIDhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Seattle%2C+Washington%2C+United+States&q=Despicable+Me+4+theater&start=90"
+    }
+  }
+}
