@@ -50,9 +50,9 @@ const generator = async (answers, id, posterPath) => {
   if (response.status() === Status.OK) {
     const image = response.data();
     const timestamp = Date.now();
-    outputPath = `/images/${id}_${timestamp}.png`;
+    outputPath = `${id}_${timestamp}.png`;
 
-    if (image) image.asFile(`./public${outputPath}`);
+    if (image) image.asFile(`./public/images/${outputPath}`);
   } else {
     console.log(`Status Code: ${response.status()}`);
   }

@@ -64,7 +64,6 @@ async function getDbConfig() {
   const config = await fetchFilmDetails(url);
 
   posterURL = config.images.secure_base_url + config.images.backdrop_sizes[0];
-  console.log(config.images);
 }
 
 if (fs.existsSync(nowPlayingPath)) {
@@ -98,7 +97,8 @@ app.get('/poster-url', (req, res) => {
 app.get('/get-all-tokens', async (req, res) => {
   console.log('get all the movie tokens we have so far');
   const fileList = fs.readdirSync('./public/images');
-  res.send({ tokens: fileList });
+  const parsedfileList = fileList.filter((file) => file.endsWith('.png'));
+  res.send({ tokens: parsedfileList });
 });
 
 app.post('/movie-details', async (req, res) => {
