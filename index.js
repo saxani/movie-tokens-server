@@ -4,6 +4,7 @@ const cors = require('cors');
 
 const { fetchFilmDetails } = require('./utilities/fetchFilmDetails');
 const { fetchNowPlaying } = require('./utilities/fetchNowPlaying');
+const { generator } = require('./image_generation/generator');
 
 const port = process.env.PORT || 4000;
 const app = new express();
@@ -30,6 +31,9 @@ async function getMovieDetails(id) {
   const ratingURL = `https://api.themoviedb.org/3/movie/${id}/release_dates`;
   const ratingsInfo = await fetchFilmDetails(ratingURL);
 
+  const starringURL = `https://api.themoviedb.org/3/movie/${id}/credits?language=en-US`;
+  const starringInfo = await fetchFilmDetails(starringURL);
+
   // Parse US rating
   const usInfo = ratingsInfo.results.find(
     (country) => country['iso_3166_1'] === 'US'
@@ -37,6 +41,7 @@ async function getMovieDetails(id) {
 
   //Append to movie details
   movieDetails.certification = usInfo.release_dates[0].certification;
+  movieDetails.starring = starringInfo.cast.slice(0, 4);
 
   // See if showtimes for film exist and save/return them
   const movieNamePath = `./showtimes/${movieDetails.id}.json`;
@@ -59,6 +64,7 @@ async function getDbConfig() {
   const config = await fetchFilmDetails(url);
 
   posterURL = config.images.secure_base_url + config.images.backdrop_sizes[0];
+  console.log(config.images);
 }
 
 if (fs.existsSync(nowPlayingPath)) {
@@ -74,8 +80,12 @@ if (fs.existsSync(nowPlayingPath)) {
 
 getDbConfig();
 
+// testFunction();
+
 app.use(cors());
 app.use(express.json());
+app.use(express.static('public'));
+app.use('/images', express.static('images'));
 
 app.get('/now-playing', (req, res) => {
   res.send(filmResults);
@@ -85,10 +95,24 @@ app.get('/poster-url', (req, res) => {
   res.send({ poster: posterURL });
 });
 
+app.get('/get-all-tokens', async (req, res) => {
+  console.log('get all the movie tokens we have so far');
+  const fileList = fs.readdirSync('./public/images');
+  res.send({ tokens: fileList });
+});
+
 app.post('/movie-details', async (req, res) => {
   const [movieDetails, showtimes] = await getMovieDetails(req.body.id);
 
   res.send([movieDetails, showtimes]);
+});
+
+app.post('/survey-results', async (req, res) => {
+  const { answers, id, posterURL } = req.body;
+
+  const imageURL = posterURL.replace('w300', 'w780');
+  const outputPath = await generator(answers, id, imageURL);
+  res.send({ token: outputPath });
 });
 
 app.listen(port, () => {
