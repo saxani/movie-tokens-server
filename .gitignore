@@ -2,10 +2,6 @@
 node_modules/
 package-lock.json
 
-# images
-image_generation/input_posters/
-public/images/** */
-
 # Expo
 .expo/
 dist/
