@@ -5,6 +5,8 @@ const fs = require('fs');
 const { client, Status, RemixControl, RemixStyle } = require('imaginesdk');
 const IMAGINE_AUTH = process.env.IMAGINE_AUTH;
 
+// Helper function to download the movie poster if it's not already
+// Needed for the gen AI call
 async function downloadImage(url, id) {
   const filepath = `./image_generation/input_posters/${id}.jpg`;
 
@@ -28,7 +30,7 @@ async function downloadImage(url, id) {
 }
 
 const generator = async (answers, id, posterPath) => {
-  const prompt = `A movie poster that is ${answers[0]} and ${answers[1]} Remake in a ${answers[3]} style.`;
+  const prompt = `A movie poster that is ${answers[0]} and ${answers[1]} Remake in a ${answers[2]} style.`;
   const imagine = client(IMAGINE_AUTH);
 
   const rawImagePath = await downloadImage(posterPath, id);
@@ -59,18 +61,5 @@ const generator = async (answers, id, posterPath) => {
 
   return outputPath;
 };
-
-async function testFunction() {
-  const id = '1022789';
-  const prompt =
-    'Fun, laughter, in my brain, colourful. Remake in a retro style.';
-
-  const remote_url =
-    'http://image.tmdb.org/t/p/w300/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg';
-
-  const outputPath = await generator(prompt, id, remote_url);
-  console.log('done');
-  console.log(outputPath);
-}
 
 module.exports = { generator };

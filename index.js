@@ -12,6 +12,8 @@ const app = new express();
 let filmResults;
 let posterURL;
 
+// Rather than downloading all the now playing films, do it once and put them here
+// Would actually check this every day
 const nowPlayingPath = './now_playing/nowplaying.json';
 
 const readFile = (path) =>
@@ -23,6 +25,7 @@ const readFile = (path) =>
     })
   );
 
+// Need three different API calls to get the basic details :(
 async function getMovieDetails(id) {
   let showtimes = null;
   const detailsURL = `https://api.themoviedb.org/3/movie/${id}?language=en-US`;
@@ -46,6 +49,7 @@ async function getMovieDetails(id) {
   // See if showtimes for film exist and save/return them
   const movieNamePath = `./showtimes/${movieDetails.id}.json`;
 
+  // Get movie times if they're saved
   if (fs.existsSync(movieNamePath)) {
     console.log(`The file or directory at '${movieNamePath}' exists.`);
     const data = await readFile(movieNamePath);
@@ -79,10 +83,10 @@ if (fs.existsSync(nowPlayingPath)) {
 
 getDbConfig();
 
-// testFunction();
-
 app.use(cors());
 app.use(express.json());
+
+// Serve up images of the tokens so they don't need to be downloaded to phones
 app.use(express.static('public'));
 app.use('/images', express.static('images'));
 
@@ -109,9 +113,12 @@ app.post('/movie-details', async (req, res) => {
 
 app.post('/survey-results', async (req, res) => {
   const { answers, id, posterURL } = req.body;
+  console.log('Got new token request from client');
+  console.log(req.body);
 
   const imageURL = posterURL.replace('w300', 'w780');
   const outputPath = await generator(answers, id, imageURL);
+  console.log('Got new token back from API: ' + outputPath);
   res.send({ token: outputPath });
 });
 
