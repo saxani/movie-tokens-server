@@ -9,6 +9,7 @@ async function downloadImage(url, id) {
   const filepath = `./image_generation/input_posters/${id}.jpg`;
 
   if (fs.existsSync(filepath)) {
+    console.log('File already at: ' + filepath);
     return filepath;
   }
 
@@ -28,11 +29,11 @@ async function downloadImage(url, id) {
 }
 
 const generator = async (answers, id, posterPath) => {
-  const prompt = `A movie poster that is ${answers[0]} and ${answers[1]} Remake in a ${answers[3]} style.`;
+  const prompt = `A movie poster that is ${answers[0]} and ${answers[1]}. Remake in a ${answers[2]} style.`;
   const imagine = client(IMAGINE_AUTH);
 
   const rawImagePath = await downloadImage(posterPath, id);
-  let outputPath;
+  let outputFile;
 
   const response = await imagine.remix(
     prompt,
@@ -50,14 +51,18 @@ const generator = async (answers, id, posterPath) => {
   if (response.status() === Status.OK) {
     const image = response.data();
     const timestamp = Date.now();
-    outputPath = `${id}_${timestamp}.png`;
+    outputFile = `${id}_${timestamp}.png`;
+    const fullPath = `./public/images/${outputFile}`;
 
-    if (image) image.asFile(`./public/images/${outputPath}`);
+    console.log('Got file back from Imagine API');
+    console.log('Should be here: ' + fullPath);
+
+    if (image) image.asFile(fullPath);
   } else {
     console.log(`Status Code: ${response.status()}`);
   }
 
-  return outputPath;
+  return outputFile;
 };
 
 async function testFunction() {

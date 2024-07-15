@@ -110,8 +110,12 @@ app.post('/movie-details', async (req, res) => {
 app.post('/survey-results', async (req, res) => {
   const { answers, id, posterURL } = req.body;
 
+  console.log('got survey results, sending details to make token');
+  console.log(req.body);
+
   const imageURL = posterURL.replace('w300', 'w780');
   const outputPath = await generator(answers, id, imageURL);
+  console.log('got back from imagine api, should be at: ' + outputPath);
   res.send({ token: outputPath });
 });
 
